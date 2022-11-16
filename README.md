@@ -51,7 +51,7 @@
   - [Credits and Thanks](#credits-and-thanks)
 
 ## What is ElmoRim?  
-ElmoRim is a **compact**, **performance friendly** list that enhances rather than expands Skyrim. The list offers a **improved visuals**, **modernized combat** and **increased immersion**. The list caters to those who want to play *Skyrim* and nothing else, just in year 2022. As such, the list does away with complex new mechanics and massive content additions and instead improves what is already there.
+ElmoRim is a **compact**, **performance friendly** list that enhances rather than expands Skyrim. The list offers **improved visuals**, **modernized combat** and **increased immersion**. The list caters to those who want to play *Skyrim*, and nothing else, in the year 2022. As such, the list does away with complex new mechanics and massive content additions and instead improves what is already there.
 
 ## Feature Overview
 ElmoRim consists of around 600 mods. This overview provides an idea of what to expect from the list.
@@ -59,7 +59,7 @@ ElmoRim consists of around 600 mods. This overview provides an idea of what to e
 |     :---:    |     :---:     |
 | **Visuals**   | Skyland AIO, Modular Armory, Patrician ENB |  
 | **Combat**    | MCO, Valhalla, Precision, Valravn    |
-| **RPG Elements** | SimonRim, Experience, ElmoRim Lite Needs|
+| **RPG Elements** | SimonRim, Experience, ElmoRim Lite Needs*|
 | **Quests**    | Skyrim Unbound, JaySerpa's Quest Expansion-series     |
 | **Immersion** | Animated interactions, EVGAT, Animated Eating Redux|
 | **Audio**| AOS, ISC, Regional Sounds Expansion, YAMM|
@@ -67,7 +67,7 @@ ElmoRim consists of around 600 mods. This overview provides an idea of what to e
 | **New lands** | Nope |
 |**Followers**| Nope|
 | **NSFW** | Nope |
-
+    *Not a mod but a combination of features from several mods. Read on to find out more.
 The full modlist can be viewed [here](123).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
@@ -152,8 +152,8 @@ Downloading and installing ElmoRim can take a while depending on your internet c
 5. Press the play button to begin.
 7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
-Sometimes the SkyrimGuild website also runs into issues so I suggest downloading these in advanced as well.
-- [ADXP 1.4.3](https://www.skyrim-guild.com/s/ADXP-Beta-143.zip)
+Sometimes the SkyrimGuild website runs into issues so I suggest downloading these in advance as well.
+- [Attack - MCO 1.5.1](https://www.skyrim-guild.com/s/ADXP-Beta-143.zip)
 - [Impactful Blocking](https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar)
 
 ### Problems with installation
@@ -248,8 +248,14 @@ With two notable exceptions, ElmoRim stays true to vanilla gameplay. As such, an
 ***ElmoRim Lite Survival***
 Elmorim comes with a unique setup for survival elemets, seamlessly integrated into the general gameplay. 
 
-**Sleep**: The mod [Incremental Injuries](link) introduces the need to sleep organically by reducing Total Magicka/Health/Stamina as they are spent. 
+**Sleep**: The mod [Incremental Injuries](link) introduces the need to sleep organically by reducing total Magicka/Health/Stamina as they are spent. 
 They are restored by sleeping 6+ hours in-game. 
+
+**Eat/Drink**: The mod [Apothecary - Food and Drink Addon](link) alters food and drink to give long lasting passive regeneration buffs. The buffs are very well balanced to incentivize eating and drinking regularly without making the buffs OP.
+
+**Cold**: The cold system from [Sunhelm - Survival and Needs](link) is used to reward preparation. Other Sunhelm mechanics are disabled.
+
+**Camping**: [Camping Lite](link) is an excellent, lightweight mod that provides an option for pitching a tent & lighting a fire for warmth/cooking. 
 
 ### In-Game MCM options
 
