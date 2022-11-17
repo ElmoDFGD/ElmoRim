@@ -7,6 +7,8 @@
 
 * NGIO + Grass cache setup
 * Get permission from Phoenix to distribute LoTF morehud preset
+* MO2 Splash
+* Port from ElmoRim 5
 
 ## DD
 
