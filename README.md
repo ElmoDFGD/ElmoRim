@@ -332,3 +332,4 @@ Simply delete the folder, and you have uninstalled it.
 - _YOU_ for reading this.
 - Noggog for Mutagen and the xEdit team for xEdit and their tools.
 - Halgari and the WJ Team for this amazing platform.
+- aljoxo for letting me use his README.md as a template. 
