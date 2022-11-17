@@ -2,13 +2,13 @@
 ## 2d0
 
 * Pagefile
-* [Nemesis comp mode](https://www.reddit.com/r/skyrimmods/comments/pgvwz9/psa_for_those_of_you_getting_nemesis_unlimited/) (Also xLODGen and DynDOLOD)  
 * Complete relevant steps of https://github.com/The-Animonculory/Modding-Resources/blob/main/Stock%20Game%20Setup.md
 
 * NGIO + Grass cache setup
 * Get permission from Phoenix to distribute LoTF morehud preset
 * MO2 Splash
 * Port from ElmoRim 5
+* Get permission from Phoenix to distribute Appearance-Separator mods
 
 ## DD
 
@@ -73,3 +73,5 @@ Created Tweaks-Separator + installed mods
 Created Interface-Separator + installed mods  
 Added SynOblivionInteractionIcons Synthesis Patch  
 Created Controls-Separator + installed mods  
+Set Nemesis, DynDOLOD and xLODGen executables to run in Win 8 Comp.mode
+Ported Appearance-Separator in its entirety from ElmoRim 5
