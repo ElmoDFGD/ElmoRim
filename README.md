@@ -61,7 +61,6 @@ ElmoRim consists of around 600 mods. This overview provides an idea of what to e
     *Not a mod but a combination of features from several mods. Read on to find out more.
 The full modlist can be viewed [here](123).
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 ## System Requirements
 
@@ -143,10 +142,6 @@ Downloading and installing ElmoRim can take a while depending on your internet c
 5. Press the play button to begin.
 7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
-Sometimes the SkyrimGuild website runs into issues so I suggest downloading these in advance as well.
-- [Attack - MCO 1.5.1](https://www.skyrim-guild.com/s/ADXP-Beta-143.zip)
-- [Impactful Blocking](https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar)
-
 ### Problems with installation
 
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
@@ -192,16 +187,15 @@ ElmoRim offers some mods to provide (potential) Ultrawide and Widescreen Support
 
 **IN ORDER FOR THESE FIXES TO WORK YOU NEED TO DO THE FOLLOWING**
  1. Search for **Nordic UI XXX Patch** (XXX being the "21 by 9" or "32 by 9" depending on your screen resolution) in the left pane of MO2 and delete or hide the following files:  
-    a. /interface/tweenmenu.swf  
- 2. Search for **SunHelm Survival** in the left pane of MO2 and delete or hide the following files:  
+
     a. /interface/skyui/bottombar.swf  
     b. /interface/skyui/itemcard.swf  
- 3. Search for **Experience** in the left pane of MO2 and delete or hide the following files:  
+ 2. Search for **Experience** in the left pane of MO2 and delete or hide the following files:  
     a. /interface/statsmenu.swf  
- 4. Search for **Compass Navigation Overhaul** in the left pane of MO2 and open the .ini file, `CompassNavigationOverhaul.ini` and edit the following line(s):  
+ 3. Search for **Compass Navigation Overhaul** in the left pane of MO2 and open the .ini file, `CompassNavigationOverhaul.ini` and edit the following line(s):  
     a. PositionX=-0.127  
 ![](https://github.com/aljoxo/ElmoRim/blob/main/Media/CNO%20UW%201.png)
- 5. Once in game, navigate to the *TrueHUD* MCM Menu, and change the following values:
+ 4. Once in game, navigate to the *TrueHUD* MCM Menu, and change the following values:
  ![](https://github.com/aljoxo/ElmoRim/blob/main/Media/TrueHUD%20UW%201.png)
  ![](https://github.com/aljoxo/ElmoRim/blob/main/Media/TrueHUD%20UW%202.png)
 
@@ -250,7 +244,7 @@ They are restored by sleeping 6+ hours in-game.
 
 ### In-Game MCM options
 
- - **Skyrim Unbound**: Choose your Standing Stone, starting location, starting equipment, starting wealth, etc. By default, the player is set to become Dragonborn, so if you do not want that for some reason, turn it off. **I highly suggest against choosing to not become Dragonborn, as it will lock you out of a lot of content within the list.**
+ - **Skyrim Unbound**: Choose your Standing Stone, starting location, starting equipment, starting wealth, etc. By default, the player is set to become Dragonborn, so if you do not want that for some reason, turn it off. 
      - Dragons by default are set to appear after 7 to 21 days, and will appear at word walls before appearing in the wild. If you wish to make them spawn faster/slower/instantly or want to make them spawn based on level instead, you can change it here.
  - **Better Third Person Selection**: Enables the filters to reduce the possibility that the player character accidentally steals items when trying to interact with the world. Turn these filters off if you do not like them.
  - **Favourite Howls Menu**: Customize which powers will be in your favorites menu (for werewolves).
@@ -267,7 +261,7 @@ They are restored by sleeping 6+ hours in-game.
     - Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them to your liking. Please note that dTry's Exhaustion system is disabled due to causing enemy aggression problems and it was decided it would be better if it was off.
     - Timed Block: You can enable or disable the *Tackle* mechanic (Default: `enabled`).
     - Stun&Execution: By default the list disables dTry's stun system as it is not well balanced right now.
-    - Compatibility: Please **do not** enable the Poise compatibility option. While the list does use Poise, due to the DAR setup and witchcraft we have done to make it play nicely, enabling this compatibility option breaks the setup. If you previously changed your *Dual Wield Block* keybind in **Dual Wield Block** MCM, then please also change it here. 
+    - Compatibility: Please **do not** enable the Poise compatibility option. While the list does use Poise, due to the DAR setup and witchcraft we have done to make it play nicely, enabling this compatibility option breaks the setup. 
       - *TrueHUD API* should say "Not Obtained" next to it, this is due to disabling the Stun System. 
       - If *Special Meter Control* says "Not Obtained", do not worry about this. As of current the Stun System is disabled due to balancing reasons.
 
@@ -289,16 +283,13 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 *Please make sure you back up your saves if you plan on continuing a playthrough across a **save safe** update.*
 
-## FAQ
-
-#### Q: Should I be worried about the Form 43 Error in MO2?  
-A: The ["Form 43" warning](https://cdn.discordapp.com/attachments/853785456609329174/1018924398461337731/unknown.png) in the notifications section in the top right of MO2 is completely normal and can be safely ignored. It is a result of Distar not flagging ADXP as the correct Form and because it does not cause any issues, it was ignored.  
+## FAQ 
 
 #### Q: I can't level up, what do I do?  
 A: You have Sleep to level up enabled, go sleep in a bed or disable it through Survival Control Panel.
 
 #### Q: How do I start the main questline?  
-A: If you have chosen to be Dragonborn in the Skyrim Unbound MCM settings, then upon killing your first dragon, you will be summoned by the Greybeards. If you have chosen to not be the Dragonborn, then you can not proceed with the main questline, doing so will also lock you out of a fair amount of content in the list due to the way quest progression is setup.
+A: If you have chosen to be Dragonborn in the Skyrim Unbound MCM settings, then upon killing your first dragon, you will be summoned by the Greybeards. If you have chosen to not be the Dragonborn, then you can not proceed with the main questline.
 
 #### Q: When do dragons start spawning?  
 A: By default, dragons are set to be delayed in their spawns from 7 to 21 days after you leave the starting room. By default, dragons will begin showing up at their Word Walls before you will encounter them in the wild.
@@ -315,8 +306,8 @@ A: Disable the `Contextual Crosshair` mod, under the "Heads Up Display (HUD)" Se
 
 To get some more FPS, tweak the following value in the detail section in BethINI.
 
-- `Shadow Resolution`: 2048
-- `Ambient Occlusion`: Either use this or the ENB version. The ENB version is more intensive. Do not have both turned on.
+- `Shadow Resolution`: 1024
+- `Grass Density`: 60
 - `Remove Shadows`: I really don’t recommend turning this on, but if you must, then you can.
 
 If you want to tweak your ENB to improve performance, consider looking at Annakin's [ENB Tips](https://github.com/The-Animonculory/Modding-Resources/blob/main/ENB%20Tips.md) guide. 
