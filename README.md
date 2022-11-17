@@ -1,6 +1,6 @@
 # ElmoRim
  
-> Add new image
+![](https://staticdelivery.nexusmods.com/mods/1704/images/77787/77787-1666950756-1857011084.png)
 
 
 # <ins>**NO CC-content required**<ins>
