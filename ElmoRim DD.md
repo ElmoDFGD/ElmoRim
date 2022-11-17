@@ -3,12 +3,10 @@
 
 * Pagefile
 * [Nemesis comp mode](https://www.reddit.com/r/skyrimmods/comments/pgvwz9/psa_for_those_of_you_getting_nemesis_unlimited/) (Also xLODGen and DynDOLOD)  
+* Complete relevant steps of https://github.com/The-Animonculory/Modding-Resources/blob/main/Stock%20Game%20Setup.md
 
-++++2d0++++
-Complete relevant steps of https://github.com/The-Animonculory/Modding-Resources/blob/main/Stock%20Game%20Setup.md
-
-NGIO + Grass cache setup
-Get permission from Phoenix to distribute LoTF morehud preset
+* NGIO + Grass cache setup
+* Get permission from Phoenix to distribute LoTF morehud preset
 
 ## DD
 
