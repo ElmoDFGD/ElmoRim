@@ -1,14 +1,15 @@
-# **====ElmoRim Wabbajack Dev-Diary======**
+# **ElmoRim Wabbajack Dev-Diary**
 ## 2d0
 
 * Pagefile
 * Complete relevant steps of https://github.com/The-Animonculory/Modding-Resources/blob/main/Stock%20Game%20Setup.md
-
 * NGIO + Grass cache setup
 * Get permission from Phoenix to distribute LoTF morehud preset
 * MO2 Splash
 * Port from ElmoRim 5
 * Get permission from Phoenix to distribute Appearance-Separator mods
+* Reinstall Misc dialogue edits for AYOP patches
+* Test Scion - Dawnguard TaE conflict
 
 ## DD
 
@@ -53,7 +54,7 @@ Learned Basic Git
 Created ElmoDFGD GitHub account  
 Created ElmoRim repo  
 Learned to edit .md-files  
-Tweaked Arisen WJ README.md to ElmoRim  
+Tweaked [Arisen](https://github.com/aljoxo/Arisen) WJ README to ElmoRim  
 Created ElmoRim Profile  
 Removed Default Profile  
 Installed Bethini + meta to ./Tools  
@@ -65,7 +66,8 @@ Installed Plugin Sync plugin
 Added shortcuts to MO2 toolbar  
 Created Visual Baseline-Separator  
 Created Mesh Improvements-Separator  
-Created Sound & Music-Separator  
+Created Sound-Separartor  
+Created Music-Separator    
 Created VFX-Separator  
 Created Environment-Separator  
 Created Fixes-Separator + installed mods  
@@ -74,4 +76,12 @@ Created Interface-Separator + installed mods
 Added SynOblivionInteractionIcons Synthesis Patch  
 Created Controls-Separator + installed mods  
 Set Nemesis, DynDOLOD and xLODGen executables to run in Win 8 Comp.mode
-Ported Appearance-Separator in its entirety from ElmoRim 5
+Ported Appearance-Separator in its entirety from ElmoRim 5  
+Added Tavern AI Fix commands to Autorun  
+Created Gameplay-separator + installed mods
+Added fBookOpenTime=200 to [Interface] in skyrim.ini
+Created QoL-Separator + installed mods
+Created Animations-Separator + installed mods
+Created Loot, Gear & Encounters-Separator + installed mods
+Created SimonRim-Separator + installed mods
+

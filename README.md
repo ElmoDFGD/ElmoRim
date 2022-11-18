@@ -42,7 +42,7 @@
   - [Credits and Thanks](#credits-and-thanks)
 
 ## What is ElmoRim?  
-ElmoRim is a **compact**, **performance friendly** list that enhances rather than expands Skyrim. The list offers **improved visuals**, **modernized combat** and **increased immersion**. The list caters to those who want to play *Skyrim*, and nothing else, in the year 2022. As such, the list does away with complex new mechanics and massive content additions and instead improves what is already there.
+ElmoRim is a **compact**, **performance friendly** list for those who want to play *Skyrim*, and nothing else, in the year 2022.  The list offers **improved visuals**, **modernized combat** and **increased immersion** that enhances rather than expands Skyrim. As such, the list does away with complex new mechanics and massive content additions and instead improves what is already there.
 
 ## Feature Overview
 ElmoRim consists of around 600 mods. This overview provides an idea of what to expect from the list.
