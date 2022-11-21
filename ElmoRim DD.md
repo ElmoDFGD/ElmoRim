@@ -1,16 +1,13 @@
 # **ElmoRim Wabbajack Dev-Diary**
 ## 2d0
 
-* Pagefile
-* Complete relevant steps of https://github.com/The-Animonculory/Modding-Resources/blob/main/Stock%20Game%20Setup.md
-* NGIO + Grass cache setup
-* Get permission from Phoenix to distribute LoTF morehud preset
-* MO2 Splash
-* Port from ElmoRim 5
-* Get permission from Phoenix to distribute Appearance-Separator mods
-* Reinstall Misc dialogue edits for AYOP patches
 * Test Scion - Dawnguard TaE conflict
-
+* CCARA/EVG Solas patch
+* High Level Enemies Redux & Heritage Enemies 2
+* Add win8 comp instructions do readme
+* Add AA instructions
+* Facegen
+* Btps torch selection
 ## DD
 
 ----0.0.1----
@@ -84,4 +81,19 @@ Created QoL-Separator + installed mods
 Created Animations-Separator + installed mods
 Created Loot, Gear & Encounters-Separator + installed mods
 Created SimonRim-Separator + installed mods
-
+Created Combat-Separator + installed mods
+Added fInAirFallingCharGravityMult=1.8 to [HAVOK] in skyrim.ini
+Added fControllerBufferDepth=0.01 to [CONTROLS] in skyrim.ini
+Added Late Loaders-Separator
+Ported ElmoRim CRP
+Added WABBAJACK_NOMATCH_INCLUDE tagfile to ./Game Root/enbcache
+Added WABBAJACK_IGNORE tagfile to ./Tools/_tmp
+Added Map-Separator + installed mods
+Configured grass cache settings (modpage + script to list relevant worldspaces)
+Tweaked inis and nvidia control panel settings according to Patrician ENB instructions
+Created Patrician ENB-Separator + installed mods
+Edited meta files to show tools as installed
+set bVATSDisable = 1
+Set ElmoRim to play in fullscreen.
+Activated NIS in Gefore Experience (75% Scaling)
+Activated Sharpening in Geforce Control Panel (50%)

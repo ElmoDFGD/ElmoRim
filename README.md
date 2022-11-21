@@ -49,9 +49,9 @@ ElmoRim consists of around 600 mods. This overview provides an idea of what to e
 | Feature | Core Mods |
 |     :---:    |     :---:     |
 | **Visuals**   | Skyland AIO, Modular Armory, Patrician ENB |  
-| **Combat**    | MCO, Valhalla, Precision, Valravn    |
-| **RPG Elements** | SimonRim, Experience, ElmoRim Lite Needs*|
-| **Quests**    | Skyrim Unbound, JaySerpa's Quest Expansion-series     |
+| **Combat**    | MCO, Valhalla Combat, Precision, Valravn    |
+| **RPG Elements** | SimonRim, Experience, ElmoRim Lite Survival*|
+| **Quests**    | Skyrim Unbound, JaySerpa's Quest Expansion-series, At Your Own Pace     |
 | **Immersion** | Animated interactions, EVGAT, Animated Eating Redux|
 | **Audio**| AOS, ISC, Regional Sounds Expansion, YAMM|
 |**UI**| Untarnished UI, BTPS|
@@ -103,7 +103,7 @@ To set up your pagefile:
 
 ## Installation
 
-Installing ElmoRim is easy and, especially if you have Nexus Premium account.
+Installing ElmoRim is easy, especially if you have Nexus Premium account.
 
 ### Pre-Installation
 
@@ -128,7 +128,7 @@ Prior to installing ElmoRim, please complete the following steps.
 
 #### Installing Wabbajack
 
-Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) on this github and place it in a folder such as `C:\Wabbajack`. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**. I recommend placing it on an SSD as it will work quicker on there.
+Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) on this github and place it in a folder such as `C:\Wabbajack`. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**. I recommend placing it on an SSD.
 
 #### Downloading and Installing 
 
@@ -200,9 +200,9 @@ ElmoRim offers some mods to provide (potential) Ultrawide and Widescreen Support
  ![](https://github.com/aljoxo/ElmoRim/blob/main/Media/TrueHUD%20UW%202.png)
 
 ### Documentation
-[Changelog](link)
-[Modlist](link)
-[Roadmap](link)
+[Changelog](link)  
+[Modlist](link)  
+[Roadmap](link)  
 ## Playing the List
 
 ### Obligatory DAR Cache warning: due to the nature of this list and the amount of DAR based animations it uses, it does take some time (usually 15-30 seconds) at the start of each play session for DAR to cache all the folders and animations. While cleaning up the folder setup to try and alleviate this issue is a long term goal for the list, please do realize that this issue is out of our control as it is an issue with DAR itself since it does not allow for pre-cacheing animations via Nemesis or during loading screens. If you complain about this in the discord, on nexus, or on the github page, you will be linked back here.
@@ -236,7 +236,7 @@ Elmorim comes with a unique setup for survival elemets, seamlessly integrated in
 **Sleep**: The mod [Incremental Injuries](link) introduces the need to sleep organically by reducing total Magicka/Health/Stamina as they are spent. 
 They are restored by sleeping 6+ hours in-game. 
 
-**Eat/Drink**: The mod [Apothecary - Food and Drink Addon](link) alters food and drink to give long lasting passive regeneration buffs. The buffs are very well balanced to incentivize eating and drinking regularly without making the buffs OP.
+**Eat/Drink**: The mod [Apothecary - Food and Drink Addon](link) alters food and drink to give long lasting, passive regeneration buffs. The buffs are very well balanced to incentivize eating and drinking regularly without making the buffs OP.
 
 **Cold**: The cold system from [Sunhelm - Survival and Needs](link) is used to reward preparation. Other Sunhelm mechanics are disabled.
 
@@ -254,16 +254,14 @@ They are restored by sleeping 6+ hours in-game.
  - **Optimal Potion Hotkey**: Change your *Health potion hotkey* (Default: `H`). Add a hotkey for stamina/magicka potions.
  - **Simplest Horses**: Change your *Horse Control hotkey* here (Default: `V`).
  - **SmoothCam**: By default the list uses [Adventurer's Preset](link).
- - **SunHelm**: Only Cold enabled as part of the ElmoRim Lite Survival setup.
+ - **SunHelm**: Go to ***Profiles>Browse.*** Select the ElmoRim Profile. Press Load. Next, go to ***General settings>Hotkeys>Enable/Disable powers*** to remove the redundant spells added by Sunhelm.
  - **Survival Control Panel**: Optionally disable Sleep to level up.   
  - **True Directional Movement**: Change your *Target Lock* keybind here.
  - **Valhalla Combat**: The core of the combat balance in the list. 
     - Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them to your liking. Please note that dTry's Exhaustion system is disabled due to causing enemy aggression problems and it was decided it would be better if it was off.
     - Timed Block: You can enable or disable the *Tackle* mechanic (Default: `enabled`).
     - Stun&Execution: By default the list disables dTry's stun system as it is not well balanced right now.
-    - Compatibility: Please **do not** enable the Poise compatibility option. While the list does use Poise, due to the DAR setup and witchcraft we have done to make it play nicely, enabling this compatibility option breaks the setup. 
       - *TrueHUD API* should say "Not Obtained" next to it, this is due to disabling the Stun System. 
-      - If *Special Meter Control* says "Not Obtained", do not worry about this. As of current the Stun System is disabled due to balancing reasons.
 
 ### Anniversary Edition
 
@@ -332,4 +330,4 @@ Simply delete the folder, and you have uninstalled it.
 - _YOU_ for reading this.
 - Noggog for Mutagen and the xEdit team for xEdit and their tools.
 - Halgari and the WJ Team for this amazing platform.
-- aljoxo for letting me use his README.md as a template. 
+- aljoxo for letting me use the Arisen README.md as a template. 
