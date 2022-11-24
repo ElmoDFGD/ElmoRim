@@ -81,10 +81,10 @@ The list was developed on an upper-mid tier laptop with the following specs:
 
 | Spec Category | Default Profile |
 |     :---:    |     :---:     |
-| **CPU**   | R7 3700x / i5 10600k |  
-| **Video Card**    | RTX 3060 Ti / RTX 2070 / RX 6700 XT       |
-| **Ram**    | 16gb (2x16) DDR4 3200mhz RAM     |
-| **Storage**    | SATA SSD     |
+| **CPU**   | AMD Ryzen 7 5800H |  
+| **Video Card**    | Nvidia RTX 3070       |
+| **Ram**    | 16GB     |
+| **Storage**    |  SSD     |
 
 With these specs the game runs at 60fps@1080p and around 45fps@1440p (in exteriors, 60 fps in interiors).
 
