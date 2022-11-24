@@ -230,7 +230,7 @@ ElmoRim features mods that provide (potential) Ultrawide and Widescreen Support.
 
 ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim should be able to jump right in and start playing after reading about the changes listed below:
 
- ##### ElmoRim Control scheme
+ #### ElmoRim Control scheme
   - The ElmoRim keyboard control scheme might seem a bit unorthodox at a glance. It is inspired by the excellent [Streamlined Skyrim](https://github.com/TerribleBrad/Streamlined-Skyrim/blob/main/README.md) and offers a compact layout. While it certainly can be modified, it is suggested that users give it a try. Much thought has gone into tweaking controls to allow quick and easy access to all necessary actions.  
 
   - ElmoRim features mods that support playing with a controller. However, no pre-configured control scheme is provided and users are encouraged to create their own setup.
@@ -238,8 +238,7 @@ ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim
   ![](https://user-images.githubusercontent.com/118224262/203798608-b3ff4000-b3e0-422e-8159-1afaa94cee59.jpg) 
   
   ![](https://user-images.githubusercontent.com/118224262/203798474-0566bb92-4e11-4baf-9176-074f33738566.png).
-
-
+  
   #### Elden Equip
   Ipsum
 
