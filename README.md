@@ -273,41 +273,47 @@ Elmorim comes with a unique setup for survival elements, seamlessly integrated i
 #### Simplest Horses
 The best mod for horse management in Skyrim. [Simplest Horses](https://www.nexusmods.com/skyrimspecialedition/mods/54225) gives the player the ability to have the horse follow/wait and open stash items with a single button. If the crosshair is aimed at the horse, pressing the button opens the horses inventory. Otherwise it triggers the horse whistle, telling the horse to wait/follow.
 ### MCM Customization
-Almost all of ElmoRim's MCM menus are pre-configured. This section outlines the few mandatory manual tweaks that are required, as well as a few optional ones.
-#### **Mandatory**
+Almost all of ElmoRim's MCM menus are pre-configured. This section outlines the few mandatory manual tweaks that are required and lists a few optional ones.
+#### Mandatory
 
-#### **Optional**
-**Skyrim Unbound**
+*SunHelm*: Disable powers under *General>Enable/Disable powers*. Only Sunhelms Cold system is enabled as part of the ElmoRim Lite Survival setup. 
+
+*Valravn*: Disable (or set to 0) everything except *Attacks of Opportunity* and *Bow Stamina Cost*.
+
+Image
+
+*Incremental Gains*: Set Soft Cap Base to 125.
+
+#### Optional
+*Skyrim Unbound*
 Dragons are set to appear after 7 to 21 days by default. They will appear at word walls before appearing in the wild. They can be configured to spawn faster/slower/instantly or spawn based on level instead.
  
- **Better Third Person Selection**
+ *Better Third Person Selection*
  Enable/disable the filters that prevent the player from accidentally stealing items when trying to interact with the world.
  
- **Favourite Howls Menu**
+ *Favourite Howls Menu*
  Customize which powers will be in the favorites menu (for werewolves).
  
- **Hide Your Quests**
+ *Hide Your Quests*
   Allows filtering quests from the journal (not useful on startup, obviously).
  
- **Improved Alternate Conversation Camera**
-  Tweak the dialogue camera here. Notable settings include *Switch Target* (for Witcher-Style Dialogue Camera), *Force Third/First Person* and *Camera Offsets*.
+ *Improved Alternate Conversation Camera*
+  Tweak the dialogue camera. Notable settings include *Switch Target* (for Witcher-Style Dialogue Camera), *Force Third/First Person* and *Camera Offsets*.
  
- **Optimal Potion Hotkey**
+ *Optimal Potion Hotkey*
 Customize *Health potion hotkey* (Default: `H`). Add a hotkey for stamina/magicka potions.
 
-**Simplest Horse**
- Customize *Horse Control hotkey* here (Default: `V`).
+*Simplest Horses*
+ Customize *Horse Control hotkey*(Default: `V`).
   
-**SmoothCam**
+*SmoothCam*
 By default the list uses [Adventurer's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/59997).
 
-**SunHelm**: Only Cold enabled as part of the ElmoRim Lite Survival setup.
+*Survival Control Panel*: Optionally disable *Sleep to level up*.   
 
-**Survival Control Panel**: Optionally disable *Sleep to level up*.   
+*True Directional Movement*: Customize *Target Lock* keybind here.
 
-**True Directional Movement**: Customize *Target Lock* keybind here.
-
-**Valhalla Combat**
+*Valhalla Combat*
 The core of the combat balance in the list. 
   * Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them. 
   * Timed Block: Enable or disable the *Tackle* mechanic (Default: `Disabled`).
