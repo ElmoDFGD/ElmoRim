@@ -16,6 +16,10 @@
 * soft cap incre.gains instr
 * crafting kit instr
 * backpack instr (incl penalty)
+* Facegen
+* Btps torch selection
+* Favourite Howls Menu
+* Fix ToC in Readme
 ## DD
 
 ----0.0.1----
