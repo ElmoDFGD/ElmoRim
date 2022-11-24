@@ -60,7 +60,7 @@ ElmoRim consists of around 600 mods. This overview provides an idea of what to e
 |**Followers**| Nope|
 | **NSFW** | Nope |
 
->Not a mod but a combination of features from several mods. Read [on](#gameplay-guide) to find out more.
+>*Not a mod but a combination of features from several mods. Read [on](#gameplay-guide) to find out more.
 
 
 
