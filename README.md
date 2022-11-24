@@ -285,33 +285,35 @@ Image
 *Incremental Gains*: Set Soft Cap Base to 125.
 
 #### Optional
-*Skyrim Unbound*
+*Skyrim Unbound*  
 Dragons are set to appear after 7 to 21 days by default. They will appear at word walls before appearing in the wild. They can be configured to spawn faster/slower/instantly or spawn based on level instead.
  
- *Better Third Person Selection*
+ *Better Third Person Selection*  
  Enable/disable the filters that prevent the player from accidentally stealing items when trying to interact with the world.
  
- *Favourite Howls Menu*
+ *Favourite Howls Menu*  
  Customize which powers will be in the favorites menu (for werewolves).
  
- *Hide Your Quests*
+ *Hide Your Quests*  
   Allows filtering quests from the journal (not useful on startup, obviously).
  
- *Improved Alternate Conversation Camera*
+ *Improved Alternate Conversation Camera*  
   Tweak the dialogue camera. Notable settings include *Switch Target* (for Witcher-Style Dialogue Camera), *Force Third/First Person* and *Camera Offsets*.
  
- *Optimal Potion Hotkey*
+ *Optimal Potion Hotkey*  
 Customize *Health potion hotkey* (Default: `H`). Add a hotkey for stamina/magicka potions.
 
-*Simplest Horses*
+*Simplest Horses*  
  Customize *Horse Control hotkey*(Default: `V`).
   
-*SmoothCam*
+*SmoothCam*  
 By default the list uses [Adventurer's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/59997).
 
-*Survival Control Panel*: Optionally disable *Sleep to level up*.   
+*Survival Control Panel*  
+Optionally disable *Sleep to level up*.   
 
-*True Directional Movement*: Customize *Target Lock* keybind here.
+*True Directional Movement*
+Customize *Target Lock* keybind here (Default `MB4`).
 
 *Valhalla Combat*
 The core of the combat balance in the list. 
@@ -324,7 +326,7 @@ The core of the combat balance in the list.
 ## Updating the modlist
 
 Before updating, please check the [changelog](https://github.com/aljoxo/ElmoRim/blob/main/ElmoRimChangelog.md) and back up any saves. A new game may be required after certain updates. To check if an update is save safe or not, refer to the version number. The first digit indicates major version, second digit indicates minor version (these are unlikely to be save safe unless otherwise specified), the third digit will represent bug fixes etc.
-  - wIf the modlist is updated from `1.0.0` to `2.0.0`, then this version is likely a major overhaul of at least one system and **will not** be considered save safe.
+  - If the modlist is updated from `1.0.0` to `2.0.0`, then this version is likely a major overhaul of at least one system and **will not** be considered save safe.
   - If the modlist is updated from `1.0.0` to `1.1.0`, then this version is **not** save safe.
   - If the modlist is updated from `1.0.0` to `1.0.1`, then this version **is** save safe **unless** the changelog states otherwise. In cases where the update is save safe, performing additional steps my be needed to maintain the health of the save. These steps will be provided in the changelog.  
   
