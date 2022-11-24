@@ -257,17 +257,17 @@ It is possible to choose whether or not the player is the Dragonborn and, if the
 #### ElmoRim Lite Survival
 Elmorim comes with a unique setup for survival elements, seamlessly integrated into the general gameplay. 
 
-*Sleep*: The mod [Incremental Injuries](https://www.nexusmods.com/skyrimspecialedition/mods/55114) introduces the need to sleep organically by reducing max Magicka/Health/Stamina as they are spent. They are restored by sleeping 6+ hours in-game. 
+* *Sleep*: The mod [Incremental Injuries](https://www.nexusmods.com/skyrimspecialedition/mods/55114) introduces the need to sleep organically by reducing max Magicka/Health/Stamina as they are spent. They are restored by sleeping 6+ hours in-game. 
 
 By default, ElmoRim also uses the mods [Incremental Gains](https://www.nexusmods.com/skyrimspecialedition/mods/67270) & [Hardcore Level Up - Incremental Gains Addon](https://www.nexusmods.com/skyrimspecialedition/mods/72741) which make max Magicka/Health/Stamina increase by a small amount each time the player sleeps. The attributes increase proportionally to how much they were reduced before sleeping. **Selecting an attribute upon levelling up will now only increase that attribute by one point.** 
 
 `These two mods can be disabled if the vanilla system i preferred.`
 
-*Eating/Drinking*: [Apothecary - Food and Drink Addon](https://www.nexusmods.com/skyrimspecialedition/mods/52130) alters food and drink to give long lasting passive regeneration buffs. The buffs are very well balanced to incentivize eating and drinking regularly without making the buffs OP.
+* *Eating/Drinking*: [Apothecary - Food and Drink Addon](https://www.nexusmods.com/skyrimspecialedition/mods/52130) alters food and drink to give long lasting passive regeneration buffs. The buffs are very well balanced to incentivize eating and drinking regularly without making the buffs OP.
 
-*Cold*: The cold system from [Sunhelm - Survival and Needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414) is used to reward preparation. Other Sunhelm mechanics are disabled.
+* *Cold*: The cold system from [Sunhelm - Survival and Needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414) is used to reward preparation. Other Sunhelm mechanics are disabled.
 
-*Camping*: [Camping Lite](https://www.nexusmods.com/skyrimspecialedition/mods/2370) is a lightweight mod that provides an option for pitching a tent & lighting a fire for warmth/cooking. 
+* *Camping*: [Camping Lite](https://www.nexusmods.com/skyrimspecialedition/mods/2370) is a lightweight mod that provides an option for pitching a tent & lighting a fire for warmth/cooking. 
 
 #### Experience
 [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) changes how levelling works in Skyrim. Instead of player level being tied to skill level, experience is now earned through completing quests, discovering new locations and killing enemies.
