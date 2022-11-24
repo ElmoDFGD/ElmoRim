@@ -189,7 +189,7 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
  3. Go to the Compatibility tab
  4. Under the Compatibility mode section, check the Run in comp.. and choose Windows 8 from the dropdown. 
  5. Click Apply and then OK.
- 6. Repeat steps 1-5 for SSELODGENx64 and DynDOLODx64 (These are located in `Path to Modlist`\tools..)
+ 6. Repeat steps 1-5 for SSELODGenx64 and DynDOLODx64 (These are located in `Path to Modlist`\tools..)
 
 ### Widescreen Fixes
 
