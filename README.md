@@ -27,21 +27,22 @@
     - [In-Game MCM options](#in-game-mcm-options)
     - [Updating the modlist](#updating-the-modlist)
   - [FAQ](#faq)
-
+      - [Q: Why does the list claim to be vanilla when it clearly isn't.](#q-why-does-the-list-claim-to-be-vanilla-when-it-clearly-isnt)
       - [Q: I can't level up, what do I do?](#q-i-cant-level-up-what-do-i-do)
       - [Q: How do I start the main questline?](#q-how-do-i-start-the-main-questline)
       - [Q: When do dragons start spawning?](#q-when-do-dragons-start-spawning)
       - [Q: How do I become the Thane of Whiterun? How do I get Lydia?](#q-how-do-i-become-the-thane-of-whiterun-how-do-i-get-lydia)
       - [Q: How do I enable my crosshair?](#q-how-do-i-enable-my-crosshair)
-      - [Tweaking the Game Settings](#tweaking-the-game-settings)
+  - [Tweaking the Game Settings](#tweaking-the-game-settings)
       - [BethINI](#bethini)
+      - [ENB Settings](#enb-settings)
   - [Documentation](#documentation)
   - [Removing the Modlist](#removing-the-modlist)
   - [Contact](#contact)
   - [Credits and Thanks](#credits-and-thanks)
 
 ## What is ElmoRim?  
-ElmoRim is a **compact**, **performance friendly** list that enhances rather than expands Skyrim. The list offers **improved visuals**, **modernized combat** and **increased immersion** and a unique, lightweight survival setup. 
+ElmoRim is a **compact**, **performance friendly** list that enhances rather than expands Skyrim. The list offers **improved visuals**, **modernized combat**, **increased immersion** and unique, lightweight survival setup. 
 The list caters to those who want to play ***Skyrim in 2022***. A carefully curated selection of tweaks and fixes for the vanilla content allows the player to take full control of their story.
 
 ## Feature Overview
@@ -375,7 +376,8 @@ To quote her, here is a short answer to improve performance with an ENB turned o
 > - Uncheck `EnableBloom`.
 > - Uncheck `EnableDepthofField`.
 > - Uncheck `EnableTessellation` in `WATER`.
-> - Uncheck `ComplexFireLights` and `ComplexFireLights` OR
+> - Uncheck `ComplexFireLights` and `ComplexFireLights` 
+>OR
 >   - Uncheck `EnableBigRange` in these two settings.
 
 To open the editor, press *F11* in-game.
