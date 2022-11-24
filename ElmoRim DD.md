@@ -8,6 +8,7 @@
 * Add AA instructions
 * Facegen
 * Btps torch selection
+* Favourite Howls Menu
 ## DD
 
 ----0.0.1----
