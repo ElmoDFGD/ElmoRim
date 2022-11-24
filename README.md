@@ -210,9 +210,9 @@ ElmoRim offers some mods to provide (potential) Ultrawide and Widescreen Support
  ![](https://github.com/aljoxo/ElmoRim/blob/main/Media/TrueHUD%20UW%202.png)
 
 ### Documentation
-[Changelog](link)
-[Modlist](link)
-[Roadmap](link)
+[Changelog](link)  
+[Modlist](link)  
+[Roadmap](link)  
 ## Playing the List
 
 ### Obligatory DAR Cache warning: due to the nature of this list and the amount of DAR based animations it uses, it does take some time (usually 15-30 seconds) at the start of each play session for DAR to cache all the folders and animations. While cleaning up the folder setup to try and alleviate this issue is a long term goal for the list, please do realize that this issue is out of our control as it is an issue with DAR itself since it does not allow for pre-cacheing animations via Nemesis or during loading screens. If you complain about this in the discord, on nexus, or on the github page, you will be linked back here.
@@ -228,7 +228,7 @@ ElmoRim offers some mods to provide (potential) Ultrawide and Widescreen Support
 
 ### Gameplay Guide
 
-ElmoRim stays true to vanilla gameplay. As such, anyone familiar with Skyrim should be able to jump right in and start playing. The three notable exceptions are:
+ElmoRim stays true to vanilla gameplay. As such, anyone familiar with Skyrim should be able to jump right in and start playing. The notable exceptions are listed below:
 
 ***Skyrim Unbound***
  - ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) as the alternate start mod.
@@ -238,24 +238,27 @@ ElmoRim stays true to vanilla gameplay. As such, anyone familiar with Skyrim sho
         - You may also want to choose whether or not your character is the Dragonborn; and if they are not, whether or not they are able to use shouts.
      - Once you are finished choosing your options for the Alternate Start you desire, hit **Enter** again and choose **Continue**.
  
- ***Read the Control map***
-![](https://github.com/aljoxo/ElmoRim/blob/main/Media/ElmoRim%20Standard%20Keybinds%201.4.png)
-![](https://github.com/aljoxo/ElmoRim/blob/main/Media/ElmoRim_Gamepad_Keymap.png)
+ ***Control map***
+  - The ElmoRim keyboard control scheme might seem a bit unorthodox at a glance. It is inspired by the excellent [Streamlined Skyrim]() and offers a compact layout. While it certainly can modified, it is suggested that users give it a try. Much thought has gone into tweaking controls to allow quick and easy access to all necessary actions.
+  [Keyboard Layout](https://user-images.githubusercontent.com/118224262/203798608-b3ff4000-b3e0-422e-8159-1afaa94cee59.jpg)
+  [Mouse Button Layout](https://user-images.githubusercontent.com/118224262/203798474-0566bb92-4e11-4baf-9176-074f33738566.png)
+
+  - ElmoRim features mods designed to support playing with a controller. However no pre-configured controlscheme is provided and users are encouraged to create theur own setup.
 
 ***ElmoRim Lite Survival***
 Elmorim comes with a unique setup for survival elemets, seamlessly integrated into the general gameplay. 
 
-**Sleep**: The mod [Incremental Injuries](link) introduces the need to sleep organically by reducing total Magicka/Health/Stamina as they are spent. 
+**Sleep**: The mod [Incremental Injuries](https://www.nexusmods.com/skyrimspecialedition/mods/55114) introduces the need to sleep organically by reducing total Magicka/Health/Stamina as they are spent. 
 They are restored by sleeping 6+ hours in-game. 
 
-**Eat/Drink**: The mod [Apothecary - Food and Drink Addon](link) alters food and drink to give long lasting passive regeneration buffs. The buffs are very well balanced to incentivize eating and drinking regularly without making the buffs OP.
+**Eat/Drink**: The mod [Apothecary - Food and Drink Addon](https://www.nexusmods.com/skyrimspecialedition/mods/52130) alters food and drink to give long lasting passive regeneration buffs. The buffs are very well balanced to incentivize eating and drinking regularly without making the buffs OP.
 
-**Cold**: The cold system from [Sunhelm - Survival and Needs](link) is used to reward preparation. Other Sunhelm mechanics are disabled.
+**Cold**: The cold system from [Sunhelm - Survival and Needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414) is used to reward preparation. Other Sunhelm mechanics are disabled.
 
-**Camping**: [Camping Lite](link) is an excellent, lightweight mod that provides an option for pitching a tent & lighting a fire for warmth/cooking. 
+**Camping**: [Camping Lite](https://www.nexusmods.com/skyrimspecialedition/mods/2370) is an excellent, lightweight mod that provides an option for pitching a tent & lighting a fire for warmth/cooking. 
 
 **Experience**
-[Experience](link) changes how levelling works in Skyrim. Instead of player level being tied to skill level, experience is now earned through completing quests, discovering new locations and killing enemies.
+[Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) changes how levelling works in Skyrim. Instead of player level being tied to skill level, experience is now earned through completing quests, discovering new locations and killing enemies.
 ### In-Game MCM options
 
  - **Skyrim Unbound**: Choose your Standing Stone, starting location, starting equipment, starting wealth, etc. By default, the player is set to become Dragonborn, so if you do not want that for some reason, turn it off. 
