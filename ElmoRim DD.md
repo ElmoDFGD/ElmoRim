@@ -15,6 +15,8 @@
 * Combat guide
 * Elden equip guide
 * Disable NGIO under performance header
+* daedric dialogue speed FAQ
+* Upload to nexus, download and compile
 
 ## DD
 
