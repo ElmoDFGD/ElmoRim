@@ -79,7 +79,7 @@ With that said, ElmoRim has been carefully designed to offer a balance between v
 
 The list was developed on an upper-mid tier laptop with the following specs:
 
-| Spec Category | Default Profile |
+| Category | Specs |
 |     :---:    |     :---:     |
 | **CPU**   | AMD Ryzen 7 5800H |  
 | **Video Card**    | Nvidia RTX 3070       |

@@ -11,7 +11,7 @@
 * scroll stuck fix to readme
 * crafting kit instr@camping lite header
 * backpack instr (incl penalty) under ElmoRim lite header
-* Favourite Howls Menu
+* Favourite Howls Menu  
 * Combat guide
 * Elden equip guide
 * Disable NGIO under performance header
