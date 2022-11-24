@@ -2,12 +2,20 @@
 ## 2d0
 
 * Test Scion - Dawnguard TaE conflict
-* CCARA/EVG Solas patch
 * High Level Enemies Redux & Heritage Enemies 2
 * Add win8 comp instructions do readme
 * Add AA instructions
-* Facegen
-* Btps torch selection
+* Btps torch selection - bug fixed in coming version
+* Upload facegen part 2
+* Deathbell ENBlight?
+* Alessandras dagger OP
+* loadscreens
+* blood on the ice trigger
+* steal instruction to readme
+* scroll stuck fix to readme
+* soft cap incre.gains instr
+* crafting kit instr
+* backpack instr (incl penalty)
 ## DD
 
 ----0.0.1----
@@ -28,7 +36,7 @@ Created Meta-files for MO2 and SKSE according to samples from https://github.com
 Copied Creation Organizer Meta-file from LoTF  
 Switched theme to dark  
 Enabled Archive Parsing in MO2  
-Learned that meta files need nexus mod id + file id in link from hovering over download button  
+Learned that "query info" can be used for manually downloaded nexus-files. 
 Installed xLodGEN + Output mod + meta  
 Installed DynDOLOD + Output mod + meta  
 Installed Nemesis + Output mod + meta  
@@ -97,3 +105,11 @@ set bVATSDisable = 1
 Set ElmoRim to play in fullscreen.
 Activated NIS in Gefore Experience (75% Scaling)
 Activated Sharpening in Geforce Control Panel (50%)
+Followed guide at https://github.com/The-Animonculory/Modding-Resources/blob/main/Regenerating%20Faces%20in%20the%20Creation%20Kit.md for Facegen
+Added https://github.com/caiobraz/Synth-NPCs-Face-Data Synthesis repo
+Set TintMaskResolution=1024 in Skyrim64_test.ini
+Installed SSE Creation Kit Fixes Update
+Installed Cathedral Assets Optimizer
+Installed CAO-profile from https://github.com/The-Animonculory/Modding-Resources/blob/main/BSA%20Creation.7z?raw=true
+Adjusted CCARA>2066 (snowflake) to check for Solas
+Uploaded Facegen and Precision patch to Nexus
