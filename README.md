@@ -42,16 +42,16 @@
   - [Credits and Thanks](#credits-and-thanks)
 
 ## What is ElmoRim?  
-ElmoRim is a **compact**, **performance friendly** list for those who want to play *Skyrim*, and nothing else, in the year 2022.  The list offers **improved visuals**, **modernized combat** and **increased immersion** that enhances rather than expands Skyrim. As such, the list does away with complex new mechanics and massive content additions and instead improves what is already there.
+ElmoRim is a **compact**, **performance friendly** list that enhances rather than expands Skyrim. The list offers **improved visuals**, **modernized combat** and **increased immersion**. The list caters to those who want to play *Skyrim*, and nothing else, in the year 2022. As such, the list does away with complex new mechanics and massive content additions and instead improves what is already there.
 
 ## Feature Overview
 ElmoRim consists of around 600 mods. This overview provides an idea of what to expect from the list.
 | Feature | Core Mods |
 |     :---:    |     :---:     |
 | **Visuals**   | Skyland AIO, Modular Armory, Patrician ENB |  
-| **Combat**    | MCO, Valhalla Combat, Precision, Valravn    |
-| **RPG Elements** | SimonRim, Experience, ElmoRim Lite Survival*|
-| **Quests**    | Skyrim Unbound, JaySerpa's Quest Expansion-series, At Your Own Pace     |
+| **Combat**    | MCO, Valhalla, Precision, Valravn    |
+| **Gameplay** | SimonRim, Experience, ElmoRim Lite Needs*|
+| **Quests**    | Skyrim Unbound, JaySerpa's Quest Expansion-series     |
 | **Immersion** | Animated interactions, EVGAT, Animated Eating Redux|
 | **Audio**| AOS, ISC, Regional Sounds Expansion, YAMM|
 |**UI**| Untarnished UI, BTPS|
@@ -103,7 +103,7 @@ To set up your pagefile:
 
 ## Installation
 
-Installing ElmoRim is easy, especially if you have Nexus Premium account.
+Installing ElmoRim is easy and, especially if you have Nexus Premium account.
 
 ### Pre-Installation
 
@@ -128,7 +128,7 @@ Prior to installing ElmoRim, please complete the following steps.
 
 #### Installing Wabbajack
 
-Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) on this github and place it in a folder such as `C:\Wabbajack`. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**. I recommend placing it on an SSD.
+Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) on this github and place it in a folder such as `C:\Wabbajack`. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**. I recommend placing it on an SSD as it will work quicker on there.
 
 #### Downloading and Installing 
 
@@ -181,6 +181,16 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
  8. Navigate to your Install folder for the list and click "Select Folder".
  9. **(OPTIONAL)** You can repeat these steps for the ModOrganizer.exe (`Path to Modlist`\ModOrganizer.exe), the Nemesis Executable (`Path to Modlist`\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe), and Synthesis (`Path to Modlist`\tools\Synthesis\Synthesis.exe)
 
+
+ ## Compatibility settings
+ Nemesis, xLODGen and DynDOLOD have a tendency to fail even when added to virus exceptions. To avoid this issue, follow theses steps:
+ 1. Navigate to the Nemesis Executable (`Path to Modlist`\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe).
+ 2. Right click on the Nemesis Executable, select Properties.
+ 3. Go to the Compatibility tab
+ 4. Under the Compatibility mode section, check the Run in comp.. and choose Windows 8 from the dropdown. 
+ 5. Click Apply and then OK.
+ 6. Repeat steps 1-5 for SSELODGENx64 and DynDOLODx64 (These are located in `Path to Modlist`\tools..)
+
 ### Widescreen Fixes
 
 ElmoRim offers some mods to provide (potential) Ultrawide and Widescreen Support. Under the **(Possible) Ultrawide Support** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
@@ -200,9 +210,9 @@ ElmoRim offers some mods to provide (potential) Ultrawide and Widescreen Support
  ![](https://github.com/aljoxo/ElmoRim/blob/main/Media/TrueHUD%20UW%202.png)
 
 ### Documentation
-[Changelog](link)  
-[Modlist](link)  
-[Roadmap](link)  
+[Changelog](link)
+[Modlist](link)
+[Roadmap](link)
 ## Playing the List
 
 ### Obligatory DAR Cache warning: due to the nature of this list and the amount of DAR based animations it uses, it does take some time (usually 15-30 seconds) at the start of each play session for DAR to cache all the folders and animations. While cleaning up the folder setup to try and alleviate this issue is a long term goal for the list, please do realize that this issue is out of our control as it is an issue with DAR itself since it does not allow for pre-cacheing animations via Nemesis or during loading screens. If you complain about this in the discord, on nexus, or on the github page, you will be linked back here.
@@ -217,7 +227,8 @@ ElmoRim offers some mods to provide (potential) Ultrawide and Widescreen Support
  - Launch the "ElmoRim" Executable in MO2
 
 ### Gameplay Guide
-With two notable exceptions, ElmoRim stays true to vanilla gameplay. As such, anyone familiar with Skyrim should be able to jump right in and start playing.
+
+ElmoRim stays true to vanilla gameplay. As such, anyone familiar with Skyrim should be able to jump right in and start playing. The three notable exceptions are:
 
 ***Skyrim Unbound***
  - ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) as the alternate start mod.
@@ -226,7 +237,8 @@ With two notable exceptions, ElmoRim stays true to vanilla gameplay. As such, an
     - Once you are finished with chargen, feel free to open up the **Skyrim Unbound** MCM menu and customize your Standing Stone, whether or not you're a vampire/werewolf, equipment, spells, and starting location.
         - You may also want to choose whether or not your character is the Dragonborn; and if they are not, whether or not they are able to use shouts.
      - Once you are finished choosing your options for the Alternate Start you desire, hit **Enter** again and choose **Continue**.
- - Read the Control map.
+ 
+ ***Read the Control map***
 ![](https://github.com/aljoxo/ElmoRim/blob/main/Media/ElmoRim%20Standard%20Keybinds%201.4.png)
 ![](https://github.com/aljoxo/ElmoRim/blob/main/Media/ElmoRim_Gamepad_Keymap.png)
 
@@ -236,12 +248,14 @@ Elmorim comes with a unique setup for survival elemets, seamlessly integrated in
 **Sleep**: The mod [Incremental Injuries](link) introduces the need to sleep organically by reducing total Magicka/Health/Stamina as they are spent. 
 They are restored by sleeping 6+ hours in-game. 
 
-**Eat/Drink**: The mod [Apothecary - Food and Drink Addon](link) alters food and drink to give long lasting, passive regeneration buffs. The buffs are very well balanced to incentivize eating and drinking regularly without making the buffs OP.
+**Eat/Drink**: The mod [Apothecary - Food and Drink Addon](link) alters food and drink to give long lasting passive regeneration buffs. The buffs are very well balanced to incentivize eating and drinking regularly without making the buffs OP.
 
 **Cold**: The cold system from [Sunhelm - Survival and Needs](link) is used to reward preparation. Other Sunhelm mechanics are disabled.
 
 **Camping**: [Camping Lite](link) is an excellent, lightweight mod that provides an option for pitching a tent & lighting a fire for warmth/cooking. 
 
+**Experience**
+[Experience](link) changes how levelling works in Skyrim. Instead of player level being tied to skill level, experience is now earned through completing quests, discovering new locations and killing enemies.
 ### In-Game MCM options
 
  - **Skyrim Unbound**: Choose your Standing Stone, starting location, starting equipment, starting wealth, etc. By default, the player is set to become Dragonborn, so if you do not want that for some reason, turn it off. 
@@ -254,14 +268,16 @@ They are restored by sleeping 6+ hours in-game.
  - **Optimal Potion Hotkey**: Change your *Health potion hotkey* (Default: `H`). Add a hotkey for stamina/magicka potions.
  - **Simplest Horses**: Change your *Horse Control hotkey* here (Default: `V`).
  - **SmoothCam**: By default the list uses [Adventurer's Preset](link).
- - **SunHelm**: Go to ***Profiles>Browse.*** Select the ElmoRim Profile. Press Load. Next, go to ***General settings>Hotkeys>Enable/Disable powers*** to remove the redundant spells added by Sunhelm.
+ - **SunHelm**: Only Cold enabled as part of the ElmoRim Lite Survival setup.
  - **Survival Control Panel**: Optionally disable Sleep to level up.   
  - **True Directional Movement**: Change your *Target Lock* keybind here.
  - **Valhalla Combat**: The core of the combat balance in the list. 
     - Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them to your liking. Please note that dTry's Exhaustion system is disabled due to causing enemy aggression problems and it was decided it would be better if it was off.
     - Timed Block: You can enable or disable the *Tackle* mechanic (Default: `enabled`).
     - Stun&Execution: By default the list disables dTry's stun system as it is not well balanced right now.
+    - Compatibility: Please **do not** enable the Poise compatibility option. While the list does use Poise, due to the DAR setup and witchcraft we have done to make it play nicely, enabling this compatibility option breaks the setup. 
       - *TrueHUD API* should say "Not Obtained" next to it, this is due to disabling the Stun System. 
+      - If *Special Meter Control* says "Not Obtained", do not worry about this. As of current the Stun System is disabled due to balancing reasons.
 
 ### Anniversary Edition
 
@@ -284,7 +300,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 ## FAQ 
 
 #### Q: I can't level up, what do I do?  
-A: You have Sleep to level up enabled, go sleep in a bed or disable it through Survival Control Panel.
+A: You have Sleep to level up enabled, go sleep in a bed or disable it through Survival Control Panel in the MCM.
 
 #### Q: How do I start the main questline?  
 A: If you have chosen to be Dragonborn in the Skyrim Unbound MCM settings, then upon killing your first dragon, you will be summoned by the Greybeards. If you have chosen to not be the Dragonborn, then you can not proceed with the main questline.
@@ -330,4 +346,3 @@ Simply delete the folder, and you have uninstalled it.
 - _YOU_ for reading this.
 - Noggog for Mutagen and the xEdit team for xEdit and their tools.
 - Halgari and the WJ Team for this amazing platform.
-- aljoxo for letting me use the Arisen README.md as a template. 
