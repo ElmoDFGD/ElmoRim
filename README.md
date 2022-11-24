@@ -240,7 +240,7 @@ ElmoRim stays true to vanilla gameplay. As such, anyone familiar with Skyrim sho
  
  ***Control map***
   - The ElmoRim keyboard control scheme might seem a bit unorthodox at a glance. It is inspired by the excellent [Streamlined Skyrim]() and offers a compact layout. While it certainly can modified, it is suggested that users give it a try. Much thought has gone into tweaking controls to allow quick and easy access to all necessary actions.
-  [Keyboard Layout](https://user-images.githubusercontent.com/118224262/203798608-b3ff4000-b3e0-422e-8159-1afaa94cee59.jpg)
+  [Keyboard Layout](https://user-images.githubusercontent.com/118224262/203798608-b3ff4000-b3e0-422e-8159-1afaa94cee59.jpg)  
   [Mouse Button Layout](https://user-images.githubusercontent.com/118224262/203798474-0566bb92-4e11-4baf-9176-074f33738566.png)
 
   - ElmoRim features mods designed to support playing with a controller. However no pre-configured controlscheme is provided and users are encouraged to create theur own setup.
