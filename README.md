@@ -154,7 +154,7 @@ Installing ElmoRim is a straightforward process. A Nexus Premium account is stro
 
 ### Problems with installation
 
-It is possible to encounter an error with Wabbajack when installing. Some common issues are listed below.
+It is possible to encounter errors when installing with Wabbajack. Some common issues are:
 
 - Could not download x:
 	- Big files can fail to download due to connection issues. Either run wabbajack again or download the file manually. If downloading manually, make sure to place it in the same place as the other downloads.
@@ -228,7 +228,7 @@ ElmoRim features mods that provide (potential) Ultrawide and Widescreen Support.
 
 ### Gameplay Guide
 
-ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim should be able to jump right in and start playing after reading about the changes listed below:
+ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim should be able to jump right in and start playing after reading about the mods listed below:
 
  #### ElmoRim Control scheme
   - The ElmoRim keyboard control scheme might seem a bit unorthodox at a glance. It is inspired by the excellent [Streamlined Skyrim](https://github.com/TerribleBrad/Streamlined-Skyrim/blob/main/README.md) and offers a compact layout. While it certainly can be modified, it is suggested that users give it a try. Much thought has gone into tweaking controls to allow quick and easy access to all necessary actions.  
@@ -238,7 +238,7 @@ ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim
   ![](https://user-images.githubusercontent.com/118224262/203798608-b3ff4000-b3e0-422e-8159-1afaa94cee59.jpg) 
   
   ![](https://user-images.githubusercontent.com/118224262/203798474-0566bb92-4e11-4baf-9176-074f33738566.png).
-  
+
   #### Elden Equip
   Ipsum
 
@@ -261,19 +261,22 @@ Elmorim comes with a unique setup for survival elements, seamlessly integrated i
     >By default, ElmoRim also uses the mods [Incremental Gains](https://www.nexusmods.com/skyrimspecialedition/mods/67270) & [Hardcore Level Up - Incremental Gains Addon](https://www.nexusmods.com/skyrimspecialedition/mods/72741) which make max Magicka/Health/Stamina increase by a small amount each time the player sleeps. The attributes increase proportionally to how much they were reduced before sleeping. **Selecting an attribute upon levelling up will now only increase that attribute by one point.** 
     >These two mods can be disabled if the vanilla system i preferred.
 
-* *Eating/Drinking*: [Apothecary - Food and Drink Addon](https://www.nexusmods.com/skyrimspecialedition/mods/52130) alters food and drink to give long lasting passive regeneration buffs. The buffs are very well balanced to incentivize eating and drinking regularly without making the buffs OP.
+* *Eating/Drinking*: [Apothecary - Food and Drink Addon](https://www.nexusmods.com/skyrimspecialedition/mods/52130) alters food and drink to make them give long lasting passive regeneration buffs. The buffs are very well balanced and incentivize eating and drinking regularly without making the buffs OP.
 
-* *Cold*: The cold system from [Sunhelm - Survival and Needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414) is used to reward preparation. Other Sunhelm mechanics are disabled.
+* *Cold*: The cold system from [Sunhelm - Survival and Needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414) is used to reward preparation and increase immersion. Other Sunhelm mechanics are disabled.
 
 * *Camping*: [Camping Lite](https://www.nexusmods.com/skyrimspecialedition/mods/2370) is a lightweight mod that provides an option for pitching a tent & lighting a fire for warmth/cooking. 
 
 #### Experience
 [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) changes how levelling works in Skyrim. Instead of player level being tied to skill level, experience is now earned through completing quests, discovering new locations and killing enemies.
 
-#### Simplest Horse
-Ipsum
-### In-Game MCM options
+#### Simplest Horses
+The best mod for horse management in Skyrim. [Simplest Horses](https://www.nexusmods.com/skyrimspecialedition/mods/54225) gives the player the ability to have the horse follow/wait and open stash items with a single button. If the crosshair is aimed at the horse, pressing the button opens the horses inventory. Otherwise it triggers the horse whistle, telling the horse to wait/follow.
+### MCM Customization
+Almost all of ElmoRim's MCM menus are pre-configured. This section outlines the few mandatory manual tweaks that are required, as well as a few optional ones.
+#### Mandatory
 
+#### Optional
 **Skyrim Unbound**
 Dragons are set to appear after 7 to 21 days by default. They will appear at word walls before appearing in the wild. They can be configured to spawn faster/slower/instantly or spawn based on level instead.
  
@@ -290,10 +293,10 @@ Dragons are set to appear after 7 to 21 days by default. They will appear at wor
   Tweak the dialogue camera here. Notable settings include *Switch Target* (for Witcher-Style Dialogue Camera), *Force Third/First Person* and *Camera Offsets*.
  
  **Optimal Potion Hotkey**
-Change *Health potion hotkey* (Default: `H`). Add a hotkey for stamina/magicka potions.
+Customize *Health potion hotkey* (Default: `H`). Add a hotkey for stamina/magicka potions.
 
 **Simplest Horse**
- Change *Horse Control hotkey* here (Default: `V`).
+ Customize *Horse Control hotkey* here (Default: `V`).
   
 **SmoothCam**
 By default the list uses [Adventurer's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/59997).
@@ -302,11 +305,11 @@ By default the list uses [Adventurer's Preset](https://www.nexusmods.com/skyrims
 
 **Survival Control Panel**: Optionally disable *Sleep to level up*.   
 
-**True Directional Movement**: Change your *Target Lock* keybind here.
+**True Directional Movement**: Customize *Target Lock* keybind here.
 
 **Valhalla Combat**
 The core of the combat balance in the list. 
-  * Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them to your liking. Please note that dTry's Exhaustion system is disabled due to causing enemy aggression problems and it was decided it would be better if it was off.
+  * Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them. 
   * Timed Block: Enable or disable the *Tackle* mechanic (Default: `Disabled`).
   
   * Compatibility: Choose whether or not to use animations from [Poise](https://www.nexusmods.com/skyrimspecialedition/mods/72653).
