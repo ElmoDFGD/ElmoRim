@@ -27,8 +27,7 @@
     - [In-Game MCM options](#in-game-mcm-options)
     - [Updating the modlist](#updating-the-modlist)
   - [FAQ](#faq)
-      - [Q: Should I be worried about the Form 43 Error in MO2?](#q-should-i-be-worried-about-the-form-43-error-in-mo2)
-      - [Q: How do I change the bodyslide on my character/on NPCs?](#q-how-do-i-change-the-bodyslide-on-my-characteron-npcs)
+
       - [Q: I can't level up, what do I do?](#q-i-cant-level-up-what-do-i-do)
       - [Q: How do I start the main questline?](#q-how-do-i-start-the-main-questline)
       - [Q: When do dragons start spawning?](#q-when-do-dragons-start-spawning)
@@ -87,7 +86,7 @@ The list was developed on an upper-mid tier laptop with the following specs:
 
 With these specs the game runs at 60fps@1080p and around 45fps@1440p (in exteriors, 60 fps in interiors).
 
-Recommendations on how to change the balance between visual quality/performance are provided [below](#tweaking-the-game-settings)
+Recommendations on how to tweak the balance between visual quality/performance are provided [below](#tweaking-the-game-settings)
 
 Modlist size: X GB (of which Y GB are downloads)
 
@@ -194,12 +193,12 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
 
  ### Compatibility settings
  Nemesis, xLODGen and DynDOLOD have a tendency to fail even when added to virus exceptions. To avoid this issue, follow theses steps:
- 1. Navigate to the Nemesis Executable (`Path to Modlist`\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe).
+ 1. Navigate to the Nemesis Executable (`Path to Modlist`\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe)
  2. Right click on the Nemesis Executable, select Properties.
  3. Go to the Compatibility tab
  4. Under the Compatibility mode section, check the Run in comp.. and choose Windows 8 from the dropdown. 
- 5. Click Apply and then OK.
- 6. Repeat steps 1-5 for SSELODGenx64 and DynDOLODx64 (These are located in `Path to Modlist`\tools..)
+ 5. Click Apply and then OK
+ 6. Repeat steps 1-5 for xLODGenx64 and DynDOLODx64 (These are located in `Path to Modlist`\tools..)
 
 ### Widescreen Fixes
 
@@ -231,7 +230,7 @@ ElmoRim features mods that provide (potential) Ultrawide and Widescreen Support.
 ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim should be able to jump right in and start playing after reading about the mods listed below:
 
  #### ElmoRim Control scheme
-  - The ElmoRim keyboard control scheme might seem a bit unorthodox at a glance. It is inspired by the excellent [Streamlined Skyrim](https://github.com/TerribleBrad/Streamlined-Skyrim/blob/main/README.md) and offers a compact layout. While it certainly can be modified, it is suggested that users give it a try. Much thought has gone into tweaking controls to allow quick and easy access to all necessary actions.  
+  - The ElmoRim keyboard control scheme might seem a bit unorthodox at a glance. It is inspired by the excellent [Streamlined Skyrim](https://github.com/TerribleBrad/Streamlined-Skyrim/blob/main/README.md) modlist and offers a compact layout. While it certainly can be modified, it is recommended that users give it a try. Much thought has gone into tweaking the controls to allow quick and easy access to all necessary actions.  
 
   - ElmoRim features mods that support playing with a controller. However, no pre-configured control scheme is provided and users are encouraged to create their own setup.
   
@@ -258,8 +257,8 @@ Elmorim comes with a unique setup for survival elements, seamlessly integrated i
 
 * *Sleep*: The mod [Incremental Injuries](https://www.nexusmods.com/skyrimspecialedition/mods/55114) introduces the need to sleep organically by reducing max Magicka/Health/Stamina as they are spent. They are restored by sleeping 6+ hours in-game. 
 
-    >By default, ElmoRim also uses the mods [Incremental Gains](https://www.nexusmods.com/skyrimspecialedition/mods/67270) & [Hardcore Level Up - Incremental Gains Addon](https://www.nexusmods.com/skyrimspecialedition/mods/72741) which make max Magicka/Health/Stamina increase by a small amount each time the player sleeps. The attributes increase proportionally to how much they were reduced before sleeping. **Selecting an attribute upon levelling up will now only increase that attribute by one point.** 
-    >These two mods can be disabled if the vanilla system i preferred.
+    >By default, ElmoRim also uses the mods [Incremental Gains](https://www.nexusmods.com/skyrimspecialedition/mods/67270) & [Hardcore Level Up - Incremental Gains Addon](https://www.nexusmods.com/skyrimspecialedition/mods/72741) which increases max Magicka/Health/Stamina by a small amount each time the player sleeps. The attributes increase proportionally to how much they were reduced before sleeping. **Selecting an attribute upon levelling up will now only increase that attribute by one point.** 
+    >These two mods can be disabled if the vanilla system is preferred.
 
 * *Eating/Drinking*: [Apothecary - Food and Drink Addon](https://www.nexusmods.com/skyrimspecialedition/mods/52130) alters food and drink to make them give long lasting passive regeneration buffs. The buffs are very well balanced and incentivize eating and drinking regularly without making the buffs OP.
 
