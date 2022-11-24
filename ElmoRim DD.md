@@ -9,6 +9,7 @@
 * Facegen
 * Btps torch selection
 * Favourite Howls Menu
+* Fix ToC in Readme
 ## DD
 
 ----0.0.1----

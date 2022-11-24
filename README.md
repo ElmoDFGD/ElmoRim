@@ -1,9 +1,9 @@
-# ElmoRim
+
  
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/77787/77787-1666950756-1857011084.png)
 
 
-# <ins>**NO CC-content required!**<ins>
+# ElmoRim
 
 ## Contents
   - [What is ElmoRim?](#What-is-ElmoRim)
@@ -17,15 +17,15 @@
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
       - [Downloading and Installing ElmoRim](#downloading-and-installing-ElmoRim)
+    - [Anniversary Edition](#anniversary-edition)
+
     - [Problems with installation](#problems-with-installation)
   - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
     - [Game Folder](#game-folder)
     - [Antivirus Exceptions](#antivirus-exceptions)
-    - [Documentation](#documentation)
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
     - [In-Game MCM options](#in-game-mcm-options)
-    - [Anniversary Edition](#anniversary-edition)
     - [Updating the modlist](#updating-the-modlist)
   - [FAQ](#faq)
       - [Q: Should I be worried about the Form 43 Error in MO2?](#q-should-i-be-worried-about-the-form-43-error-in-mo2)
@@ -37,13 +37,14 @@
       - [Q: How do I enable my crosshair?](#q-how-do-i-enable-my-crosshair)
       - [Tweaking the Game Settings](#tweaking-the-game-settings)
       - [BethINI](#bethini)
+  - [Documentation](#documentation)
   - [Removing the Modlist](#removing-the-modlist)
   - [Contact](#contact)
   - [Credits and Thanks](#credits-and-thanks)
 
 ## What is ElmoRim?  
-ElmoRim is a **compact**, **performance friendly** list that enhances rather than expands Skyrim. The list offers **improved visuals**, **modernized combat** and **increased immersion**. 
-The list caters to those who want to play ***Skyrim, and nothing else, in the year 2022***. As such, the list does away with complex new mechanics and massive content additions and instead improves what is already there.
+ElmoRim is a **compact**, **performance friendly** list that enhances rather than expands Skyrim. The list offers **improved visuals**, **modernized combat** and **increased immersion** and a unique, lightweight survival setup. 
+The list caters to those who want to play ***Skyrim in 2022***. A carefully curated selection of tweaks and fixes for the vanilla content allows the player to take full control of their story.
 
 ## Feature Overview
 ElmoRim consists of around 600 mods. This overview provides an idea of what to expect from the list.
@@ -64,9 +65,9 @@ ElmoRim consists of around 600 mods. This overview provides an idea of what to e
 
 
 
-## System Requirements
+## Pre-Installation
 
-### Minimum Specifications for ~60 fps gameplay at 1920x1080
+### System Requirements
 
 First a word about performance. [QuagaarWarrior](https://www.nexusmods.com/skyrimspecialedition/users/6411808), author of [QW's Grass Patch 2](https://www.nexusmods.com/skyrimspecialedition/mods/67785) and more, sums it up perfectly.
 >"I find discussions of performance a little pointless.  
@@ -85,12 +86,18 @@ The list was developed on an upper-mid tier laptop with the following specs:
 | **Ram**    | 16gb (2x16) DDR4 3200mhz RAM     |
 | **Storage**    | SATA SSD     |
 
-With these specs the game runs at 60 fps at 1080p and 45-50 fps (in exteriors, 60 fps in interiors) at 1440p.
+With these specs the game runs at 60fps@1080p and around 45fps@1440p (in exteriors, 60 fps in interiors).
 
-Recommendations on how to change the balance between visual quality/performance are provided [below](#how-can-i-improve-performance)
+Recommendations on how to change the balance between visual quality/performance are provided [below](#tweaking-the-game-settings)
 
-Modlist size: 
-- X GB (of which Y GB are downloads)
+Modlist size: X GB (of which Y GB are downloads)
+
+### Software Setup 
+The first step of installing ElmoRim is making sure all required software is installed and that Steam is configured correctly.
+
+1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v6 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
+2. Disable Steam [auto-updates](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+3. In Steam, right click on Skyrim SE and click on *Properties*, untick the *Enable Steam Overlay while in-game*.
   
 ### Setting Up Pagefile
 
@@ -105,7 +112,7 @@ To set up the pagefile:
 4. Click the *Advanced* tab at the top
 5. Under *Virtual Memory* click the box "Change..."
 6. Uncheck *Automatically manage* if it is checked
-7. Select your disk drive, ideally your fastest solid state drive
+7. Choose a disk drive, ideally the fastest solid state drive
 8. Click the **Custom size:** button
 9. In the box next to **Initial Size (MB)** type 40960
 10. In the box next to **Maximum Size (MB)** type 40960
@@ -113,19 +120,7 @@ To set up the pagefile:
 12. Click *OK*
 13. Click *Apply*
 14. Click *OK*
-15. Restart your computer in order for your new pagefile to take effect.
-
-## Installation
-
-Installing ElmoRim is a straightforward process. A Nexus Premium account is strongly advised.
-
-### Pre-Installation
-
-Prior to installing ElmoRim, complete the following steps.
-
-1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v6 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
-2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-3. Right click on Skyrim SE and click on properties, untick the "Enable Steam Overlay while in-game."
+15. Restart the computer in order for the changes to take effect.
 
 #### Setting Shader Cache Size
  For users with an NVIDIA GeForce Graphics Card: 
@@ -135,28 +130,31 @@ Prior to installing ElmoRim, complete the following steps.
  3. Scroll down in Global Settings to **Shader Cache Size**
  4. Double Click **Driver Default** to the right of Shader Cache Size and select **10 GB**
  5. Click **Apply** in the bottom right hand corner. 
- 6. Exit out of the application.
+ 6. Exit the application.
 ![](https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/ShaderCache.png)
+## Installation
+
 
 ### Wabbajack Installation
 
 #### Installing Wabbajack
 
-Once pre-installation is completed, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) on this github and place it in a folder such as `C:\Wabbajack`. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in Skyrim's Steam folder**. Placing it on an SSD will speed up the installation process.
+Once pre-installation is completed, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Wabbajack`. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.) or in Skyrim's Steam folder**. Placing it on an SSD will speed up the installation process.
 
-#### Downloading and Installing 
+#### Downloading and Installing ElmoRim
 
-Downloading and installing ElmoRim can take a while depending on internet connection and computer. To install ElmoRim, complete the following steps.
+Installing ElmoRim is a straightforward process. A Nexus Premium account is strongly advised. Download and installation can take a while depending on internet connection and computer specs. To install ElmoRim, complete the following steps.
 
 1. Open Wabbajack and click `Browse Modlists`
-2. Tick on the `Show Unofficial lists` option in the top right corner of Wabbajack
+2. Tick the `Show Unofficial lists` option in the top right corner of Wabbajack
 3. Press the download button on ElmoRim and wait for it to download.
-4. Set the installation folder to be somewhere like C:\Games\ElmoRim. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**
+4. Set the installation folder to be somewhere like C:\Games\ElmoRim. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in Skyrim's Steam folder**
 > The download location does not need to be on a SSD, but it makes installing faster.
 5. Press the play button to begin.
 7. If the installation is successful, prosper and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
+>Wabbajack automatically [downgrades](https://www.nexusmods.com/skyrimspecialedition/mods/57618) the Skyrim installation version 1.5.97. **Do not** downgrade the steam install or the modlist yourself.
 
-### Problems with installation
+#### Problems with installation
 
 It is possible to encounter an error with Wabbajack when installing. Some common issues are listed below.
 
@@ -174,7 +172,7 @@ It is possible to encounter an error with Wabbajack when installing. Some common
 - Antivirus reports a virus:
 	- Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
-## Post-Installation and Optional Setup
+## Post-Installation
 
 ### Game Folder
 
@@ -207,119 +205,124 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
 
 ### Widescreen Fixes
 
-ElmoRim features mods that provide (potential) Ultrawide and Widescreen Support. Under the **(Possible) Ultrawide Support** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
+ElmoRim features mods that provide (potential) Ultrawide and Widescreen Support. The **(Possible) Ultrawide Support** separator in MO2 contains mods for playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
 
 **IN ORDER FOR THESE FIXES TO WORK, DO THE FOLLOWING:**
- 1. Search for **Nordic UI XXX Patch** (XXX being the "21 by 9" or "32 by 9" depending on screen resolution) in the left pane of MO2 and delete or hide the following files:  
-
-    a. /interface/skyui/bottombar.swf  
-    b. /interface/skyui/itemcard.swf  
- 2. Search for **Experience** in the left pane of MO2 and delete or hide the following files:  
+ 1. Search for **Experience** in the left pane of MO2 and delete or hide the following files:  
     a. /interface/statsmenu.swf  
- 3. Search for **Compass Navigation Overhaul** in the left pane of MO2 and open the .ini file, `CompassNavigationOverhaul.ini` and edit the following line(s):  
+ 2. Search for **Compass Navigation Overhaul** in the left pane of MO2 and open the .ini file, `CompassNavigationOverhaul.ini` and edit the following line(s):  
     a. PositionX=-0.127  
 ![](https://github.com/aljoxo/Arisen/blob/main/Media/CNO%20UW%201.png)
- 4. Once in game, navigate to the *TrueHUD* MCM Menu, and change the following values:
+ 3. Once in game, navigate to the *TrueHUD* MCM Menu, and change the following values:
  ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%201.png)
  ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%202.png)
-### Documentation
-[Changelog](link)  
-[Modlist](link)  
-[Roadmap](link)  
+
 ## Playing the List
 
-### Obligatory DAR Cache warning: due to the nature of this list and the amount of DAR based animations it uses, it does take some time (usually 15-30 seconds) at the start of each play session for DAR to cache all the folders and animations. Please note that this is an issue with DAR itself since it does not allow for pre-cacheing animations via Nemesis or during loading screens. If you complain about this in the discord, on nexus, or on the github page, you will be linked back here.
+##### Obligatory DAR Cache warning: due to the nature of this list and the amount of DAR based animations it uses, it does take some time (usually 15-30 seconds) at the start of each play session for DAR to cache all the folders and animations. Please note that this is an issue with DAR itself since it does not allow for pre-cacheing animations via Nemesis or during loading screens.
 
 ### Starting the Game
 
- - Navigate to the installation folder and locate *ModOrganizer.exe* and launch it. If a message Registry Key does not match appear, press *Yes*. Once it's launched, there will be a dropdown box on the top right and a big run button next to it.
-
-![](https://cdn.discordapp.com/attachments/1008052853002219683/1020222827938463764/RegistryKey.png)
-
+ - Navigate to the installation folder and locate *ModOrganizer.exe* and launch it.  
+  If a message: *Registry Key does not match* appears, press *Yes*. Once it's launched, there will be a dropdown box on the top right and a big run button next to it.
  
- - Launch the "ElmoRim" Executable in MO2
+ - Launch the *ElmoRim* executable in MO2
 
 ### Gameplay Guide
 
-ElmoRim stays true to vanilla gameplay. As such, anyone familiar with Skyrim should be able to jump right in and start playing. The notable exceptions are listed below:
+ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim should be able to jump right in and start playing after reading about the changes listed below:
 
- ***Control map***
-  - The ElmoRim keyboard control scheme might seem a bit unorthodox at a glance. It is inspired by the excellent [Streamlined Skyrim](https://github.com/TerribleBrad/Streamlined-Skyrim/blob/main/README.md) and offers a compact layout. While it certainly can modified, it is suggested that users give it a try. Much thought has gone into tweaking controls to allow quick and easy access to all necessary actions.  
+ ##### ElmoRim Control scheme
+  - The ElmoRim keyboard control scheme might seem a bit unorthodox at a glance. It is inspired by the excellent [Streamlined Skyrim](https://github.com/TerribleBrad/Streamlined-Skyrim/blob/main/README.md) and offers a compact layout. While it certainly can be modified, it is suggested that users give it a try. Much thought has gone into tweaking controls to allow quick and easy access to all necessary actions.  
+
+  - ElmoRim features mods that support playing with a controller. However, no pre-configured control scheme is provided and users are encouraged to create theur own setup.
   
-  ***ElmoRim Keyboard Layout***
   ![](https://user-images.githubusercontent.com/118224262/203798608-b3ff4000-b3e0-422e-8159-1afaa94cee59.jpg) 
   
-  ***ElmoRim Mouse Button Layout***
   ![](https://user-images.githubusercontent.com/118224262/203798474-0566bb92-4e11-4baf-9176-074f33738566.png).
-  - ElmoRim features mods designed to support playing with a controller. However no pre-configured controlscheme is provided and users are encouraged to create theur own setup.
 
-  ***Elden Equip***
+
+  #### Elden Equip
   Ipsum
 
 
-  ***MCO***
+  #### ElmoRim Combat
 Ipsum
 
-***Skyrim Unbound***
- - ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) as the alternate start mod.
-    - In order to start chargen hit *Enter* after loading in
+#### Skyrim Unbound
+ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) as the alternate start mod.
+* In order to start chargen hit *Enter* after loading in.
         - If the player character seems to be frozen during RaceMenu, just swap race or gender and swap back, it should unfreeze them. This is an issue with DAR Cacheing.
-    - Once finished with chargen, open up the *Skyrim Unbound* MCM menu and customize Standing Stone, whether or not the player is a vampire/werewolf, equipment, spells and starting location.
-        - It is possible to choose whether or not the player is the Dragonborn; and if they are not, whether or not they are able to use shouts.
-     - Once  finished, hit Enter again and choose *Continue*.
+* Once finished with chargen, open up the *Skyrim Unbound* MCM menu and customize Standing Stone, whether or not the player is a vampire/werewolf, equipment, spells and starting location.
+        - It is possible to choose whether or not the player is the Dragonborn and, if they are not, whether or not they are able to use shouts.
+* Once finished, hit Enter again and choose *Continue*.
 
-***ElmoRim Lite Survival***
+#### ElmoRim Lite Survival
 Elmorim comes with a unique setup for survival elements, seamlessly integrated into the general gameplay. 
 
-*Sleep*: The mod [Incremental Injuries](https://www.nexusmods.com/skyrimspecialedition/mods/55114) introduces the need to sleep organically by reducing total Magicka/Health/Stamina as they are spent. They are restored by sleeping 6+ hours in-game. 
+**Sleep**: The mod [Incremental Injuries](https://www.nexusmods.com/skyrimspecialedition/mods/55114) introduces the need to sleep organically by reducing total Magicka/Health/Stamina as they are spent. They are restored by sleeping 6+ hours in-game. 
 
 By default, ElmoRim also uses the mods [Incremental Gains](https://www.nexusmods.com/skyrimspecialedition/mods/67270) & [Hardcore Level Up - Incremental Gains Addon](https://www.nexusmods.com/skyrimspecialedition/mods/72741) which make max Magicka/Health/Stamina increase by a small amount each time the player sleeps. The attributes increase proportionally to how much they were reduced before sleeping. **Selecting an attribute upon levelling up will now only increase that attribute by one point.** 
 
 `These two mods can be disabled if the vanilla system i preferred.`
 
-*Eat/Drink*: [Apothecary - Food and Drink Addon](https://www.nexusmods.com/skyrimspecialedition/mods/52130) alters food and drink to give long lasting passive regeneration buffs. The buffs are very well balanced to incentivize eating and drinking regularly without making the buffs OP.
+**Eat/Drink**: [Apothecary - Food and Drink Addon](https://www.nexusmods.com/skyrimspecialedition/mods/52130) alters food and drink to give long lasting passive regeneration buffs. The buffs are very well balanced to incentivize eating and drinking regularly without making the buffs OP.
 
-*Cold*: The cold system from [Sunhelm - Survival and Needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414) is used to reward preparation. Other Sunhelm mechanics are disabled.
+**Cold**: The cold system from [Sunhelm - Survival and Needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414) is used to reward preparation. Other Sunhelm mechanics are disabled.
 
-*Camping*: [Camping Lite](https://www.nexusmods.com/skyrimspecialedition/mods/2370) is an excellent, lightweight mod that provides an option for pitching a tent & lighting a fire for warmth/cooking. 
+**Camping**: [Camping Lite](https://www.nexusmods.com/skyrimspecialedition/mods/2370) is an excellent, lightweight mod that provides an option for pitching a tent & lighting a fire for warmth/cooking. 
 
-***Experience***
+#### Experience
 [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) changes how levelling works in Skyrim. Instead of player level being tied to skill level, experience is now earned through completing quests, discovering new locations and killing enemies.
 
-***Simplest Horse***
+#### Simplest Horse
 Ipsum
 ### In-Game MCM options
 
- - **Skyrim Unbound**: 
-     - Dragons are set to appear after 7 to 21 days by default. They will appear at word walls before appearing in the wild. They can be configured to spawn faster/slower/instantly or spawn based on level instead.
- - **Better Third Person Selection**: Enables the filters to reduce the possibility that the player character accidentally steals items when trying to interact with the world. Turn these filters off here if preferred.
- - **Favourite Howls Menu**: Customize which powers will be in the favorites menu (for werewolves).
- - **Hide Your Quests**: Allows filtering quests from the journal (not useful on startup, obviously).
- - **Improved Alternate Conversation Camera**: Tweak the dialogue camera here.
-     - Notable settings include: Switch Target (for Witcher-Style Dialogue Camera), Force Third/First Person, Camera Offsets.
- - **Optimal Potion Hotkey**: Change *Health potion hotkey* (Default: `H`). Add a hotkey for stamina/magicka potions.
- - **Simplest Horses**: Change *Horse Control hotkey* here (Default: `V`).
- - **SmoothCam**: By default the list uses [Adventurer's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/59997).
- - **SunHelm**: Only Cold enabled as part of the ElmoRim Lite Survival setup.
- - **Survival Control Panel**: Optionally disable Sleep to level up.   
- - **True Directional Movement**: Change your *Target Lock* keybind here.
- - **Valhalla Combat**: The core of the combat balance in the list. 
-    - Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them to your liking. Please note that dTry's Exhaustion system is disabled due to causing enemy aggression problems and it was decided it would be better if it was off.
-    - Timed Block: Enable or disable the *Tackle* mechanic (Default: `Disabled`).
-    - Compatibility: Choose whether or not to use animations from [Poise](https://www.nexusmods.com/skyrimspecialedition/mods/72653).
-      - *TrueHUD API* should say `Not Obtained` next to it, this is due to disabling the Stun System. 
-      - If *Special Meter Control* says `Not Obtained`, do not worry about this. As of current the Stun System is disabled due to balancing reasons.
+**Skyrim Unbound**
+Dragons are set to appear after 7 to 21 days by default. They will appear at word walls before appearing in the wild. They can be configured to spawn faster/slower/instantly or spawn based on level instead.
+ 
+ **Better Third Person Selection**
+ Enable/disable the filters that prevent the player from accidentally stealing items when trying to interact with the world.
+ 
+ **Favourite Howls Menu**
+ Customize which powers will be in the favorites menu (for werewolves).
+ 
+ **Hide Your Quests**
+  Allows filtering quests from the journal (not useful on startup, obviously).
+ 
+ **Improved Alternate Conversation Camera**
+  Tweak the dialogue camera here. Notable settings include *Switch Target* (for Witcher-Style Dialogue Camera), *Force Third/First Person* and *Camera Offsets*.
+ 
+ **Optimal Potion Hotkey**
+Change *Health potion hotkey* (Default: `H`). Add a hotkey for stamina/magicka potions.
 
-### Anniversary Edition
+**Simplest Horse**
+ Change *Horse Control hotkey* here (Default: `V`).
+  
+**SmoothCam**
+By default the list uses [Adventurer's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/59997).
 
-Wabbajack automatically [downgrades](https://www.nexusmods.com/skyrimspecialedition/mods/57618) the Skyrim installation version 1.5.97. **Do not** downgrade the steam install or the modlist yourself.
+**SunHelm**: Only Cold enabled as part of the ElmoRim Lite Survival setup.
+
+**Survival Control Panel**: Optionally disable *Sleep to level up*.   
+
+**True Directional Movement**: Change your *Target Lock* keybind here.
+
+**Valhalla Combat**
+The core of the combat balance in the list. 
+  * Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them to your liking. Please note that dTry's Exhaustion system is disabled due to causing enemy aggression problems and it was decided it would be better if it was off.
+  * Timed Block: Enable or disable the *Tackle* mechanic (Default: `Disabled`).
+  
+  * Compatibility: Choose whether or not to use animations from [Poise](https://www.nexusmods.com/skyrimspecialedition/mods/72653).
+      - *Special Meter Control* should say `Not Obtained`. The special meter is reserved for displaying poise values.
 
 ## Updating the modlist
 
 Before updating, please check the [changelog](https://github.com/aljoxo/ElmoRim/blob/main/ElmoRimChangelog.md) and back up any saves. A new game may be required after certain updates. To check if an update is save safe or not, refer to the version number. The first digit indicates major version, second digit indicates minor version (these are unlikely to be save safe unless otherwise specified), the third digit will represent bug fixes etc.
-  - If the modlist is updated from `1.0.0` to `2.0.0`, then this version is likely a major overhaul of at least one system and **will not** be considered save safe.
+  - wIf the modlist is updated from `1.0.0` to `2.0.0`, then this version is likely a major overhaul of at least one system and **will not** be considered save safe.
   - If the modlist is updated from `1.0.0` to `1.1.0`, then this version is **not** save safe.
-  - If the modlist is updated from `1.0.0` to `1.0.1`, then this version is save safe **unless** the changelog specifically states otherwise. In cases where the update **is** save safe, performing additional steps my be needed to maintain the health of the save. Theses will be provided in the changelog.  
+  - If the modlist is updated from `1.0.0` to `1.0.1`, then this version **is** save safe **unless** the changelog states otherwise. In cases where the update is save safe, performing additional steps my be needed to maintain the health of the save. These steps will be provided in the changelog.  
   
 
 Updating is like installing the list. Simply check that file paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods added to the installation will be deleted when updating. To ensure that Wabbajack does not delete added mods upon updating, prefix the mods with **[NoDelete]**.
@@ -329,6 +332,10 @@ Updating is like installing the list. Simply check that file paths are the same 
 *Please make sure to back up saves when continuing a playthrough across a **save safe** update.*
 
 ## FAQ 
+
+#### Q: Why does the list claim to be vanilla when it clearly isn't.
+
+A: No such claims are made. The list is centered around vanilla content and provides a platform for enjoying said content over a decade after it's creation.
 
 #### Q: I can't level up, what do I do?  
 A: You have Sleep to level up enabled, go sleep in a bed or disable it through Survival Control Panel in the MCM.
@@ -345,9 +352,9 @@ A: You must complete [The Blessings of Nature](https://en.uesp.net/wiki/Skyrim:T
 #### Q: How do I enable my crosshair?
 A: Disable the `Contextual Crosshair` mod, under the "Heads Up Display (HUD)" Separator in MO2.
 
-### Tweaking the Game Settings
+## Tweaking the Game Settings
 
-#### BethINI
+### BethINI
 
 To get some more FPS, tweak the following value in the detail section in BethINI.
 
@@ -355,10 +362,10 @@ To get some more FPS, tweak the following value in the detail section in BethINI
 - `Grass Density`: 60
 - `Remove Shadows`: I really don’t recommend turning this on, but if you must, then you can.
 
+### ENB Settings
 If you want to tweak your ENB to improve performance, consider looking at Annakin's [ENB Tips](https://github.com/The-Animonculory/Modding-Resources/blob/main/ENB%20Tips.md) guide. 
 
 To quote her, here is a short answer to improve performance with an ENB turned on.
-> #### How can I improve performance?
 > - Uncheck `EnableLens`.
 > - Uncheck `EnableBloom`.
 > - Uncheck `EnableDepthofField`.
@@ -366,6 +373,12 @@ To quote her, here is a short answer to improve performance with an ENB turned o
 > - Uncheck `ComplexFireLights` and `ComplexFireLights` OR
 >   - Uncheck `EnableBigRange` in these two settings.
 
+To open the editor, press *F11* in-game.
+
+## Documentation
+* [Changelog](link)  
+* [Modlist](link)  
+* [Roadmap](link)  
 ## Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
 
