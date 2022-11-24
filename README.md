@@ -274,9 +274,9 @@ Elmorim comes with a unique setup for survival elements, seamlessly integrated i
 The best mod for horse management in Skyrim. [Simplest Horses](https://www.nexusmods.com/skyrimspecialedition/mods/54225) gives the player the ability to have the horse follow/wait and open stash items with a single button. If the crosshair is aimed at the horse, pressing the button opens the horses inventory. Otherwise it triggers the horse whistle, telling the horse to wait/follow.
 ### MCM Customization
 Almost all of ElmoRim's MCM menus are pre-configured. This section outlines the few mandatory manual tweaks that are required, as well as a few optional ones.
-#### Mandatory
+#### **Mandatory**
 
-#### Optional
+#### **Optional**
 **Skyrim Unbound**
 Dragons are set to appear after 7 to 21 days by default. They will appear at word walls before appearing in the wild. They can be configured to spawn faster/slower/instantly or spawn based on level instead.
  
