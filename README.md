@@ -376,8 +376,8 @@ To quote her, here is a short answer to improve performance with an ENB turned o
 > - Uncheck `EnableBloom`.
 > - Uncheck `EnableDepthofField`.
 > - Uncheck `EnableTessellation` in `WATER`.
-> - Uncheck `ComplexFireLights` and `ComplexFireLights` 
->OR
+> - Uncheck `ComplexFireLights` and `ComplexFireLights`   
+>OR  
 >   - Uncheck `EnableBigRange` in these two settings.
 
 To open the editor, press *F11* in-game.
