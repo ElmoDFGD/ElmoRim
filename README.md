@@ -24,7 +24,8 @@
     - [Widescreen Fixes](#widescreen-fixes)
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
-    - [In-Game MCM options](#in-game-mcm-options)
+    - [Gameplay Guide](#gameplay-guide)
+    - [MCM Customization](#mcm-customization)
     - [Updating the modlist](#updating-the-modlist)
   - [FAQ](#faq)
       - [Q: Why does the list claim to be vanilla when it clearly isn't.](#q-why-does-the-list-claim-to-be-vanilla-when-it-clearly-isnt)
@@ -228,7 +229,7 @@ ElmoRim features mods that provide (potential) Ultrawide and Widescreen Support.
 
 ### Gameplay Guide
 
-ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim should be able to jump right in and start playing after reading about the mods listed below:
+ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim should be able to jump right in and start playing after reading about the mods listed below (and visiting their nexus page!):
 
  #### ElmoRim Control scheme
   - The ElmoRim keyboard control scheme might seem a bit unorthodox at a glance. It is inspired by the excellent [Streamlined Skyrim](https://github.com/TerribleBrad/Streamlined-Skyrim/blob/main/README.md) modlist and offers a compact layout. While it certainly can be modified, it is recommended that users give it a try. Much thought has gone into tweaking the controls to allow quick and easy access to all necessary actions.  
@@ -280,8 +281,6 @@ Almost all of ElmoRim's MCM menus are pre-configured. This section outlines the 
 
 *Valravn*: Disable (or set to 0) everything except *Attacks of Opportunity* and *Bow Stamina Cost*.
 
-Image
-
 *Incremental Gains*: Set Soft Cap Base to 125.
 
 #### Optional
@@ -315,7 +314,7 @@ Optionally disable *Sleep to level up*.
 *True Directional Movement*  
 Customize *Target Lock* keybind here (Default `MB4`).
 
-*Valhalla Combat*
+*Valhalla Combat*  
 The core of the combat balance in the list. 
   * Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them. 
   * Timed Block: Enable or disable the *Tackle* mechanic (Default: `Disabled`).
@@ -378,7 +377,7 @@ To quote her, here is a short answer to improve performance with an ENB turned o
 > - Uncheck `EnableTessellation` in `WATER`.
 > - Uncheck `ComplexFireLights` and `ComplexFireLights`   
 >OR  
->   - Uncheck `EnableBigRange` in these two settings.
+>   - Uncheck `EnableBigRange` under each of these two settings.
 
 To open the editor, press *F11* in-game.
 

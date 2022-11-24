@@ -3,23 +3,18 @@
 
 * Test Scion - Dawnguard TaE conflict
 * High Level Enemies Redux & Heritage Enemies 2
-* Add win8 comp instructions do readme
 * Add AA instructions
 * Btps torch selection - bug fixed in coming version
-* Upload facegen part 2
-* Deathbell ENBlight?
 * Alessandras dagger OP
 * loadscreens
 * blood on the ice trigger
-* steal instruction to readme
 * scroll stuck fix to readme
-* soft cap incre.gains instr
 * crafting kit instr
 * backpack instr (incl penalty)
-* Facegen
-* Btps torch selection
 * Favourite Howls Menu
-* Fix ToC in Readme
+* Combat guide
+* Elden equip guide
+
 ## DD
 
 ----0.0.1----
