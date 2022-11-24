@@ -312,7 +312,7 @@ By default the list uses [Adventurer's Preset](https://www.nexusmods.com/skyrims
 *Survival Control Panel*  
 Optionally disable *Sleep to level up*.   
 
-*True Directional Movement*
+*True Directional Movement*  
 Customize *Target Lock* keybind here (Default `MB4`).
 
 *Valhalla Combat*
