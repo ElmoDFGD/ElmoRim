@@ -8,21 +8,20 @@
 ## Contents
   - [What is ElmoRim?](#What-is-ElmoRim)
   - [Feature Overview](#feature-overview)
-  - [System Requirements](#system-requirements)
-    - [Minimum Specifications for ~60 fps gameplay at 1920x1080](#minimum-specifications-for-60-fps-gameplay-at-1920x1080)
+  - [Pre-Installation](#pre-installation)
+    - [System Requirements](#system-requirements)
+    - [Software Setup](#software-setup)
     - [Setting Up Pagefile](#setting-up-pagefile)
+    - [Setting Shader Cache Size](#setting-shader-cache-size)
   - [Installation](#installation)
-    - [Pre-Installation](#pre-installation)
-      - [Setting Shader Cache Size](#setting-shader-cache-size)
     - [Wabbajack Installation](#wabbajack-installation)
-      - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing ElmoRim](#downloading-and-installing-ElmoRim)
-    - [Anniversary Edition](#anniversary-edition)
-
+    - [Downloading and Installing ElmoRim](#downloading-and-installing-ElmoRim)
     - [Problems with installation](#problems-with-installation)
-  - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
+  - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
     - [Antivirus Exceptions](#antivirus-exceptions)
+    - [Compatibility Settings](#compatibility-settings)
+    - [Widescreen Fixes](#widescreen-fixes)
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
     - [In-Game MCM options](#in-game-mcm-options)
@@ -97,7 +96,7 @@ The first step of installing ElmoRim is making sure all required software is ins
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v6 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
 2. Disable Steam [auto-updates](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-3. In Steam, right click on Skyrim SE and click on *Properties*, untick the *Enable Steam Overlay while in-game*.
+3. In Steam, right click on Skyrim SE and click on *Properties*, untick *Enable Steam Overlay while in-game*.
   
 ### Setting Up Pagefile
 
@@ -122,7 +121,7 @@ To set up the pagefile:
 14. Click *OK*
 15. Restart the computer in order for the changes to take effect.
 
-#### Setting Shader Cache Size
+### Setting Shader Cache Size
  For users with an NVIDIA GeForce Graphics Card: 
 
  1. Right-click on the desktop and select **NVIDIA Control Panel**
@@ -137,11 +136,10 @@ To set up the pagefile:
 
 ### Wabbajack Installation
 
-#### Installing Wabbajack
 
 Once pre-installation is completed, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Wabbajack`. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.) or in Skyrim's Steam folder**. Placing it on an SSD will speed up the installation process.
 
-#### Downloading and Installing ElmoRim
+### Downloading and Installing ElmoRim
 
 Installing ElmoRim is a straightforward process. A Nexus Premium account is strongly advised. Download and installation can take a while depending on internet connection and computer specs. To install ElmoRim, complete the following steps.
 
@@ -154,7 +152,7 @@ Installing ElmoRim is a straightforward process. A Nexus Premium account is stro
 7. If the installation is successful, prosper and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 >Wabbajack automatically [downgrades](https://www.nexusmods.com/skyrimspecialedition/mods/57618) the Skyrim installation version 1.5.97. **Do not** downgrade the steam install or the modlist yourself.
 
-#### Problems with installation
+### Problems with installation
 
 It is possible to encounter an error with Wabbajack when installing. Some common issues are listed below.
 
@@ -235,7 +233,7 @@ ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim
  ##### ElmoRim Control scheme
   - The ElmoRim keyboard control scheme might seem a bit unorthodox at a glance. It is inspired by the excellent [Streamlined Skyrim](https://github.com/TerribleBrad/Streamlined-Skyrim/blob/main/README.md) and offers a compact layout. While it certainly can be modified, it is suggested that users give it a try. Much thought has gone into tweaking controls to allow quick and easy access to all necessary actions.  
 
-  - ElmoRim features mods that support playing with a controller. However, no pre-configured control scheme is provided and users are encouraged to create theur own setup.
+  - ElmoRim features mods that support playing with a controller. However, no pre-configured control scheme is provided and users are encouraged to create their own setup.
   
   ![](https://user-images.githubusercontent.com/118224262/203798608-b3ff4000-b3e0-422e-8159-1afaa94cee59.jpg) 
   
@@ -251,26 +249,25 @@ Ipsum
 
 #### Skyrim Unbound
 ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) as the alternate start mod.
-* In order to start chargen hit *Enter* after loading in.
-        - If the player character seems to be frozen during RaceMenu, just swap race or gender and swap back, it should unfreeze them. This is an issue with DAR Cacheing.
+* In order to start chargen hit *Enter* after loading in. If the player character seems to be frozen during RaceMenu, just swap race or gender and swap back, it should unfreeze them. This is an issue with DAR Cacheing.
 * Once finished with chargen, open up the *Skyrim Unbound* MCM menu and customize Standing Stone, whether or not the player is a vampire/werewolf, equipment, spells and starting location.
-        - It is possible to choose whether or not the player is the Dragonborn and, if they are not, whether or not they are able to use shouts.
+It is possible to choose whether or not the player is the Dragonborn and, if they are not, whether or not they are able to use shouts.
 * Once finished, hit Enter again and choose *Continue*.
 
 #### ElmoRim Lite Survival
 Elmorim comes with a unique setup for survival elements, seamlessly integrated into the general gameplay. 
 
-**Sleep**: The mod [Incremental Injuries](https://www.nexusmods.com/skyrimspecialedition/mods/55114) introduces the need to sleep organically by reducing total Magicka/Health/Stamina as they are spent. They are restored by sleeping 6+ hours in-game. 
+*Sleep*: The mod [Incremental Injuries](https://www.nexusmods.com/skyrimspecialedition/mods/55114) introduces the need to sleep organically by reducing max Magicka/Health/Stamina as they are spent. They are restored by sleeping 6+ hours in-game. 
 
 By default, ElmoRim also uses the mods [Incremental Gains](https://www.nexusmods.com/skyrimspecialedition/mods/67270) & [Hardcore Level Up - Incremental Gains Addon](https://www.nexusmods.com/skyrimspecialedition/mods/72741) which make max Magicka/Health/Stamina increase by a small amount each time the player sleeps. The attributes increase proportionally to how much they were reduced before sleeping. **Selecting an attribute upon levelling up will now only increase that attribute by one point.** 
 
 `These two mods can be disabled if the vanilla system i preferred.`
 
-**Eat/Drink**: [Apothecary - Food and Drink Addon](https://www.nexusmods.com/skyrimspecialedition/mods/52130) alters food and drink to give long lasting passive regeneration buffs. The buffs are very well balanced to incentivize eating and drinking regularly without making the buffs OP.
+*Eating/Drinking*: [Apothecary - Food and Drink Addon](https://www.nexusmods.com/skyrimspecialedition/mods/52130) alters food and drink to give long lasting passive regeneration buffs. The buffs are very well balanced to incentivize eating and drinking regularly without making the buffs OP.
 
-**Cold**: The cold system from [Sunhelm - Survival and Needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414) is used to reward preparation. Other Sunhelm mechanics are disabled.
+*Cold*: The cold system from [Sunhelm - Survival and Needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414) is used to reward preparation. Other Sunhelm mechanics are disabled.
 
-**Camping**: [Camping Lite](https://www.nexusmods.com/skyrimspecialedition/mods/2370) is an excellent, lightweight mod that provides an option for pitching a tent & lighting a fire for warmth/cooking. 
+*Camping*: [Camping Lite](https://www.nexusmods.com/skyrimspecialedition/mods/2370) is a lightweight mod that provides an option for pitching a tent & lighting a fire for warmth/cooking. 
 
 #### Experience
 [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) changes how levelling works in Skyrim. Instead of player level being tied to skill level, experience is now earned through completing quests, discovering new locations and killing enemies.
