@@ -9,8 +9,6 @@
 * blood on the ice trigger
 * scroll stuck fix to readme
 * Favourite Howls Menu  
-* Combat guide
-* Elden equip guide
 * daedric dialogue speed FAQ
 * Controller support
 * Ultrawide support
