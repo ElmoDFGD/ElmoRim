@@ -27,6 +27,7 @@
     - [Gameplay Guide](#gameplay-guide)
     - [MCM Customization](#mcm-customization)
     - [Updating the modlist](#updating-the-modlist)
+    - [What I Wish I Knew When I First Played ElmoRIM](#what-i-wish-i-knew-when-i-first-played-elmorim)
   - [FAQ](#faq)
       - [Q: Why does the list claim to be vanilla when it clearly isn't.](#q-why-does-the-list-claim-to-be-vanilla-when-it-clearly-isnt)
       - [Q: I can't level up, what do I do?](#q-i-cant-level-up-what-do-i-do)
@@ -43,8 +44,12 @@
   - [Credits and Thanks](#credits-and-thanks)
 
 ## What is ElmoRim?  
-ElmoRim is a **compact**, **performance friendly** list that enhances rather than expands Skyrim. The list offers **improved visuals**, **modernized combat**, **increased immersion** and unique, lightweight survival setup. 
-The list caters to those who want to play ***Skyrim in 2022***. A carefully curated selection of tweaks and fixes for the vanilla content allows the player to take full control of their story.
+
+The ultimate plug-n-play modlist for those who want to play Skyrim in 2023. 
+Elmorim is a **compact**, **performance friendly** list that offers **improved visuals**, **modernized combat** and **increased immersion**. Everything from the README to mod selection and in-game configuration has been carefully designed to make sure anyone familiar with the vanilla content can jump right in. 
+The list caters to those who want to experience Skyrim over a decade after its release. To this end, a curated selection of tweaks and fixes for the vanilla content is provided. No massive content additions and NO CC-MODS REQUIRED.
+
+> Disclaimer: ElmoRim puts vanilla content at center stage. However it is first and foremost Skyrim the way I, Elmo, want it. So if a certain mod is included, it is because I want it there.
 
 ## Feature Overview
 ElmoRim consists of around 600 mods. This overview provides an idea of what to expect from the list.
@@ -61,7 +66,7 @@ ElmoRim consists of around 600 mods. This overview provides an idea of what to e
 |**Followers**| Nope|
 | **NSFW** | Nope |
 
->*Not a mod but a combination of features from several mods. Read [on](#gameplay-guide) to find out more.
+>*Not a mod but a combination of features from several mods. Read [on](#elmorim-lite-needs) to find out more.
 
 
 
@@ -74,6 +79,8 @@ First a word about performance. [QuagaarWarrior](https://www.nexusmods.com/skyri
 ...   
 saying whether an individual mod is performance heavy or not is difficult because there are so many other factors at play such as the other mods you use, ENB, resolution you play at and your system specs to name just a few. 
 I encourage you to try the mod and see how it performs in your individual set up."
+
+Key takeaway here being **"individual set up"**.
 
 With that said, ElmoRim has been carefully designed to offer a balance between visual quality and performance.
 
@@ -231,7 +238,7 @@ ElmoRim features mods that provide (potential) Ultrawide and Widescreen Support.
 
 ### Gameplay Guide
 
-ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim should be able to jump right in and start playing after reading about the mods listed below (and visiting their nexus page!):
+ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim should be able to jump right in and start playing after reading about the mods listed below. **Users are expected to read this section and visit each mods nexus page.**
 
  #### ElmoRim Control scheme
   - The ElmoRim keyboard control scheme might seem a bit unorthodox at a glance. It is inspired by the excellent [Streamlined Skyrim](https://github.com/TerribleBrad/Streamlined-Skyrim/blob/main/README.md) modlist and offers a compact layout. While it certainly can be modified, it is recommended that users give it a try. Much thought has gone into tweaking the controls to allow quick and easy access to all necessary actions.  
@@ -253,70 +260,75 @@ Ipsum
 ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) as the alternate start mod.
 * In order to start chargen hit *Enter* after loading in. If the player character seems to be frozen during RaceMenu, just swap race or gender and swap back, it should unfreeze them. This is an issue with DAR Cacheing.
 * Once finished with chargen, open up the *Skyrim Unbound* MCM menu and customize Standing Stone, whether or not the player is a vampire/werewolf, equipment, spells and starting location.
-It is possible to choose whether or not the player is the Dragonborn and, if they are not, whether or not they are able to use shouts.
+  - It is possible to choose whether or not the player is the Dragonborn and, if they are not, whether or not they are able to use shouts.
 * Once finished, hit Enter again and choose *Continue*.
 
-#### ElmoRim Lite Survival
+#### ElmoRim Lite Needs
 Elmorim comes with a unique setup for survival elements, seamlessly integrated into the general gameplay. 
 
-* *Sleep*: The mod [Incremental Injuries](https://www.nexusmods.com/skyrimspecialedition/mods/55114) introduces the need to sleep organically by reducing max Magicka/Health/Stamina as they are spent. They are restored by sleeping 6+ hours in-game. 
+**Sleep**: The mod [Incremental Injuries](https://www.nexusmods.com/skyrimspecialedition/mods/55114) introduces the need to sleep organically by reducing max Magicka/Health/Stamina as they are spent. They are restored by sleeping 6+ hours in-game. 
 
-    >By default, ElmoRim also uses the mods [Incremental Gains](https://www.nexusmods.com/skyrimspecialedition/mods/67270) & [Hardcore Level Up - Incremental Gains Addon](https://www.nexusmods.com/skyrimspecialedition/mods/72741) which increases max Magicka/Health/Stamina by a small amount each time the player sleeps. The attributes increase proportionally to how much they were reduced before sleeping. **Selecting an attribute upon levelling up will now only increase that attribute by one point.** 
-    >These two mods can be disabled if the vanilla system is preferred.
+  >By default, ElmoRim also uses the mods [Incremental Gains](https://www.nexusmods.com/skyrimspecialedition/mods/67270) & [Hardcore Level Up - Incremental Gains Addon](https://www.nexusmods.com/skyrimspecialedition/mods/72741) which increase max Magicka/Health/Stamina by a small amount each time the player sleeps. The attributes increase proportionally to how much they were reduced before sleeping. 
+  >
+  >*Selecting an attribute upon levelling up will now only increase that attribute by one point.* 
+  >
+  >These two mods can be disabled if the vanilla system is preferred.
 
-* *Eating/Drinking*: [Apothecary - Food and Drink Addon](https://www.nexusmods.com/skyrimspecialedition/mods/52130) alters food and drink to make them give long lasting passive regeneration buffs. The buffs are very well balanced and incentivize eating and drinking regularly without making the buffs OP.
+**Eat/Drink**: [Apothecary - Food and Drink Addon](https://www.nexusmods.com/skyrimspecialedition/mods/52130) alters food and drink to make them give long lasting passive regeneration buffs. The buffs are very well balanced and incentivize eating and drinking regularly without making the buffs OP.   
 
-* *Cold*: The cold system from [Sunhelm - Survival and Needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414) is used to reward preparation and increase immersion. Other Sunhelm mechanics are disabled.
+**Cold**: The cold system from [Sunhelm - Survival and Needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414) is used to reward preparation and increase immersion. Other Sunhelm mechanics are disabled.
 
-* *Camping*: [Camping Lite](https://www.nexusmods.com/skyrimspecialedition/mods/2370) is a lightweight mod that provides an option for pitching a tent & lighting a fire for warmth/cooking. 
+**Camping**: [Camping Lite](https://www.nexusmods.com/skyrimspecialedition/mods/2370) is a lightweight mod that provides an option for pitching a tent & lighting a fire for warmth/cooking. 
+
+**Carry Weight**: ElmoRim limits the player to 150 points of carry capacity. The only way to increase this limit is through perks or crafting a [Simple Leather Backpack](https://www.nexusmods.com/skyrimspecialedition/mods/42455). Be wary though, while backpacks help fit that final piece of sliced cheese into the players inventory, they also come with a [Backpack Penalty](https://www.nexusmods.com/skyrimspecialedition/mods/57206). This penalty heavily reduces stamina regeneration in combat. *In essence, backpacks are meant to carry loot out of dungeons - not into them.*
 
 #### Experience
 [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) changes how levelling works in Skyrim. Instead of player level being tied to skill level, experience is now earned through completing quests, discovering new locations and killing enemies.
 
 #### Simplest Horses
-The best mod for horse management in Skyrim. [Simplest Horses](https://www.nexusmods.com/skyrimspecialedition/mods/54225) gives the player the ability to have the horse follow/wait and stash items with a single button. If the crosshair is aimed at the horse, pressing the button opens the horses inventory. Otherwise it triggers the horse whistle, telling the horse to wait/follow.
+The best mod for horse management in Skyrim. [Simplest Horses](https://www.nexusmods.com/skyrimspecialedition/mods/54225) gives the player the ability to have the horse follow,wait and stash items with a single button. If the crosshair is aimed at the horse, pressing the button opens the horses inventory. Otherwise it triggers the horse whistle, telling the horse to wait/follow.
 ### MCM Customization
 Almost all of ElmoRim's MCM menus are pre-configured. This section outlines the few mandatory manual tweaks that are required and lists a few optional ones.
 #### Mandatory
 
-*SunHelm*: Disable powers under *General>Enable/Disable powers*. Only Sunhelms Cold system is enabled as part of the ElmoRim Lite Survival setup. 
+##### SunHelm 
+Disable powers under *General>Enable/Disable powers*. Only Sunhelms Cold system is enabled as part of the ElmoRim Lite Survival setup. 
 
-*Valravn*: Disable (or set to 0) everything except *Attacks of Opportunity* and *Bow Stamina Cost*.
+##### Valravn
+ Disable (or set to 0) everything except *Attacks of Opportunity* and *Bow Stamina Cost*.
 
-*Incremental Gains*: Set Soft Cap Base to 125.
+##### Incremental Gains
+Set Soft Cap Base to 125.
 
 #### Optional
-*Skyrim Unbound*  
+##### Skyrim Unbound  
 Dragons are set to appear after 7 to 21 days by default. They will appear at word walls before appearing in the wild. They can be configured to spawn faster/slower/instantly or spawn based on level instead.
  
- *Better Third Person Selection*  
- Enable/disable the filters that prevent the player from accidentally stealing items when trying to interact with the world.
+##### Better Third Person Selection
+Enable/disable the filters that prevent the player from accidentally stealing items when trying to interact with the world.
  
- *Favourite Howls Menu*  
- Customize which powers will be in the favorites menu (for werewolves).
+##### Favourite Howls Menu  
+Customize which powers will be in the favorites menu (for werewolves).
  
- *Hide Your Quests*  
-  Allows filtering quests from the journal (not useful on startup, obviously).
+##### Improved Alternate Conversation Camera
+Tweak the dialogue camera. Notable settings include *Switch Target* (for Witcher-Style Dialogue Camera), *Force Third/First Person* and *Camera Offsets*.
  
- *Improved Alternate Conversation Camera*  
-  Tweak the dialogue camera. Notable settings include *Switch Target* (for Witcher-Style Dialogue Camera), *Force Third/First Person* and *Camera Offsets*.
- 
- *Optimal Potion Hotkey*  
+##### Optimal Potion Hotkey
 Customize *Health potion hotkey* (Default: `H`). Add a hotkey for stamina/magicka potions.
 
-*Simplest Horses*  
- Customize *Horse Control hotkey*(Default: `V`).
+##### Simplest Horses
+Customize *Horse Control hotkey*(Default: `V`).
   
-*SmoothCam*  
-By default the list uses [Adventurer's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/59997).
+##### SmoothCam*
+By default the list uses [Adventurer's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/59997). Feel free to download and install other presets.
 
-*Survival Control Panel*  
-Optionally disable *Sleep to level up*.   
+##### Survival Control Panel
+Enable/disable *Sleep to level up*.   
 
-*True Directional Movement*  
+##### True Directional Movement*  
 Customize *Target Lock* keybind here (Default `MB4`).
 
-*Valhalla Combat*  
+##### Valhalla Combat
 The core of the combat balance in the list. 
   * Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them. 
   * Timed Block: Enable or disable the *Tackle* mechanic (Default: `Disabled`).
@@ -324,25 +336,28 @@ The core of the combat balance in the list.
   * Compatibility: Choose whether or not to use animations from [Poise](https://www.nexusmods.com/skyrimspecialedition/mods/72653).
       - *Special Meter Control* should say `Not Obtained`. The special meter is reserved for displaying poise values.
 
+### What I Wish I Knew When I First Played ElmoRim
+
+
 ## Updating the modlist
 
-Before updating, please check the [changelog](https://github.com/aljoxo/ElmoRim/blob/main/ElmoRimChangelog.md) and back up any saves. A new game may be required after certain updates. To check if an update is save safe or not, refer to the version number. The first digit indicates major version, second digit indicates minor version (these are unlikely to be save safe unless otherwise specified), the third digit will represent bug fixes etc.
+Before updating, please check the [changelog](https://github.com/aljoxo/ElmoRim/blob/main/ElmoRimChangelog.md) and back up any saves. A new game may be required after certain updates. To check if an update is save safe or not, refer to the version number. The first digit indicates major version, second digit indicates minor version (these are unlikely to be save safe unless otherwise specified) and the third digit will represent bug fixes etc.
   - If the modlist is updated from `1.0.0` to `2.0.0`, then this version is likely a major overhaul of at least one system and **will not** be considered save safe.
-  - If the modlist is updated from `1.0.0` to `1.1.0`, then this version is **not** save safe.
-  - If the modlist is updated from `1.0.0` to `1.0.1`, then this version **is** save safe **unless** the changelog states otherwise. In cases where the update is save safe, performing additional steps my be needed to maintain the health of the save. These steps will be provided in the changelog.  
+  - If the modlist is updated from `1.0.0` to `1.1.0`, then this version is save safe **unless** the changelog states otherwise..
+  - If the modlist is updated from `1.0.0` to `1.0.1`, then this version **is** save safe  
+  
+  >In cases where the update is save safe, performing additional steps my be needed to maintain the health of the save. These steps will be .provided in the changelog.  
   
 
 Updating is like installing the list. Simply check that file paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods added to the installation will be deleted when updating. To ensure that Wabbajack does not delete added mods upon updating, prefix the mods with **[NoDelete]**.
 
-**ALWAYS** back up saves before an update. Because of the method Wabbajack uses to include the start save, any save within the profile will be wiped. 
-
-*Please make sure to back up saves when continuing a playthrough across a **save safe** update.*
+**ALWAYS back up saves before an update.**
 
 ## FAQ 
 
 #### Q: Why does the list claim to be vanilla when it clearly isn't.
 
-A: No such claims are made. The list is centered around vanilla content and provides a platform for enjoying said content over a decade after it's creation.
+A: No such claims are made. The list is centered around vanilla content and provides a platform for enjoying said content by leveraging a decade of contributions from awesome mods makers.
 
 #### Q: I can't level up, what do I do?  
 A: You have Sleep to level up enabled, go sleep in a bed or disable it through Survival Control Panel in the MCM.
@@ -354,7 +369,7 @@ A: If you have chosen to be Dragonborn in the Skyrim Unbound MCM settings, then 
 A: By default, dragons are set to be delayed in their spawns from 7 to 21 days after you leave the starting room. By default, dragons will begin showing up at their Word Walls before you will encounter them in the wild.
 
 #### Q: How do I become the Thane of Whiterun? How do I get Lydia?  
-A: You must complete [The Blessings of Nature](https://en.uesp.net/wiki/Skyrim:The_Blessings_of_Nature) quest and talk to Jarl Balgruuf when the Gildergreen tree is repaired/the sappling blooms. He'll thank you and allow you to buy the Breezehome, and the standard thaneship quest (help people of the hold and buy a house to become a thane) will be available.
+A: You must complete [The Blessings of Nature](https://en.uesp.net/wiki/Skyrim:The_Blessings_of_Nature) and talk to Jarl Balgruuf when the Gildergreen tree is repaired/the sappling blooms. He'll thank you and allow you to buy the Breezehome after which the standard thaneship quest (help people of the hold and buy a house to become a thane) will be available.
 
 #### Q: How do I enable my crosshair?
 A: Disable the `Contextual Crosshair` mod, under the "Heads Up Display (HUD)" Separator in MO2.
@@ -363,11 +378,10 @@ A: Disable the `Contextual Crosshair` mod, under the "Heads Up Display (HUD)" Se
 
 ### BethINI
 
-To get some more FPS, tweak the following value in the detail section in BethINI.
+To get some more FPS, tweak the following values in the detail section in BethINI.
 
-- `Shadow Resolution`: 1024
 - `Grass Density`: 60
-- `Remove Shadows`: I really don’t recommend turning this on, but if you must, then you can.
+- `Remove Shadows`: Enabling this is not recommended, but can help as a last resort
 
 ### ENB Settings
 If you want to tweak your ENB to improve performance, consider looking at Annakin's [ENB Tips](https://github.com/The-Animonculory/Modding-Resources/blob/main/ENB%20Tips.md) guide. 
@@ -388,7 +402,7 @@ To open the editor, press *F11* in-game.
 * [Modlist](link)  
 * [Roadmap](link)  
 ## Removing the Modlist
-Simply delete the folder, and you have uninstalled it.
+Simply delete the folder.
 
 ## Contact
 
@@ -398,3 +412,5 @@ Simply delete the folder, and you have uninstalled it.
 - _YOU_ for reading this.
 - Noggog for Mutagen and the xEdit team for xEdit and their tools.
 - Halgari and the WJ Team for this amazing platform.
+- Aljoxo, author of [Arisen](https://github.com/aljoxo/Arisen) for letting me use his README as a template.
+- Phoenix, author of [The Phoenix Flavour](https://thephoenixflavour.com/) for letting me use the Appearance setup from [LotF](https://thephoenixflavour.com/skyrim-se/lotf/introduction/).
