@@ -59,8 +59,8 @@ ElmoRim consists of around 600 mods. This overview provides an idea of what to e
 | **Combat**    | MCO, Valhalla, Precision, Valravn    |
 | **Gameplay** | SimonRim, Experience, ElmoRim Lite Needs*|
 | **Quests**    | Skyrim Unbound, JaySerpa's Quest Expansion-series, At Your Own Pace, College For Non-Mages     |
-| **Immersion** | Animated interactions, EVGAT, Animated Eating Redux|
-| **Audio**| AOS, ISC, Regional Sounds Expansion, YAMM|
+| **Immersion** | Immersive interactions, EVG Animated Traversal, Animated Eating Redux|
+| **Audio**| AOS, ISC, Regional Sounds Expansion, Yet Another Music Merge |
 |**UI**| Untarnished UI, BTPS|
 | **New lands** | Nope |
 |**Followers**| Nope|
