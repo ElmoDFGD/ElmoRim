@@ -240,7 +240,7 @@ ElmoRim features mods that provide (potential) Ultrawide and Widescreen Support.
 
 ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim should be able to jump right in and start playing after reading about the mods listed below. **Users are expected to read this section and visit each mods nexus page.**
 
- #### ElmoRim Control scheme
+ #### ElmoRim Control scheme:
   - The ElmoRim keyboard control scheme might seem a bit unorthodox at a glance. It is inspired by the excellent [Streamlined Skyrim](https://github.com/TerribleBrad/Streamlined-Skyrim/blob/main/README.md) modlist and offers a compact layout. While it certainly can be modified, it is recommended that users give it a try. Much thought has gone into tweaking the controls to allow quick and easy access to all necessary actions.  
 
   - ElmoRim features mods that support playing with a controller. However, no pre-configured control scheme is provided and users are encouraged to create their own setup.
@@ -249,11 +249,11 @@ ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim
   
   ![](https://user-images.githubusercontent.com/118224262/203798474-0566bb92-4e11-4baf-9176-074f33738566.png).
 
-  #### Elden Equip
+  #### Elden Equip:
   Ipsum
 
 
-  #### ElmoRim Combat
+  #### ElmoRim Combat:
 Ipsum
 
 #### Skyrim Unbound
@@ -263,7 +263,7 @@ ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mod
   - It is possible to choose whether or not the player is the Dragonborn and, if they are not, whether or not they are able to use shouts.
 * Once finished, hit Enter again and choose *Continue*.
 
-#### ElmoRim Lite Needs
+#### ElmoRim Lite Needs:
 Elmorim comes with a unique setup for survival elements, seamlessly integrated into the general gameplay. 
 
 ##### Sleep
@@ -288,10 +288,10 @@ The cold system from [Sunhelm - Survival and Needs](https://www.nexusmods.com/sk
 
 ElmoRim limits the player to 150 points of carry capacity. The only way to increase this limit is through perks or crafting a [Simple Leather Backpack](https://www.nexusmods.com/skyrimspecialedition/mods/42455). Be wary though, while backpacks help fit that final piece of sliced cheese into the players inventory, they also come with a [Backpack Penalty](https://www.nexusmods.com/skyrimspecialedition/mods/57206). This penalty heavily reduces stamina regeneration in combat. *In essence, backpacks are meant to carry loot out of dungeons - not into them.*
 
-#### Experience
+#### Experience:
 [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) changes how levelling works in Skyrim. Instead of player level being tied to skill level, experience is now earned through completing quests, discovering new locations and killing enemies.
 
-#### Simplest Horses
+#### Simplest Horses:
 The best mod for horse management in Skyrim. [Simplest Horses](https://www.nexusmods.com/skyrimspecialedition/mods/54225) gives the player the ability to have the horse follow,wait and stash items with a single button. If the crosshair is aimed at the horse, pressing the button opens the horses inventory. Otherwise it triggers the horse whistle, telling the horse to wait/follow.
 ### MCM Customization
 Almost all of ElmoRim's MCM menus are pre-configured. This section outlines the few mandatory manual tweaks that are required and lists a few optional ones.
