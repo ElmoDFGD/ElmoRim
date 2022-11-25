@@ -3,20 +3,20 @@
 
 * Test Scion - Dawnguard TaE conflict
 * High Level Enemies Redux & Heritage Enemies 2
-* Add AA instructions
 * Btps torch selection - bug fixed in coming version
 * Alessandras dagger OP
 * loadscreens
 * blood on the ice trigger
 * scroll stuck fix to readme
-* crafting kit instr@camping lite header
-* backpack instr (incl penalty) under ElmoRim lite header
 * Favourite Howls Menu  
 * Combat guide
 * Elden equip guide
-* Disable NGIO under performance header
 * daedric dialogue speed FAQ
-* Upload to nexus, download and compile
+* Controller support
+* Ultrawide support
+* Check MB keybinds
+* NGIO tweaks for grass LOD under game settings
+* Disable NGIO under performance header
 
 ## DD
 
