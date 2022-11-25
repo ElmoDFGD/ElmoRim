@@ -144,27 +144,29 @@ Once pre-installation is completed, download the [latest version of Wabbajack]((
 
 Installing ElmoRim is a straightforward process. A Nexus Premium account is strongly advised. Download and installation can take a while depending on internet connection and computer specs. To install ElmoRim, complete the following steps.
 
+>Wabbajack automatically [downgrades](https://www.nexusmods.com/skyrimspecialedition/mods/57618) the Skyrim installation version 1.5.97. **Do not** downgrade the steam install or the modlist yourself.
+
 1. Open Wabbajack and click `Browse Modlists`
 2. Tick the `Show Unofficial lists` option in the top right corner of Wabbajack
 3. Press the download button on ElmoRim and wait for it to download.
 4. Set the installation folder to be somewhere like C:\Games\ElmoRim. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in Skyrim's Steam folder**
-> The download location does not need to be on a SSD, but it makes installing faster.
+> The download location does not need to be on a SSD, but it makes installation go a lot faster.
 5. Press the play button to begin.
-7. If the installation is successful, prosper and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
->Wabbajack automatically [downgrades](https://www.nexusmods.com/skyrimspecialedition/mods/57618) the Skyrim installation version 1.5.97. **Do not** downgrade the steam install or the modlist yourself.
+7. If the installation is successful, prosper, and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
+
 
 ### Problems with installation
 
 It is possible to encounter errors when installing with Wabbajack. Some common issues are:
 
 - Could not download x:
-	- Big files can fail to download due to connection issues. Either run wabbajack again or download the file manually. If downloading manually, make sure to place it in the same place as the other downloads.
+	- Big files can fail to download due to connection issues. Either run wabbajack again or download the file manually. If downloading manually, make sure to place it in the same folder as the other downloads.
 
 - **X** is not a whitelisted download:
 
-	 - This may happen when the modlist is being updated. Please check if there is a new update or wait until for a release ping.
+	 - This may happen when the modlist is being updated. Please check if there is a new update or wait for a release ping.
 
-- Wabbajack could not find my game folder:
+- Wabbajack could not find the game folder:
 
 	- Either buy the game or go back to the [Pre-Installation](#pre-installation) step.
 
@@ -222,7 +224,7 @@ ElmoRim features mods that provide (potential) Ultrawide and Widescreen Support.
 
 ### Starting the Game
 
- - Navigate to the installation folder and locate *ModOrganizer.exe* and launch it.  
+ - Navigate to the installation folder and launch *ModOrganizer.exe*.  
   If a message: *Registry Key does not match* appears, press *Yes*. Once it's launched, there will be a dropdown box on the top right and a big run button next to it.
  
  - Launch the *ElmoRim* executable in MO2
