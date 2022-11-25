@@ -45,7 +45,7 @@
 
 ## What is ElmoRim?  
 
-The ultimate plug-n-play modlist for anynone wanting to play Skyrim in 2023. 
+The ultimate plug-n-play modlist for anyone wanting to play Skyrim in 2023. 
 Elmorim is a **compact**, **performance friendly** list that offers **improved visuals**, **modernized combat** and **increased immersion**. Everything from the README to mod selection and in-game configuration has been carefully designed to make sure anyone familiar with the vanilla content can jump right in. 
 The list caters to those who want to experience Skyrim over a decade after its release. To this end, a curated selection of tweaks and fixes for the vanilla content is provided. No massive content additions and NO CC-MODS REQUIRED.
 
