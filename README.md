@@ -58,7 +58,7 @@ ElmoRim consists of around 600 mods. This overview provides an idea of what to e
 | **Visuals**   | Skyland AIO, Modular Armory, Patrician ENB |  
 | **Combat**    | MCO, Valhalla, Precision, Valravn    |
 | **Gameplay** | SimonRim, Experience, ElmoRim Lite Needs*|
-| **Quests**    | Skyrim Unbound, JaySerpa's Quest Expansion-series     |
+| **Quests**    | Skyrim Unbound, JaySerpa's Quest Expansion-series, At Your Own Pace, College For Non-Mages     |
 | **Immersion** | Animated interactions, EVGAT, Animated Eating Redux|
 | **Audio**| AOS, ISC, Regional Sounds Expansion, YAMM|
 |**UI**| Untarnished UI, BTPS|
