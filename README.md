@@ -80,7 +80,7 @@ First a word about performance. [QuagaarWarrior](https://www.nexusmods.com/skyri
 saying whether an individual mod is performance heavy or not is difficult because there are so many other factors at play such as the other mods you use, ENB, resolution you play at and your system specs to name just a few. 
 I encourage you to try the mod and see how it performs in your individual set up."
 
-Key takeaway here being *"individual set up"*.
+Key phrase being **"individual set up"**.
 
 With that said, ElmoRim has been carefully designed to offer a balance between visual quality and performance.
 
@@ -250,7 +250,7 @@ ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim
   ![](https://user-images.githubusercontent.com/118224262/203798474-0566bb92-4e11-4baf-9176-074f33738566.png).
 
   #### Elden Equip
- Ipsum
+  Ipsum
 
 
   #### ElmoRim Combat
@@ -298,7 +298,7 @@ Disable powers under *General>Enable/Disable powers*. Only Sunhelms Cold system 
  Disable (or set to 0) everything except *Attacks of Opportunity* and *Bow Stamina Cost*.
 
 ##### Incremental Gains
-Set Soft Cap Base to 125.
+Set *Soft Cap Base* to 125.
 
 #### Optional
 ##### Skyrim Unbound  
@@ -319,7 +319,7 @@ Customize *Health potion hotkey* (Default: `H`). Add a hotkey for stamina/magick
 ##### Simplest Horses
 Customize *Horse Control hotkey*(Default: `V`).
   
-##### SmoothCam*
+##### SmoothCam
 By default the list uses [Adventurer's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/59997). Feel free to download and install other presets.
 
 ##### Survival Control Panel
@@ -403,8 +403,19 @@ A: Disable the `Contextual Crosshair` mod, under the "Heads Up Display (HUD)" Se
 
 To get some more FPS, tweak the following values in the detail section in BethINI.
 
-- `Grass Density`: 60
-- `Remove Shadows`: Enabling this is not recommended, but can help as a last resort
+- `Visuals>Grass Density`: Set to 60 (or 20 for more dense grass)
+- `Detail>Remove Shadows`: Enable (This is not recommended, but can help as a last resort)
+
+By default TAA is disabled as per Patrician ENBs recommendations. Antialiasing in Skyrim has always been a bit, difficult. As such, it comes down to a trade off between higher sharpness/noise and more blur/smoothness. Users are encouraged to experiment and decide which is preferred.
+
+- `Basic>Antialiasing`: Enable TAA
+
+The best AA in Skyrim is higher resolution. If the game runs smoothly at 1080p@60FPS, increasing the resolution is an option to help with sharpness. Here, it comes down to a trade off between visual quality and dropping 10-20 FPS depending on where the player is in-game.
+
+- `Basic>Resolution`: Set to 2560x1440
+
+### LOD
+By default, ElmoRim ships with a DynDOLOD setup based on the *Low* settings profile in DynDOLOD. This is a massive improvement over vanilla LOD, both in terms of visual consistency as well as quality. Still, users with enough headroom in terms of FPS can [generate](https://www.youtube.com/watch?v=encZYHEeQrQ) new LODs with higher quality, 3D tree models and even distant grass. ElmoRim has a grass cache already setup to this end.
 
 ### ENB Settings
 If you want to tweak your ENB to improve performance, consider looking at Annakin's [ENB Tips](https://github.com/The-Animonculory/Modding-Resources/blob/main/ENB%20Tips.md) guide. 
@@ -421,11 +432,10 @@ To quote her, here is a short answer to improve performance with an ENB turned o
 To open the editor, press *F11* in-game.
 
 ## Documentation
-* [Changelog](link)
+* [Changelog](link)  
 * [Known Issues](link)  
 * [Modlist](link)  
-* [Roadmap](link)
-
+* [Roadmap](link)  
 ## Removing the Modlist
 Delete the ElmoRim folder.
 
