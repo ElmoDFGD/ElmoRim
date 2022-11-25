@@ -250,12 +250,21 @@ ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim
   ![](https://user-images.githubusercontent.com/118224262/203798474-0566bb92-4e11-4baf-9176-074f33738566.png).
 
   #### Elden Equip:
-  Ipsum
+ The combat in ElmoRim is a lot more fast paced than vanilla Skyrim. This means a new system for smoothly switching between sets of weapons/spells/powers on the fly is needed. Elden Equip Does just that by providing a system inspired by Elden Ring where the left and right hand can be cycled independently. The same goes for items and powers.
+
+ >Read the modpage carefully and experiment in game. It takes a while to get used to this way of equipping, but it offers a smoothness and flexibility far superior to vanilla. 
 
 
   #### ElmoRim Combat:
-Ipsum
-
+Offering an updated and immersive take on vanilla content is what ElmoRim is all about. The key to making it a truly enjoyable experience is pairing all that Skyrim has to offer with the fast paced, responsive and impactful combat of modern action games.  
+ElmoRim comes with all the bells and whistles in this department. 
+* [Attack - MCO|DXP](https://www.skyrim-guild.com/mods/attack) creates a smooth flow by adding movement to all attack animations. 
+* [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347) provides a sense of impact by fixing hitboxes, adding weapon trails and implementing hitstop animations.
+* [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741) overhauls Stamina management to encourage a high paced playstyle. It also features an unparallelled timed block function and and a Stun/Execute system.  
+* [One Click Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/60878) introduces a separate key for performing power attacks, giving the player control over what happens and when. Default key: `MB4`
+* [SCAR - Skyrim Combos AI Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/72014) makes enemies use attacks in the same way that MCO does for the player.
+* [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956) adds dodging. Default key: `Spacebar`
+* [Poise - Stagger Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/72653) and [Poisebreaker](https://www.nexusmods.com/skyrimspecialedition/mods/74032) make combat more tactical by causing actors to stagger when hit. This creates many interesting scenarios where the player can seize the advantage and go HAM on a staggered opponent, but risk getting staggered and overwhelmed by nearby enemies.
 #### Skyrim Unbound
 ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) as the alternate start mod.
 * In order to start chargen hit *Enter* after loading in. If the player character seems to be frozen during RaceMenu, just swap race or gender and swap back, it should unfreeze them. This is an issue with DAR Cacheing.
