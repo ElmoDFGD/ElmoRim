@@ -80,7 +80,7 @@ First a word about performance. [QuagaarWarrior](https://www.nexusmods.com/skyri
 saying whether an individual mod is performance heavy or not is difficult because there are so many other factors at play such as the other mods you use, ENB, resolution you play at and your system specs to name just a few. 
 I encourage you to try the mod and see how it performs in your individual set up."
 
-Key takeaway here being **"individual set up"**.
+Key takeaway here being *"individual set up"*.
 
 With that said, ElmoRim has been carefully designed to offer a balance between visual quality and performance.
 
@@ -209,7 +209,7 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
  3. Go to the Compatibility tab
  4. Under the Compatibility mode section, check the Run in comp.. and choose Windows 8 from the dropdown. 
  5. Click Apply and then OK
- 6. Repeat steps 1-5 for xLODGenx64 and DynDOLODx64 (These are located in `Path to Modlist`\tools..)
+ 6. Repeat steps 1-5 for xLODGenx64.exe and DynDOLODx64.exe (These are located in `Path to Modlist`\tools..)
 
 ### Widescreen Fixes
 
@@ -250,7 +250,7 @@ ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim
   ![](https://user-images.githubusercontent.com/118224262/203798474-0566bb92-4e11-4baf-9176-074f33738566.png).
 
   #### Elden Equip
-  Ipsum
+ Ipsum
 
 
   #### ElmoRim Combat
@@ -270,7 +270,7 @@ Elmorim comes with a unique setup for survival elements, seamlessly integrated i
 
   >By default, ElmoRim also uses the mods [Incremental Gains](https://www.nexusmods.com/skyrimspecialedition/mods/67270) & [Hardcore Level Up - Incremental Gains Addon](https://www.nexusmods.com/skyrimspecialedition/mods/72741) which increase max Magicka/Health/Stamina by a small amount each time the player sleeps. The attributes increase proportionally to how much they were reduced before sleeping. 
   >
-  >*Selecting an attribute upon levelling up will now only increase that attribute by one point.* 
+  >This replaces the vanilla attribute progression. Selecting an attribute upon levelling up will now only increase that attribute by one point.
   >
   >These two mods can be disabled if the vanilla system is preferred.
 
@@ -337,6 +337,29 @@ The core of the combat balance in the list.
       - *Special Meter Control* should say `Not Obtained`. The special meter is reserved for displaying poise values.
 
 ### What I Wish I Knew When I First Played ElmoRim
+***GET OP EARLY ESSENTIAL BEGINNERS TIPS ONE SHOT GUIDE***
+
+In all seriousness, ElmoRim plays pretty close to vanilla and the [Gameplay Guide](#gameplay-guide) accounts for any notable differences. However it always helps to have a plan when starting a new playthrough.
+
+ 1. Craft a Camping Kit ASAP
+* 2 x Wolf Pelt
+* 1 x Iron Ingot
+* 6 x Leather
+* 6 x Leather Strips
+* Craft at any forge
+
+2. The manual for crafting Backpacks can be found outside the Drunken Huntsman in Whiterun
+
+3. Bring a Woodcutter's Axe
+
+4. Bring gear suitable for cold weather
+
+5. Don't loot everything in sight - carry weight is limited.
+
+
+
+>If a suspected bug or weird behavior is encountered, check [Known Issues](#documentation). If the issue isn't listed there, please [register an issue](link) on the ElmoRim GitHub.
+
 
 
 ## Updating the modlist
@@ -398,11 +421,13 @@ To quote her, here is a short answer to improve performance with an ENB turned o
 To open the editor, press *F11* in-game.
 
 ## Documentation
-* [Changelog](link)  
+* [Changelog](link)
+* [Known Issues](link)  
 * [Modlist](link)  
-* [Roadmap](link)  
+* [Roadmap](link)
+
 ## Removing the Modlist
-Simply delete the folder.
+Delete the ElmoRim folder.
 
 ## Contact
 
