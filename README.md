@@ -45,9 +45,7 @@
 
 ## What is ElmoRim?  
 
-The ultimate plug-n-play modlist for anyone wanting to play Skyrim in 2023. 
-Elmorim is a **compact**, **performance friendly** list that offers **improved visuals**, **modernized combat** and **increased immersion**. Everything from the README to mod selection and in-game configuration has been carefully designed to make sure anyone familiar with the vanilla content can jump right in. 
-The list caters to those who want to experience Skyrim over a decade after its release. To this end, a curated selection of tweaks and fixes for the vanilla content is provided. No massive content additions and NO CC-MODS REQUIRED.
+Elmorim is a **compact**, **performance friendly** list that offers **improved visuals**, **modernized combat** and **increased immersion**. The list caters to those who want to experience Skyrim over a decade after its release. To this end, a curated selection of tweaks and fixes for the vanilla quests are provided. No massive content additions and NO CC-MODS REQUIRED.
 
 > Disclaimer: ElmoRim puts vanilla content at center stage. However it is first and foremost Skyrim the way I, Elmo, want it. So if a certain mod is included, it is because I want it there.
 
@@ -93,7 +91,7 @@ The list was developed on an upper-mid tier laptop with the following specs:
 | **Ram**    | 16GB     |
 | **Storage**    |  SSD     |
 
-With these specs the game runs at 60fps@1080p and around 45fps@1440p (in exteriors, 60 fps in interiors).
+With these specs the game runs at 60fps@1080p and at around 45fps@1440p (in exteriors, 60 fps in interiors).
 
 Recommendations on how to tweak the balance between visual quality/performance are provided [below](#tweaking-the-game-settings)
 
@@ -369,7 +367,11 @@ In all seriousness, ElmoRim plays pretty close to vanilla and the [Gameplay Guid
 
 4. Bring gear suitable for cold weather
 
-5. Don't loot everything in sight - carry weight is limited.
+5. Don't loot everything in sight - carry weight is limited
+
+6. Quick Light is useful - use it
+
+7. If the enemies healthbar is flashing and a thumping sounds play, they can be executed. `Default key: MB3`
 
 
 
@@ -393,7 +395,7 @@ Updating is like installing the list. Simply check that file paths are the same 
 
 ## FAQ 
 
-#### Q: Why does the list claim to be vanilla when it clearly isn't.
+#### Q: This isn't vanilla?!
 
 A: No such claims are made. The list is centered around vanilla content and provides a platform for enjoying said content by leveraging a decade of contributions from awesome mods makers.
 
@@ -425,12 +427,12 @@ By default TAA is disabled as per Patrician ENBs recommendations. Antialiasing i
 
 - `Basic>Antialiasing`: Enable TAA
 
-The best AA in Skyrim is higher resolution. If the game runs smoothly at 1080p@60FPS, increasing the resolution is an option to help with sharpness. Here, it comes down to a trade off between visual quality and dropping 10-20 FPS depending on where the player is in-game.
+The best AA in Skyrim is higher resolution. If the game runs smoothly at 1080p@60FPS, increasing the resolution is an option. Here, it comes down to a trade off between visual quality and dropping 10-20 FPS depending on where the player is in-game.
 
 - `Basic>Resolution`: Set to 2560x1440
 
 ### LOD
-By default, ElmoRim ships with a DynDOLOD setup based on the *Low* settings profile in DynDOLOD. This is a massive improvement over vanilla LOD, both in terms of visual consistency as well as quality. Still, users with enough headroom in terms of FPS can [generate](https://www.youtube.com/watch?v=encZYHEeQrQ) new LODs with higher quality, 3D tree models and even distant grass. ElmoRim has a grass cache already setup to this end.
+By default, ElmoRim ships with an LOD based on the *Low* settings profile in DynDOLOD. This is a massive improvement over vanilla LOD, both in terms of visual consistency as well as quality. Still, users with enough headroom in terms of FPS can [generate](https://www.youtube.com/watch?v=encZYHEeQrQ) new LODs with higher quality, 3D tree models and even distant grass. ElmoRim has a grass cache already setup to this end.
 
 ### ENB Settings
 If you want to tweak your ENB to improve performance, consider looking at Annakin's [ENB Tips](https://github.com/The-Animonculory/Modding-Resources/blob/main/ENB%20Tips.md) guide. 
