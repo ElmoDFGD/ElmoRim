@@ -293,7 +293,7 @@ The cold system from [Sunhelm - Survival and Needs](https://www.nexusmods.com/sk
 
 ##### Carry Weight 
 
-ElmoRim limits the player to 150 points of carry capacity. The only way to increase this limit is through perks or crafting a [Simple Leather Backpack](https://www.nexusmods.com/skyrimspecialedition/mods/42455). Be wary though, while backpacks help fit that final piece of sliced cheese into the players inventory, they also come with a [Backpack Penalty](https://www.nexusmods.com/skyrimspecialedition/mods/57206). This penalty heavily reduces stamina regeneration in combat. *In essence, backpacks are meant to carry loot out of dungeons - not into them.*
+ElmoRim limits the player to 150 points of carry capacity. The only way to increase this limit is through perks, gear or crafting a [Simple Leather Backpack](https://www.nexusmods.com/skyrimspecialedition/mods/42455). Be wary though, while backpacks help fit that final piece of sliced cheese into the players inventory, they also come with a [Backpack Penalty](https://www.nexusmods.com/skyrimspecialedition/mods/57206). This penalty heavily reduces stamina regeneration in combat. *In essence, backpacks are meant to carry loot out of dungeons - not into them.*
 
 #### Experience:
 [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) changes how levelling works in Skyrim. Instead of player level being tied to skill level, experience is now earned through completing quests, discovering new locations and killing enemies.
