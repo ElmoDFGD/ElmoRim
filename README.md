@@ -199,7 +199,8 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
  1. Navigate to the Nemesis Executable.
  2. Right click on the Nemesis Executable, select *Properties*.
  3. Go to the *Compatibility* tab.
- 4. Under the *Compatibility mode* section, check `Run this program in compatibility mode for:` and select *Windows 8* from the dropdown menu. 
+ 4. Under the *Compatibility mode* section, check `Run this program in compatibility mode for:` and select  
+  *Windows 8* from the dropdown menu. 
  5. Click `Apply` and then `OK`.
  6. Repeat steps 1-5 for xLODGenx64.exe and DynDOLODx64.exe (These are located in "Path to Modlist"\tools..)
 
