@@ -45,7 +45,7 @@
 
 ## What is ElmoRim?  
 
-Elmorim is a **compact**, **performance friendly** list that offers **improved visuals**, **modernized combat** and **increased immersion**. The list caters to those who want to experience Skyrim over a decade after its release. To this end, a curated selection of tweaks and fixes for the vanilla quests are provided. No massive content additions and NO CC-MODS REQUIRED.
+Elmorim is a **compact**, **performance friendly** list that offers **improved visuals**, **modernized combat** and **increased immersion**. A curated selection of tweaks and fixes for the vanilla content are provided. No massive quests or new lands are added added and NO CC-MODS REQUIRED.
 
 > Disclaimer: ElmoRim puts vanilla content at center stage. However it is first and foremost Skyrim the way I, Elmo, want it. So if a certain mod is included, it is because I want it there.
 
