@@ -1,4 +1,4 @@
-# **ElmoRim Wabbajack Dev-Diary**
+# ElmoRim Wabbajack Dev-Diary
 ## 2d0
 
 * Test Scion - Dawnguard TaE conflict
@@ -8,19 +8,15 @@
 * blood on the ice trigger
 * scroll stuck fix to readme
 * Favourite Howls Menu  
-* daedric dialogue speed FAQ
 * Controller support
 * Ultrawide support
-* Check MB keybinds
-* NGIO tweaks for grass LOD under game settings
-* Disable NGIO under performance header
-* Resolution instructions¨
 * Missing lanterns screenshots
 * Sleeping enemies through floor
 * PC spinning when hit
 * Stuck when sneak feeding
+* Fix grass in caves
 
-## DD
+## Changelog
 
 ----0.0.1----
 
