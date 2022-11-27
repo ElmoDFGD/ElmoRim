@@ -235,7 +235,8 @@ In addition to enabling the mods, the following tweaks are required:
 ### Starting the game
 
  - Navigate to the installation folder and launch *ModOrganizer.exe*.  
-  If a message: *Registry Key does not match* appears, press *Yes*. Once it's launched, there will be a dropdown box on the top right and a big run button next to it.
+  If a message: *Registry Key does not match* appears, press 
+  `Yes`. Once it's launched, there will be a dropdown box on the top right and a big run button next to it.
  
  - Launch the *ElmoRim* executable in MO2
 
