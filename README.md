@@ -256,14 +256,14 @@ Set *Soft Cap Base* to 125.
 ## Updating the modlist
 
 Before updating, please check the [changelog](https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md) and back up any saves. A new game may be required after certain updates. To check if an update is save safe or not, refer to the version number. The first digit indicates major version, second digit indicates minor version (these are unlikely to be save safe unless otherwise specified) and the third digit will represent bug fixes etc.
-  - If the modlist is updated from `1.0.0` to `2.0.0`, then this version is likely a major overhaul of at least one system and **will not** be considered save safe.
-  - If the modlist is updated from `1.0.0` to `1.1.0`, then this version is save safe **unless** the changelog states otherwise..
-  - If the modlist is updated from `1.0.0` to `1.0.1`, then this version **is** save safe  
+  - If the modlist is updated from *1.0.0* to *2.0.0*, then this version is likely a major overhaul of at least one system and **will not** be considered save safe.
+  - If the modlist is updated from *1.0.0* to *1.1.0*, then this version is save safe **unless** the changelog states otherwise..
+  - If the modlist is updated from *1.0.0* to *1.0.1*, then this version **is** save safe  
   
   >In cases where the update is save safe, performing additional steps my be needed to maintain the health of the save. These steps will be provided in the changelog.  
   
 
-Updating is like installing the list. Simply check that the file paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods added to the installation will be deleted when updating. To ensure that Wabbajack does not delete added mods upon updating, prefix the mods with **[NoDelete]**.
+Updating is like installing the list. Simply check that the file paths are the same and tick `overwrite existing modlist`. **Note**: Any mods added to the installation will be deleted when updating. To ensure that Wabbajack does not delete added mods upon updating, prefix the mods with **[NoDelete]**.
 
 **ALWAYS back up saves before an update.**
 
