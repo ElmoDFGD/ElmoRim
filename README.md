@@ -294,7 +294,7 @@ A: By default, dragons are set to be delayed in their spawns from 7 to 21 days a
 A: You must complete [The Blessings of Nature](https://en.uesp.net/wiki/Skyrim:The_Blessings_of_Nature) and talk to Jarl Balgruuf when the Gildergreen tree is repaired/the sappling blooms. He'll thank you and allow you to buy the Breezehome after which the standard thaneship quest (help people of the hold and buy a house to become a thane) will be available.
 
 #### Q: How do I enable my crosshair?
-A: Disable the `Contextual Crosshair` mod, under the *Interface* Separator in MO2.
+A: Disable the [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980) mod, under the *Interface* separator in MO2.
 
 ## Removing the Modlist
 Delete the ElmoRim folder.
