@@ -28,7 +28,7 @@
   - [FAQ](#faq)
       - [Q: This isn't vanilla!?](#q-why-does-the-list-claim-to-be-vanilla-when-it-clearly-isnt)
       - [Q: BUG!](#q-bug)
-      - [Q: Why do all daedra sound like their on *Insert Illicit Substance*?](#q-why-do-all-daedra-sound-like-their-on-insert-illicit-substance)
+      - [Q: Why do all daedra sound like they're on *Insert Illicit Substance*?](#q-why-do-all-daedra-sound-like-theyre-on-insert-illicit-substance)
       - [Q: I can't level up, what do I do?](#q-i-cant-level-up-what-do-i-do)
       - [Q: How do I start the main questline?](#q-how-do-i-start-the-main-questline)
       - [Q: When do dragons start spawning?](#q-when-do-dragons-start-spawning)
