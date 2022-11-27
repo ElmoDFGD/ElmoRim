@@ -42,7 +42,7 @@
 
 Elmorim is a **compact**, **performance friendly** list that offers **improved visuals**, **modernized combat** and **increased immersion**. A curated selection of tweaks and fixes for the vanilla content are provided. No massive quests or new lands are added added and NO CC-MODS REQUIRED.
 
-This readme provides instructions for installing and configuring ElmoRim. A detailed gameplay guide, issue tracker and options for tweaking game settings can be found in the [ElmoRim wiki](https://github.com/ElmoDFGD/ElmoRim/wiki)
+This readme provides instructions for installing and configuring ElmoRim. A detailed gameplay guide, issue tracker and options for tweaking game settings can be found in the [ElmoRim wiki](https://github.com/ElmoDFGD/ElmoRim/wiki).
 
 > Disclaimer: ElmoRim puts vanilla content at center stage. However it is first and foremost Skyrim the way I, Elmo, want it. So if a certain mod is included, it is because I want it there.
 
@@ -191,7 +191,7 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
  6. Windows Defender will prompt with a run as administrator screen, select `Yes`.
  7. Click the `Add an exclusion` button at the top and choose *Folder*.
  8. Navigate to your Install folder for the list and click `Select Folder`.
- 9. **(OPTIONAL)** Repeat these steps for the ModOrganizer.exe (`Path to Modlist`\ModOrganizer.exe), the Nemesis Executable (`Path to Modlist`\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe), and Synthesis (`Path to Modlist`\tools\Synthesis\Synthesis.exe)
+ 9. **(OPTIONAL)** Repeat these steps for the ModOrganizer.exe ("Path to Modlist"\ModOrganizer.exe), the Nemesis Executable ("Path to Modlist"\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe), and Synthesis ("Path to Modlist"\tools\Synthesis\Synthesis.exe)
 
 
  ### Compatibility settings
@@ -201,11 +201,11 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
  3. Go to the *Compatibility* tab.
  4. Under the *Compatibility mode* section, check `Run this program in compatibility mode for:` and select *Windows 8* from the dropdown menu. 
  5. Click `Apply` and then `OK`.
- 6. Repeat steps 1-5 for xLODGenx64.exe and DynDOLODx64.exe (These are located in `Path to Modlist`\tools..)
+ 6. Repeat steps 1-5 for xLODGenx64.exe and DynDOLODx64.exe (These are located in "Path to Modlist"\tools..)
 
 
 ### Resolution settings
-By default, ElmoRim is configured to run in exclusive fullscreen. The reason is that [Detection Meter](https://www.nexusmods.com/skyrimspecialedition/mods/63057) is incompatible with the *BorderlessUpscale* feature of SSE Display tweaks. For users who absolutely want to play in borderless mode, the following tweaks are required:
+By default, ElmoRim is configured to run in exclusive fullscreen. This is because [Detection Meter](https://www.nexusmods.com/skyrimspecialedition/mods/63057) is incompatible with the *BorderlessUpscale* feature of [SSE Display tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705). For users who absolutely want to play in borderless mode, the following tweaks are required:
 1. Set Fullscreen = false in SSEDisplayTweaks.ini. This is found in the mod *SSE Display Tweaks - High performance configuration*. 
 2. Set *Resolution* to the desired value in SSEDisplayTweaks.ini.
 3. Right click on the Windows desktop.
