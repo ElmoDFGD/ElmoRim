@@ -243,6 +243,13 @@ In addition to enabling the mods, the following tweaks are required:
 ### MCM configuration
 Almost all of ElmoRim's MCM menus are pre-configured. This section outlines the few mandatory manual tweaks that are required.
 
+##### Skyrim Unbound
+ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) as the alternate start mod.
+* In order to start chargen hit *Enter* after loading in. If the player character seems to be frozen during RaceMenu, just swap race or gender and swap back, it should unfreeze them. This is an issue with DAR Cacheing.
+* Once finished with chargen, open up the *Skyrim Unbound* MCM menu and customize Standing Stone, whether or not the player is a vampire/werewolf, equipment, spells and starting location.
+  - It is possible to choose whether or not the player is the Dragonborn and, if they are not, whether or not they are able to use shouts.
+* Once finished, hit Enter again and choose *Continue*.
+
 ##### SunHelm 
 Disable powers under *General>Enable/Disable powers*. Only Sunhelms Cold system is enabled as part of the ElmoRim Lite Survival setup. 
 
