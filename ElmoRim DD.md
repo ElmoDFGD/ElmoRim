@@ -5,7 +5,6 @@
 * High Level Enemies Redux & Heritage Enemies 2
 * Btps torch selection - bug fixed in coming version
 * Alessandras dagger OP
-* loadscreens
 * blood on the ice trigger
 * scroll stuck fix to readme
 * Favourite Howls Menu  
@@ -15,6 +14,11 @@
 * Check MB keybinds
 * NGIO tweaks for grass LOD under game settings
 * Disable NGIO under performance header
+* Resolution instructions¨
+* Missing lanterns screenshots
+* Sleeping enemies through floor
+* PC spinning when hit
+* Stuck when sneak feeding
 
 ## DD
 
