@@ -281,7 +281,7 @@ A: No such claims are made. The list is centered around vanilla content and prov
 
 A: If a suspected bug or weird behavior is encountered, check the [issue tracker](https://github.com/ElmoDFGD/ElmoRim/issues). If the issue isn't listed there, please register a new one.
 
-#### Q: Why do all daedra sound like their on *Insert Illicit Substance*?
+#### Q: Why do all daedra sound like they're on *Insert Illicit Substance*?
 
 A: One of the most daunting things about starting a new playthrough in Skyrim is the prospect of having to listen to all the unskippable dialogue in daedric quests. The mod [Speedy Daedric Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/32459) alleviates this by making all dialogue play at 2x speed. To revert to vanilla, simply disable the mod.
 
