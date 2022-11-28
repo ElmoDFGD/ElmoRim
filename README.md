@@ -176,7 +176,7 @@ It is possible to encounter errors when installing with Wabbajack. Some common i
 
 ### Game folder
 
-ElmoRim uses a Wabbajack feature called *Stock Game* to keep the Skyrim installation folder clean. All the files needed to run the list are in a folder called `Game Root`. No manual copying of files is required.
+ElmoRim uses a Wabbajack feature called *Stock Game* to keep the Skyrim installation folder clean. All the files needed to run the list are in a folder called *Game Root*. No manual copying of files is required.
 
 ### Antivirus exceptions
 
