@@ -318,3 +318,4 @@ Delete the ElmoRim folder.
 - Halgari and the WJ Team for this amazing platform.
 - Aljoxo, author of [Arisen](https://github.com/aljoxo/Arisen) for letting me use Arisens README as a template.
 - Phoenix, author of [The Phoenix Flavour](https://thephoenixflavour.com/) for letting me use the Appearance setup from [LotF](https://thephoenixflavour.com/skyrim-se/lotf/introduction/).
+- Maia, for teaching me Git and Markdown.
