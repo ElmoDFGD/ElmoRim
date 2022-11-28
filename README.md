@@ -151,7 +151,7 @@ Installing ElmoRim is a straightforward process. A Nexus Premium account is stro
 4. Set the installation folder to be somewhere like C:\Games\ElmoRim. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in Skyrim's Steam folder**
 > The download location does not need to be on a SSD, but it makes installation go a lot faster.
 5. Press the play button to begin.
-7. If the installation is successful, prosper, and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
+7. If the installation is successful, prosper, and move onto [Post-installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
 
 ### Problems with installation
