@@ -3,17 +3,12 @@
 
 * Test Scion - Dawnguard TaE conflict
 * High Level Enemies Redux & Heritage Enemies 2
-* Btps torch selection - bug fixed in coming version
 * Alessandras dagger OP
 * blood on the ice trigger
-* scroll stuck fix to readme
 * Favourite Howls Menu  
 * Controller support
 * Ultrawide support
 * Missing lanterns screenshots
-* Sleeping enemies through floor
-* PC spinning when hit
-* Stuck when sneak feeding
 * Fix grass in caves
 
 ## Changelog
