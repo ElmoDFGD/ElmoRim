@@ -10,6 +10,7 @@
 * Ultrawide support
 * Missing lanterns screenshots
 * Fix grass in caves
+* replace controlmap 
 
 ## Changelog
 
