@@ -217,11 +217,16 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
  <details>
   <summary><strong>Click here to see required steps</strong></summary>  
  1. Navigate to the Nemesis Executable.
+ 
  2. Right click on the Nemesis Executable, select *Properties*.
+ 
  3. Go to the *Compatibility* tab.
+ 
  4. Under the *Compatibility mode* section, check `Run this program in compatibility mode for:` and select  
   *Windows 8* from the dropdown menu. 
+ 
  5. Click `Apply` and then `OK`.
+ 
  6. Repeat steps 1-5 for xLODGenx64.exe and DynDOLODx64.exe (These are located in "Path to Modlist"\tools..)
 
  </details>
@@ -233,9 +238,13 @@ By default, ElmoRim is configured to run in exclusive fullscreen. This is becaus
 <details>
   <summary><strong>Click here to see required steps</strong></summary>  
 1. Set Fullscreen = false in SSEDisplayTweaks.ini. This is found in the mod *SSE Display Tweaks - High performance configuration*. 
+
 2. Set *Resolution* to the desired value in SSEDisplayTweaks.ini.
+
 3. Right click on the Windows desktop.
+
 4. Select *Display settings*.
+
 5. Set *Display resolution* to the same value as in step 2.
 
 >This is not an ideal solution since it means users who play at 1080p, but use 1440p for Windows, need to switch back and forth when playing ElmoRim. However, Detection Meter is too good a mod to skip. 
@@ -248,12 +257,19 @@ ElmoRim features mods that provide (potential) Ultrawide and Widescreen Support.
 <details>
   <summary><strong>Click here to see required steps</strong></summary>
  1. Search for **Experience** in the left pane of MO2 and delete or hide the following files:  
+ 
     a. /interface/statsmenu.swf  
+ 
  2. Search for **Compass Navigation Overhaul** in the left pane of MO2 and open the .ini file, `CompassNavigationOverhaul.ini` and edit the following line(s):  
+ 
     a. PositionX=-0.127  
+
 ![](https://github.com/aljoxo/Arisen/blob/main/Media/CNO%20UW%201.png)
+
  3. Once in game, navigate to the *TrueHUD* MCM Menu, and change the following values:
+
  ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%201.png)
+
  ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%202.png)
 
 </details>
