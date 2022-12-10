@@ -50,7 +50,7 @@ This readme provides instructions for installing and configuring ElmoRim. A deta
 ElmoRim consists of around 600 mods. This overview provides an idea of what to expect from the list.
 | Feature | Core Mods |
 |     :---:    |     :---:     |
-| **Visuals**   | Skyland AIO, Modular Armory, Patrician ENB |  
+| **Visuals**   | Skyland AIO, Modular Armory, Berserkyr ENB |  
 | **Combat**    | MCO, Valhalla, Precision, Valravn    |
 | **Gameplay** | SimonRim, Experience, ElmoRim Lite Needs*|
 | **Quests**    | Skyrim Unbound, JaySerpa's Quest Expansion-series, At Your Own Pace, College For Non-Mages     |
@@ -251,11 +251,28 @@ ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mod
   - It is possible to choose whether or not the player is the Dragonborn and, if they are not, whether or not they are able to use shouts.
 * Once finished, hit Enter again and choose *Continue*.
 
-##### SunHelm 
-Disable powers under *General>Enable/Disable powers*. Only Sunhelms Cold system is enabled as part of the ElmoRim Lite Survival setup. 
-
 ##### Valravn
 Disable (or set to 0) everything except *Attacks of Opportunity* and *Bow Stamina Cost*.
+
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
+##### SunHelm 
+Disable powers under *General>Enable/Disable powers*. Only Sunhelms Cold system is enabled as part of the ElmoRim Lite Survival setup. 
 
 ##### Incremental Gains
 Set *Soft Cap Base* to 125.
