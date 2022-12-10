@@ -192,13 +192,21 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
 <details>
   <summary><strong>Click here to see required steps</strong></summary>  
  1. Press the Windows Key.
+ 
  2. Type "Windows Defender" in the search bar and select *Windows Security*.
+ 
  3. Click *Virus & threat protection* in the left pane.
+ 
  4. Click the `Manage settings` option under *Virus & threat protection settings*.
+ 
  5. Scroll down to *Exclusions* and click `Add or remove exclusions`.
+ 
  6. Windows Defender will prompt with a run as administrator screen, select `Yes`.
+ 
  7. Click the `Add an exclusion` button at the top and choose *Folder*.
+ 
  8. Navigate to your Install folder for the list and click `Select Folder`.
+ 
  9. **(OPTIONAL)** Repeat these steps for the ModOrganizer.exe ("Path to Modlist"\ModOrganizer.exe), the Nemesis Executable ("Path to Modlist"\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe), and Synthesis ("Path to Modlist"\tools\Synthesis\Synthesis.exe)
 
 </details>
