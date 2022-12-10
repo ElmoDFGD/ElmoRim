@@ -105,7 +105,11 @@ Due to the resources required to run modlists like these, the system pagefile ne
   
   ***A 40GB fixed-size pagefile for ElmoRim is recommended.***
 
-To set up the pagefile:
+To set up the pagefile, complete the following steps:
+
+<details>
+<summary><strong>Click to see required steps</strong></summary>  
+
 1. Press **Win Key + R**
 2. Type *sysdm.cpl ,3* and hit **ENTER**
 3. Navigate to *Performance* and click the box "Settings..."
@@ -122,8 +126,13 @@ To set up the pagefile:
 14. Click *OK*
 15. Restart the computer in order for the changes to take effect.
 
+</details>
+
 ### Setting shader cache size
- For users with an NVIDIA GeForce Graphics Card: 
+ Users with an NVIDIA GeForce Graphics Card need to complete the following steps: 
+
+<details>
+<summary><strong>Click to see required steps</strong></summary>  
 
  1. Right-click on the desktop and select **NVIDIA Control Panel**
  2. Navigate and click on **Manage 3D settings**. It is the 2nd one to the top.
@@ -132,7 +141,9 @@ To set up the pagefile:
  5. Click **Apply** in the bottom right hand corner. 
  6. Exit the application.
 
- <details>
+</details>
+
+<details>
   <summary><strong>Click for screenshot</strong></summary>  
 
 ![](https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/ShaderCache.png)
@@ -317,6 +328,39 @@ Disable powers under *General>Enable/Disable powers*. Only Sunhelms Cold system 
 
 #### Incremental Gains
 Set *Soft Cap Base* to 125.
+
+#### Skyrim Unbound  
+Dragons are set to appear after 7 to 21 days by default. They will appear at word walls before appearing in the wild. They can be configured to spawn faster/slower/instantly or spawn based on level instead.
+ 
+#### Better Third Person Selection
+Enable/disable the filters that prevent the player from accidentally stealing items when trying to interact with the world.
+ 
+#### Favourite Howls Menu  
+Customize which powers will be in the favorites menu (for werewolves).
+ 
+#### Improved Alternate Conversation Camera
+Tweak the dialogue camera. Notable settings include *Switch Target* (for Witcher-Style Dialogue Camera), *Force Third/First Person* and *Camera Offsets*.
+ 
+#### Optimal Potion Hotkey
+Customize *Health potion hotkey* (Default: `H`). Add a hotkey for stamina/magicka potions.
+
+#### Simplest Horses
+Customize *Horse Control hotkey*(Default: `V`).
+  
+#### SmoothCam
+By default the list uses [Adventurer's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/59997). Feel free to download and install other presets.
+
+#### Survival Control Panel
+Enable/disable *Sleep to level up*.   
+
+#### True Directional Movement  
+Customize *Target Lock* keybind here (Default `MB4`).
+
+#### Valhalla Combat
+The core of the combat balance in the list. 
+  * Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them. 
+  * Timed Block: Enable or disable the *Tackle* mechanic (Default: `Disabled`).
+
 </details>
 
 

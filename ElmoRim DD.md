@@ -8,14 +8,10 @@
 * IED instructions
 * map marker wrong height
 * bow when attacking dawnguard instruction
-* Reshade for DoF
 * Added fInAirFallingCharGravityMult=1.8 to [HAVOK] in skyrim.ini
 * Added fControllerBufferDepth=0.01 to [CONTROLS] in skyrim.ini
-* How to distirbute upscaler
-* delete speemultfix .esp
 * test with HDR
 * add AVL for gilded ebony
-* mdeium LOD in perf instr
 
 ## Changelog
 
