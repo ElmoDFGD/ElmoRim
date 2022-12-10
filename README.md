@@ -156,7 +156,10 @@ Installing ElmoRim is a straightforward process. A Nexus Premium account is stro
 
 ### Problems with installation
 
-It is possible to encounter errors when installing with Wabbajack. Some common issues are:
+It is possible to encounter errors when installing with Wabbajack. 
+
+<details>
+  <summary><strong>Click here to see common issues</strong></summary>  
 
 - Could not download x:
 	- Big files can fail to download due to connection issues. Either run wabbajack again or download the file manually. If downloading manually, make sure to place it in the same folder as the other downloads.
@@ -172,6 +175,8 @@ It is possible to encounter errors when installing with Wabbajack. Some common i
 - Antivirus reports a virus:
 	- Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
+  </details>
+
 ## Post-installation
 
 ### Game folder
@@ -182,7 +187,10 @@ ElmoRim uses a Wabbajack feature called *Stock Game* to keep the Skyrim installa
 
 Generally speaking, using Windows Defender is advised as it is a solid antivirus software that will have minimal interference with the game. Antivirus programs can be notorious for false flagging MO2's VFS as problematic, causing crashes or other problems. 
 
-If using Windows Defender, it is advised to set up an Exception for the modlist. To do this, follow these steps.
+If using Windows Defender, it is advised to set up an Exception for the modlist. To do this, complete the following steps:
+
+<details>
+  <summary><strong>Click here to see required steps</strong></summary>  
  1. Press the Windows Key.
  2. Type "Windows Defender" in the search bar and select *Windows Security*.
  3. Click *Virus & threat protection* in the left pane.
@@ -193,9 +201,13 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
  8. Navigate to your Install folder for the list and click `Select Folder`.
  9. **(OPTIONAL)** Repeat these steps for the ModOrganizer.exe ("Path to Modlist"\ModOrganizer.exe), the Nemesis Executable ("Path to Modlist"\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe), and Synthesis ("Path to Modlist"\tools\Synthesis\Synthesis.exe)
 
+</details>
 
  ### Compatibility settings
- Nemesis, xLODGen and DynDOLOD have a tendency to fail even when added to virus exceptions. To avoid this issue, follow theses steps:
+ Nemesis, xLODGen and DynDOLOD have a tendency to fail even when added to virus exceptions. To avoid this issue, complete the following steps:
+
+ <details>
+  <summary><strong>Click here to see required steps</strong></summary>  
  1. Navigate to the Nemesis Executable.
  2. Right click on the Nemesis Executable, select *Properties*.
  3. Go to the *Compatibility* tab.
@@ -204,9 +216,14 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
  5. Click `Apply` and then `OK`.
  6. Repeat steps 1-5 for xLODGenx64.exe and DynDOLODx64.exe (These are located in "Path to Modlist"\tools..)
 
+ </details>
+
 
 ### Resolution settings
-By default, ElmoRim is configured to run in exclusive fullscreen. This is because [Detection Meter](https://www.nexusmods.com/skyrimspecialedition/mods/63057) is incompatible with the *BorderlessUpscale* feature of [SSE Display tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705). For users who absolutely want to play in borderless mode, the following tweaks are required:
+By default, ElmoRim is configured to run in exclusive fullscreen. This is because [Detection Meter](https://www.nexusmods.com/skyrimspecialedition/mods/63057) is incompatible with the *BorderlessUpscale* feature of [SSE Display tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705). For users who absolutely want to play in borderless mode, complete the following steps:
+
+<details>
+  <summary><strong>Click here to see required steps</strong></summary>  
 1. Set Fullscreen = false in SSEDisplayTweaks.ini. This is found in the mod *SSE Display Tweaks - High performance configuration*. 
 2. Set *Resolution* to the desired value in SSEDisplayTweaks.ini.
 3. Right click on the Windows desktop.
@@ -214,12 +231,14 @@ By default, ElmoRim is configured to run in exclusive fullscreen. This is becaus
 5. Set *Display resolution* to the same value as in step 2.
 
 >This is not an ideal solution since it means users who play at 1080p, but use 1440p for Windows, need to switch back and forth when playing ElmoRim. However, Detection Meter is too good a mod to skip. 
+</details>
+
 
 ### Widescreen fixes
 
-ElmoRim features mods that provide (potential) Ultrawide and Widescreen Support. The **(Possible) Ultrawide Support** separator in MO2 contains mods for playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
-
-In addition to enabling the mods, the following tweaks are required:
+ElmoRim features mods that provide (potential) Ultrawide and Widescreen Support. Activate the mods under the **(Possible) Ultrawide Support** separator and complete the following steps:
+<details>
+  <summary><strong>Click here to see required steps</strong></summary>
  1. Search for **Experience** in the left pane of MO2 and delete or hide the following files:  
     a. /interface/statsmenu.swf  
  2. Search for **Compass Navigation Overhaul** in the left pane of MO2 and open the .ini file, `CompassNavigationOverhaul.ini` and edit the following line(s):  
@@ -229,6 +248,7 @@ In addition to enabling the mods, the following tweaks are required:
  ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%201.png)
  ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%202.png)
 
+</details>
 ## Playing the list
 
 #### Obligatory DAR Cache warning: due to the nature of this list and the amount of DAR based animations it uses, it does take some time (usually 15-30 seconds) at the start of each play session for DAR to cache all the folders and animations. Please note that this is an issue with DAR itself since it does not allow for pre-cacheing animations via Nemesis or during loading screens.
