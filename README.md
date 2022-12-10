@@ -255,27 +255,15 @@ ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mod
 Disable (or set to 0) everything except *Attacks of Opportunity* and *Bow Stamina Cost*.
 
 <details>
-  <summary>Click me</summary>
+  <summary>**Optional MCM Tweaks**</summary>
   
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
-
 ##### SunHelm 
 Disable powers under *General>Enable/Disable powers*. Only Sunhelms Cold system is enabled as part of the ElmoRim Lite Survival setup. 
 
 ##### Incremental Gains
 Set *Soft Cap Base* to 125.
+</details>
+
 
 ### Congratulations, ElmoRim is now ready to go! Check out the [wiki](https://github.com/ElmoDFGD/ElmoRim/wiki/Welcome-to-the-ElmoRim-wiki) for a detailed gameplay guide, beginner tips and customization options.
 
