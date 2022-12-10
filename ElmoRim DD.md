@@ -1,16 +1,20 @@
 # ElmoRim Wabbajack Dev-Diary
 ## 2d0
 
-* Test Scion - Dawnguard TaE conflict
 * High Level Enemies Redux & Heritage Enemies 2
-* Alessandras dagger OP
-* blood on the ice trigger
 * Favourite Howls Menu  
 * Controller support
 * Ultrawide support
-* Missing lanterns screenshots
-* Fix grass in caves
-* replace controlmap 
+* IED instructions
+* map marker wrong height
+* bow when attacking dawnguard instruction
+* Reshade for DoF
+* Added fInAirFallingCharGravityMult=1.8 to [HAVOK] in skyrim.ini
+* Added fControllerBufferDepth=0.01 to [CONTROLS] in skyrim.ini
+* How to distirbute upscaler
+* delete speemultfix .esp
+* test with HDR
+* add AVL for gilded ebony
 
 ## Changelog
 
@@ -23,7 +27,7 @@ Installed Creation Organizer plugin (Manual DL) w/ wabbajack JSON (MO2 DL) - htt
 Ran Creation Organizer  
 Deleted CC content from ./Game Root/Data  
 Downgraded CK - https://www.nexusmods.com/skyrimspecialedition/mods/67096?tab=files  
-Downgraded game files (FULL) - https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files  
+Downgraded game files (BOBW) - https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files  
 Reordered DLC in MO2 (match mod order to load order)  
 Installed SKSE 2.0.20 binaries into Game Root  
 Installed SKSE Scripts through MO2  
@@ -109,3 +113,12 @@ Installed Cathedral Assets Optimizer
 Installed CAO-profile from https://github.com/The-Animonculory/Modding-Resources/blob/main/BSA%20Creation.7z?raw=true
 Adjusted CCARA>2066 (snowflake) to check for Solas
 Uploaded Facegen and Precision patch to Nexus
+Optimized wabbajack file size using https://github.com/wabbajack-tools/wiki/wiki/06.-Keeping-the-Game-Folder-clean and wabbajack cmd wabbajack-cli.exe modlist-report -i {path to .wabbajack file}
+
+
+
+----0.0.2----
+Reinstalled AI overhaul - Switched to full version
+Switched to Berserkyr ENB
+Added Skyrim Upscaler
+Removed smaller texture mods such as 3D rocks to improve performance.
