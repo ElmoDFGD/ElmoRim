@@ -202,7 +202,7 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
  
  2. Type "Windows Defender" in the search bar and select *Windows Security*.
  
- 3. Click *Virus & threat protection* in the left pane.
+ 3. Click `Virus & threat protection` in the left pane.
  
  4. Click the `Manage settings` option under *Virus & threat protection settings*.
  
@@ -222,7 +222,8 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
  Nemesis, xLODGen and DynDOLOD have a tendency to fail even when added to virus exceptions. To avoid this issue, complete the following steps:
 
  <details>
-  <summary><strong>Click here to see required steps</strong></summary>  
+  <summary><strong>Click here to see required steps</strong></summary> 
+
  1. Navigate to the Nemesis Executable.
  
  2. Right click on the Nemesis Executable, select *Properties*.
@@ -244,6 +245,7 @@ By default, ElmoRim is configured to run in exclusive fullscreen. This is becaus
 
 <details>
   <summary><strong>Click here to see required steps</strong></summary>  
+
 1. Set Fullscreen = false in SSEDisplayTweaks.ini. This is found in the mod *SSE Display Tweaks - High performance configuration*. 
 
 2. Set *Resolution* to the desired value in SSEDisplayTweaks.ini.
@@ -263,13 +265,14 @@ By default, ElmoRim is configured to run in exclusive fullscreen. This is becaus
 ElmoRim features mods that provide (potential) Ultrawide and Widescreen Support. Activate the mods under the **(Possible) Ultrawide Support** separator and complete the following steps:
 <details>
   <summary><strong>Click here to see required steps</strong></summary>
+
  1. Search for **Experience** in the left pane of MO2 and delete or hide the following files:  
  
-    a. /interface/statsmenu.swf  
+  /interface/statsmenu.swf  
  
  2. Search for **Compass Navigation Overhaul** in the left pane of MO2 and open the .ini file, `CompassNavigationOverhaul.ini` and edit the following line(s):  
  
-    a. PositionX=-0.127  
+  PositionX=-0.127  
 
 ![](https://github.com/aljoxo/Arisen/blob/main/Media/CNO%20UW%201.png)
 
