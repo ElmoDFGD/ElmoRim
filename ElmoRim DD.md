@@ -15,6 +15,7 @@
 * delete speemultfix .esp
 * test with HDR
 * add AVL for gilded ebony
+* mdeium LOD in perf instr
 
 ## Changelog
 
