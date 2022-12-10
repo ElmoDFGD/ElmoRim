@@ -255,7 +255,7 @@ ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mod
 Disable (or set to 0) everything except *Attacks of Opportunity* and *Bow Stamina Cost*.
 
 <details>
-  <summary>Click to see optional MCM Tweaks</summary>
+  <summary><strong>Click to see optional MCM Tweaks</strong></summary>
   
 ##### SunHelm 
 Disable powers under *General>Enable/Disable powers*. Only Sunhelms Cold system is enabled as part of the ElmoRim Lite Survival setup. 
