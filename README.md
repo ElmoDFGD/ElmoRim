@@ -244,8 +244,8 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
 By default, ElmoRim is configured to run in exclusive fullscreen. This is because [Detection Meter](https://www.nexusmods.com/skyrimspecialedition/mods/63057) is incompatible with the *BorderlessUpscale* feature of [SSE Display tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705). For users who absolutely want to play in borderless mode, complete the following steps:
 
 <details>
-  <summary><strong>Click here to see required steps</strong></summary>  
-
+  <summary><strong>Click here to see required steps</strong></summary>    
+  
 1. Set Fullscreen = false in SSEDisplayTweaks.ini. This is found in the mod *SSE Display Tweaks - High performance configuration*. 
 
 2. Set *Resolution* to the desired value in SSEDisplayTweaks.ini.
@@ -266,21 +266,21 @@ ElmoRim features mods that provide (potential) Ultrawide and Widescreen Support.
 <details>
   <summary><strong>Click here to see required steps</strong></summary>
 
- 1. Search for **Experience** in the left pane of MO2 and delete or hide the following files:  
+  1. Search for "Experience" in the left pane of MO2 and delete or hide the following files:  
  
-  /interface/statsmenu.swf  
+    /interface/statsmenu.swf  
  
- 2. Search for **Compass Navigation Overhaul** in the left pane of MO2 and open the .ini file, `CompassNavigationOverhaul.ini` and edit the following line(s):  
+  2. Search for "Compass Navigation Overhaul" in the left pane of MO2 and open *CompassNavigationOverhaul.ini* and edit the following line(s):  
  
-  PositionX=-0.127  
+    PositionX=-0.127  
 
-![](https://github.com/aljoxo/Arisen/blob/main/Media/CNO%20UW%201.png)
+    ![](https://github.com/aljoxo/Arisen/blob/main/Media/CNO%20UW%201.png)
 
- 3. Once in game, navigate to the *TrueHUD* MCM Menu, and change the following values:
+  3. Once in game, navigate to the *TrueHUD* MCM Menu, and change the following values:
 
- ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%201.png)
+    ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%201.png)
 
- ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%202.png)
+    ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%202.png)
 
 </details>
 
@@ -291,7 +291,7 @@ ElmoRim features mods that provide (potential) Ultrawide and Widescreen Support.
 ### Starting the game
 
  - Navigate to the installation folder and launch *ModOrganizer.exe*.  
-  If a message: *Registry Key does not match* appears, press 
+  If the message *Registry Key does not match* appears, press 
   `Yes`. Once it's launched, there will be a dropdown box on the top right and a big run button next to it.
  
  - Launch the *ElmoRim* executable in MO2
