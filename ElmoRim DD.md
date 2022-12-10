@@ -5,9 +5,9 @@
 * Favourite Howls Menu  
 * Controller support
 * Ultrawide support
-* IED instructions
+* IED instructions 
+* XPMSSE optional MCM instructions
 * map marker wrong height
-* bow when attacking dawnguard instruction
 * Added fInAirFallingCharGravityMult=1.8 to [HAVOK] in skyrim.ini
 * Added fControllerBufferDepth=0.01 to [CONTROLS] in skyrim.ini
 * test with HDR
@@ -98,7 +98,7 @@ Configured grass cache settings (modpage + script to list relevant worldspaces)
 Tweaked inis and nvidia control panel settings according to Patrician ENB instructions
 Created Patrician ENB-Separator + installed mods
 Edited meta files to show tools as installed
-set bVATSDisable = 1
+set bVATSDisable = 1 under [VATS] in skyrim.ini
 Set ElmoRim to play in fullscreen.
 Activated NIS in Gefore Experience (75% Scaling)
 Activated Sharpening in Geforce Control Panel (50%)
@@ -119,3 +119,4 @@ Reinstalled AI overhaul - Switched to full version
 Switched to Berserkyr ENB
 Added Skyrim Upscaler
 Removed smaller texture mods such as 3D rocks to improve performance.
+Regenerated LOD outputs
