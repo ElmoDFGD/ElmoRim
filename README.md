@@ -131,7 +131,13 @@ To set up the pagefile:
  4. Double Click **Driver Default** to the right of Shader Cache Size and select **10 GB**
  5. Click **Apply** in the bottom right hand corner. 
  6. Exit the application.
+
+ <details>
+  <summary><strong>Click for screenshot</strong></summary>  
 ![](https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/ShaderCache.png)
+
+</details>
+
 ## Installation
 
 
@@ -273,6 +279,7 @@ ElmoRim features mods that provide (potential) Ultrawide and Widescreen Support.
  ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%202.png)
 
 </details>
+
 ## Playing the list
 
 #### Obligatory DAR Cache warning: due to the nature of this list and the amount of DAR based animations it uses, it does take some time (usually 15-30 seconds) at the start of each play session for DAR to cache all the folders and animations. Please note that this is an issue with DAR itself since it does not allow for pre-cacheing animations via Nemesis or during loading screens.
