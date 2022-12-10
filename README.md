@@ -264,23 +264,23 @@ By default, ElmoRim is configured to run in exclusive fullscreen. This is becaus
 
 ElmoRim features mods that provide (potential) Ultrawide and Widescreen Support. Activate the mods under the **(Possible) Ultrawide Support** separator and complete the following steps:
 <details>
-  <summary><strong>Click here to see required steps</strong></summary>
+<summary><strong>Click here to see required steps</strong></summary>
 
-  1. Search for "Experience" in the left pane of MO2 and delete or hide the following files:  
+1. Search for "Experience" in the left pane of MO2 and delete or hide the following files:  
+
+/interface/statsmenu.swf  
+
+2. Search for "Compass Navigation Overhaul" in the left pane of MO2 and open *CompassNavigationOverhaul.ini* and edit the following line(s):  
  
-    /interface/statsmenu.swf  
- 
-  2. Search for "Compass Navigation Overhaul" in the left pane of MO2 and open *CompassNavigationOverhaul.ini* and edit the following line(s):  
- 
-    PositionX=-0.127  
+PositionX=-0.127  
 
-    ![](https://github.com/aljoxo/Arisen/blob/main/Media/CNO%20UW%201.png)
+![](https://github.com/aljoxo/Arisen/blob/main/Media/CNO%20UW%201.png)
 
-  3. Once in game, navigate to the *TrueHUD* MCM Menu, and change the following values:
+3. Once in game, navigate to the *TrueHUD* MCM Menu, and change the following values:
 
-    ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%201.png)
+![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%201.png)
 
-    ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%202.png)
+![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%202.png)
 
 </details>
 
