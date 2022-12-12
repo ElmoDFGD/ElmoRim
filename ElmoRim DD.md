@@ -5,13 +5,10 @@
 * Favourite Howls Menu  
 * Controller support
 * Ultrawide support
-* IED instructions 
 * XPMSSE optional MCM instructions
 * map marker wrong height
-* Added fInAirFallingCharGravityMult=1.8 to [HAVOK] in skyrim.ini
-* Added fControllerBufferDepth=0.01 to [CONTROLS] in skyrim.ini
-* test with HDR
 * add AVL for gilded ebony
+* Shadow marks ENB bug
 
 ## Changelog
 
@@ -100,8 +97,6 @@ Created Patrician ENB-Separator + installed mods
 Edited meta files to show tools as installed
 set bVATSDisable = 1 under [VATS] in skyrim.ini
 Set ElmoRim to play in fullscreen.
-Activated NIS in Gefore Experience (75% Scaling)
-Activated Sharpening in Geforce Control Panel (50%)
 Followed guide at https://github.com/The-Animonculory/Modding-Resources/blob/main/Regenerating%20Faces%20in%20the%20Creation%20Kit.md for Facegen
 Added https://github.com/caiobraz/Synth-NPCs-Face-Data Synthesis repo
 Set TintMaskResolution=1024 in Skyrim64_test.ini
@@ -112,11 +107,18 @@ Adjusted CCARA>2066 (snowflake) to check for Solas
 Uploaded Facegen and Precision patch to Nexus
 Optimized wabbajack file size using https://github.com/wabbajack-tools/wiki/wiki/06.-Keeping-the-Game-Folder-clean and wabbajack cmd wabbajack-cli.exe modlist-report -i {path to .wabbajack file}
 
-
-
 ----0.0.2----
 Reinstalled AI overhaul - Switched to full version
 Switched to Berserkyr ENB
 Added Skyrim Upscaler
 Removed smaller texture mods such as 3D rocks to improve performance.
-Regenerated LOD outputs
+Regenerated LOD outputs with medium quality
+Removed Draw2
+Added XPMSSE-styles & fixes
+Removed cathedral landscapes
+Added Folkvangr
+Generated grass cache for Folkvangr
+Removed Elden Equip
+Added Serio's Cycle Hotkeys
+Added 3rd Person Camera Stagger Remover
+Added Menu and Load Smoke Removed for ENB
