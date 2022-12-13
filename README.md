@@ -141,10 +141,6 @@ To set up the pagefile, complete the following steps:
  5. Click **Apply** in the bottom right hand corner. 
  6. Exit the application.
 
-</details>
-
-<details>
-  <summary><strong>Click for screenshot</strong></summary>  
 
 ![](https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/ShaderCache.png)
 
