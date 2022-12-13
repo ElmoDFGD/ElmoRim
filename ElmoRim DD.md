@@ -3,8 +3,6 @@
 
 * High Level Enemies Redux & Heritage Enemies 2
 * Favourite Howls Menu  
-* Controller support
-* Ultrawide support
 * map marker wrong height
 * add AVL for gilded ebony
 * Shadow marks ENB bug
@@ -122,3 +120,4 @@ Removed Elden Equip
 Added Serio's Cycle Hotkeys
 Added 3rd Person Camera Stagger Remover
 Added Menu and Load Smoke Removed for ENB
+Added Ultrawide & Gamepad support separator + mods
