@@ -3,7 +3,6 @@
 
 * High Level Enemies Redux & Heritage Enemies 2
 * Favourite Howls Menu  
-* map marker wrong height
 * add AVL for gilded ebony
 * Shadow marks ENB bug
 * use stagger animations from poise
