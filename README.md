@@ -271,27 +271,29 @@ By default, ElmoRim is configured to run in exclusive fullscreen. This is becaus
 </details>
 
 
-### Widescreen fixes
+### Widescreen & Gamepad support
 
-ElmoRim features mods that provide (potential) Ultrawide and Widescreen Support. Activate the mods under the **(Possible) Ultrawide Support** separator and complete the following steps:
+ElmoRim features mods that provide widescreen support & gamepad controls. Activate the mods under the **Ultrawide & Gamepad Support** separator and complete the following steps:
 <details>
 <summary><strong>Click here to see required steps</strong></summary>
 
-1. Search for "Experience" in the left pane of MO2 and delete or hide the following files:  
+From [Untarnished UIs](https://www.nexusmods.com/skyrimspecialedition/mods/75188) modpage:
 
-  /interface/statsmenu.swf  
-
-2. Search for "Compass Navigation Overhaul" in the left pane of MO2 and open *CompassNavigationOverhaul.ini* and edit the following line(s):  
- 
-  PositionX=-0.127  
-
-![](https://github.com/aljoxo/Arisen/blob/main/Media/CNO%20UW%201.png)
-
-3. Once in game, navigate to the *TrueHUD* MCM Menu, and change the following values:
-
-![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%201.png)
-
-![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%202.png)
+>
+>"Most menus have native ultrawide support, thanks to Dear Diary Dark Mode. However, you will need to position some of the elements from SkyHUD and TrueHUD manually.
+>
+>SkyHUD (located in Data/interface/skyhud/skyhud.txt) (requires a restart)
+fMessageInfoPosX (right-aligned, increase).
+>
+>TrueHUD (located in the MCM)
+>Player Widget Anchor X (left-aligned, decrease).
+>Recent Loot Anchor X (right-aligned, increase).
+>
+>21:9 configurations
+>* fMessageInfoPosX=1030
+>* Player Widget Anchor X = -0.155
+>* Player Loot Anchor X = 1.17"
+>
 
 </details>
 
@@ -326,6 +328,9 @@ Disable (or set to 0) everything except *Attacks of Opportunity* and *Bow Stamin
 #### SunHelm 
 Disable powers under *General>Enable/Disable powers*. Only Sunhelms Cold system is enabled as part of the ElmoRim Lite Survival setup. 
 
+#### Serio's Cycle Hotkeys
+Set up cycles for managing spells/shouts/weapons. See [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/27184) for details.
+
 #### Incremental Gains
 Set *Soft Cap Base* to 125.
 
@@ -356,8 +361,10 @@ Enable/disable *Sleep to level up*.
 #### True Directional Movement  
 Customize *Target Lock* keybind here (Default `MB4`).
 
+#### XPMSSE
+Customize equipment slots, such as placing one-handed swords on the players back. 
+
 #### Valhalla Combat
-The core of the combat balance in the list. 
   * Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them. 
   * Timed Block: Enable or disable the *Tackle* mechanic (Default: `Disabled`).
 
