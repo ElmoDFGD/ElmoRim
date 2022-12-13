@@ -247,7 +247,7 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
  </details>
 
 
-### Resolution settings
+### Optional: Resolution settings
 By default, ElmoRim is configured to run in exclusive fullscreen. This is because [Detection Meter](https://www.nexusmods.com/skyrimspecialedition/mods/63057) is incompatible with the *BorderlessUpscale* feature of [SSE Display tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705). For users who absolutely want to play in borderless mode, complete the following steps:
 
 <details>
@@ -267,7 +267,7 @@ By default, ElmoRim is configured to run in exclusive fullscreen. This is becaus
 </details>
 
 
-### Widescreen & Gamepad support
+### Optional: Widescreen & Gamepad support
 
 ElmoRim features mods that provide widescreen support & gamepad controls. Activate the mods under the **Ultrawide & Gamepad Support** separator and complete the following steps:
 <details>
@@ -318,49 +318,52 @@ ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mod
 #### Valravn
 Disable (or set to 0) everything except *Attacks of Opportunity* and *Bow Stamina Cost*.
 
+
+#### Additional, optional MCM Tweaks
+
 <details>
   <summary><strong>Click here to see optional MCM Tweaks</strong></summary>
   
-#### SunHelm 
+##### SunHelm 
 Disable powers under *General>Enable/Disable powers*. Only Sunhelms Cold system is enabled as part of the ElmoRim Lite Survival setup. 
 
-#### Serio's Cycle Hotkeys
+##### Serio's Cycle Hotkeys
 Set up cycles for managing spells/shouts/weapons. See [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/27184) for details.
 
-#### Incremental Gains
+##### Incremental Gains
 Set *Soft Cap Base* to 125.
 
-#### Skyrim Unbound  
+##### Skyrim Unbound  
 Dragons are set to appear after 7 to 21 days by default. They will appear at word walls before appearing in the wild. They can be configured to spawn faster/slower/instantly or spawn based on level instead.
  
-#### Better Third Person Selection
+##### Better Third Person Selection
 Enable/disable the filters that prevent the player from accidentally stealing items when trying to interact with the world.
  
-#### Favourite Howls Menu  
+##### Favourite Howls Menu  
 Customize which powers will be in the favorites menu (for werewolves).
  
-#### Improved Alternate Conversation Camera
+##### Improved Alternate Conversation Camera
 Tweak the dialogue camera. Notable settings include *Switch Target* (for Witcher-Style Dialogue Camera), *Force Third/First Person* and *Camera Offsets*.
  
-#### Optimal Potion Hotkey
+##### Optimal Potion Hotkey
 Customize *Health potion hotkey* (Default: `H`). Add a hotkey for stamina/magicka potions.
 
-#### Simplest Horses
+##### Simplest Horses
 Customize *Horse Control hotkey*(Default: `V`).
   
-#### SmoothCam
+##### SmoothCam
 By default the list uses [Adventurer's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/59997). Feel free to download and install other presets.
 
-#### Survival Control Panel
+##### Survival Control Panel
 Enable/disable *Sleep to level up*.   
 
-#### True Directional Movement  
+##### True Directional Movement  
 Customize *Target Lock* keybind here (Default `MB4`).
 
-#### XPMSSE
+##### XPMSSE
 Customize equipment slots, such as placing one-handed swords on the players back. 
 
-#### Valhalla Combat
+##### Valhalla Combat
   * Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them. 
   * Timed Block: Enable or disable the *Tackle* mechanic (Default: `Disabled`).
 
