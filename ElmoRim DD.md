@@ -5,10 +5,10 @@
 * Favourite Howls Menu  
 * Controller support
 * Ultrawide support
-* XPMSSE optional MCM instructions
 * map marker wrong height
 * add AVL for gilded ebony
 * Shadow marks ENB bug
+* use stagger animations from poise
 
 ## Changelog
 
