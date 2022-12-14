@@ -6,6 +6,10 @@
 * add AVL for gilded ebony
 * Shadow marks ENB bug
 * use stagger animations from poise
+* connect to wabbajack CDN
+* Setup discord
+* Setup Nexus page
+* Make launch plan
 
 ## Changelog
 
