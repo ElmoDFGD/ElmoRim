@@ -47,7 +47,7 @@ This readme provides instructions for installing and configuring ElmoRim. A deta
 > Disclaimer: ElmoRim puts vanilla content at center stage. However, it is first and foremost Skyrim the way I, Elmo, want it. So if a certain mod is included, it is because I want it there.
 
 ## Feature overview
-ElmoRim consists of around 600 mods. This overview provides an idea of what to expect from the list.
+ElmoRim consists of around 650 mods. This overview provides an idea of what to expect from the list.
 | Feature | Core Mods |
 |     :---:    |     :---:     |
 | **Visuals**   | Skyland AIO, Modular Armory, Berserkyr ENB |  

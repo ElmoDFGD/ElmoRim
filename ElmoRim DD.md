@@ -2,14 +2,12 @@
 ## 2d0
 
 * High Level Enemies Redux & Heritage Enemies 2
-* add AVL for gilded ebony
 * Shadow marks ENB bug
 * use stagger animations from poise
 * connect to wabbajack CDN
-* Setup discord
 * Setup Nexus page
 * Make launch plan
-* Change WJ tags to UI
+
 ## Changelog
 
 ----0.0.1----
@@ -123,3 +121,5 @@ Added Serio's Cycle Hotkeys
 Added 3rd Person Camera Stagger Remover
 Added Menu and Load Smoke Removed for ENB
 Added Ultrawide & Gamepad support separator + mods
+Created ElmoRim discord
+Reconfigured WJ tags through UI
