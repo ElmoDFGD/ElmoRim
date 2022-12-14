@@ -319,12 +319,18 @@ ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mod
 Disable (or set to 0) everything except *Attacks of Opportunity* and *Bow Stamina Cost*.
 
 
+
 #### Optional MCM Settings
 In addition to the mandatory settings, several optional tweaks are available:
 
 <details>
   <summary><strong>Click here to see optional MCM Tweaks</strong></summary>
-  
+
+
+#### AYOP - College 
+Non-mages looking to access Saarthal and the Archmages quarters should make the following changes:
+* Set First Lessons and Under Saarthal to 0
+
 ##### SunHelm 
 Disable powers under *General>Enable/Disable powers*. Only Sunhelms Cold system is enabled as part of the ElmoRim Lite Survival setup. 
 
