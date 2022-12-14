@@ -40,11 +40,11 @@
 
 ## What is ElmoRim?  
 
-Elmorim is a **compact**, **performance friendly** list that offers **improved visuals**, **modernized combat** and **increased immersion**. A curated selection of tweaks and fixes for the vanilla content are provided. No massive quests or new lands are added and NO CC-MODS REQUIRED.
+ElmoRim is for players who want to **enhance their Skyrim experience** without adding massive amounts of content. A **compact and performance-friendly** list that offers **improved visuals, modernized combat**, and **increased immersion** without requiring any CC-MODS.
 
 This readme provides instructions for installing and configuring ElmoRim. A detailed gameplay guide, issue tracker and options for tweaking game settings can be found in the [ElmoRim wiki](https://github.com/ElmoDFGD/ElmoRim/wiki).
 
-> Disclaimer: ElmoRim puts vanilla content at center stage. However it is first and foremost Skyrim the way I, Elmo, want it. So if a certain mod is included, it is because I want it there.
+> Disclaimer: ElmoRim puts vanilla content at center stage. However, it is first and foremost Skyrim the way I, Elmo, want it. So if a certain mod is included, it is because I want it there.
 
 ## Feature overview
 ElmoRim consists of around 600 mods. This overview provides an idea of what to expect from the list.
@@ -88,7 +88,7 @@ The list was developed on an upper-mid tier laptop with the following specs:
 
 With these specs the game runs at 60fps@1080p and at around 45fps@1440p (in exteriors, 60 fps in interiors).
 
-Recommendations on how to tweak the balance between visual quality/performance are provided [in the wiki](https://github.com/ElmoDFGD/ElmoRim/wiki/Welcome-to-the-ElmoRim-wiki#tweaking-the-game-settings).
+Recommendations on how to tweak the balance between visual quality and performance are provided [in the wiki](https://github.com/ElmoDFGD/ElmoRim/wiki/Welcome-to-the-ElmoRim-wiki#tweaking-the-game-settings).
 
 Modlist size: X GB (of which Y GB are downloads)
 
@@ -101,8 +101,8 @@ The first step of installing ElmoRim is making sure all required software is ins
   
 ### Setting up pagefile
 
-Due to the resources required to run modlists like these, the system pagefile needs to be configured in order to avoid crashes and bugs that may occur from running out of memory. This step is **NOT** optional, no matter how much RAM or VRAM is available.
-  
+Due to the resources required to run modlists like these, the system pagefile needs to be configured in order to avoid crashes and bugs that may occur from running out of memory.
+
   ***A 40GB fixed-size pagefile for ElmoRim is recommended.***
 
 To set up the pagefile, complete the following steps:
@@ -310,14 +310,15 @@ Almost all of ElmoRim's MCM menus are pre-configured. This section outlines the 
 
 #### Skyrim Unbound
 ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) as the alternate start mod.
-* In order to start chargen hit *Enter* after loading in. If the player character seems to be frozen during RaceMenu, just swap race or gender and swap back, it should unfreeze them. This is an issue with DAR Cacheing.
-* Once finished with chargen, open up the *Skyrim Unbound* MCM menu and customize Standing Stone, whether or not the player is a vampire/werewolf, equipment, spells and starting location.
-  - It is possible to choose whether or not the player is the Dragonborn and, if they are not, whether or not they are able to use shouts.
-* Once finished, hit Enter again and choose *Continue*.
+* Open up the Skyrim Unbound MCM menu after loading in. Customize Standing Stone, whether or not the player is a vampire/werewolf, equipment, spells and starting location.
+  - It is possible to choose whether or not the player is the Dragonborn and, if they are not, whether or not they are able to use shouts. 
+  
+* Once finished setting up the MCM, click *Start Your Adventure* on the *Main* tab to start chargen.
+
+* Once finished with chargen, choose *Continue* to start the game.
 
 #### Valravn
 Disable (or set to 0) everything except *Attacks of Opportunity* and *Bow Stamina Cost*.
-
 
 
 #### Optional MCM Settings
