@@ -2,7 +2,6 @@
 ## 2d0
 
 * High Level Enemies Redux & Heritage Enemies 2
-* Favourite Howls Menu  
 * add AVL for gilded ebony
 * Shadow marks ENB bug
 * use stagger animations from poise
@@ -10,7 +9,7 @@
 * Setup discord
 * Setup Nexus page
 * Make launch plan
-
+* Change WJ tags to UI
 ## Changelog
 
 ----0.0.1----
