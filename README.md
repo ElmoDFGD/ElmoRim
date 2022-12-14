@@ -327,9 +327,10 @@ In addition to the mandatory settings, several optional tweaks are available:
   <summary><strong>Click here to see optional MCM Tweaks</strong></summary>
 
 
-#### AYOP - College 
+##### AYOP - College of Winterhold
 Non-mages looking to access Saarthal and the Archmages quarters should make the following changes:
-* Set First Lessons and Under Saarthal to 0
+- Starting Requirements>First Lessons: Set to 0
+- Starting Requirements>Under Saarthal: Set to 0
 
 ##### SunHelm 
 Disable powers under *General>Enable/Disable powers*. Only Sunhelms Cold system is enabled as part of the ElmoRim Lite Survival setup. 
