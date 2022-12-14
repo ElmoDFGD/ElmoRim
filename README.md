@@ -314,9 +314,10 @@ ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mod
   - It is possible to choose whether or not the player is the Dragonborn and, if they are not, whether or not they are able to use shouts. 
   
 * Once finished setting up the MCM, click *Start Your Adventure* under the *Main* tab to start chargen.
+  - If the player character is frozen in RaceMenu, swap race or gender and swap back to unfreeze them. This is an issue with DAR Cacheing.
+
 
 * Once finished with chargen, choose *Continue* to start the game.
-  - If the player character seems to be frozen during RaceMenu, just swap race or gender and swap back, to unfreeze them. This is an issue with DAR Cacheing.
 
 #### Valravn
 Disable (or set to 0) everything except *Attacks of Opportunity* and *Bow Stamina Cost*.
