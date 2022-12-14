@@ -319,7 +319,8 @@ ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mod
 Disable (or set to 0) everything except *Attacks of Opportunity* and *Bow Stamina Cost*.
 
 
-#### Additional, optional MCM Tweaks
+#### Optional MCM Settings
+In addition to the mandatory settings, several optional tweaks are available:
 
 <details>
   <summary><strong>Click here to see optional MCM Tweaks</strong></summary>
