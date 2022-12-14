@@ -429,6 +429,7 @@ Delete the ElmoRim folder.
 
 ## Contact
 
+[ElmoRim Discord](https://discord.gg/6gGVgDYnBW)
 
 ## Credits and thanks
 
