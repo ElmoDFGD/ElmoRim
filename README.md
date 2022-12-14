@@ -399,7 +399,7 @@ Updating is like installing the list. Simply check that the file paths are the s
 
 #### Q: This isn't vanilla?!
 
-A: No such claims are made. The list is centered around vanilla content and provides a platform for enjoying said content by leveraging a decade of contributions from awesome mod makers.
+A: Indeed not. The list is centered around vanilla content and provides a platform for enjoying said content by leveraging a decade of contributions from awesome mod makers.
 
 #### Q: BUG!
 
