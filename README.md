@@ -26,21 +26,21 @@
     - [Starting the Game](#starting-the-game)
     - [MCM Configuration](#mcm-configuration)
   - [FAQ](#faq)
-      - [Q: This isn't vanilla!?](#q-why-does-the-list-claim-to-be-vanilla-when-it-clearly-isnt)
-      - [Q: BUG!](#q-bug)
-      - [Q: Why do all daedra sound like they're on *Insert Illicit Substance*?](#q-why-do-all-daedra-sound-like-theyre-on-insert-illicit-substance)
-      - [Q: I can't level up, what do I do?](#q-i-cant-level-up-what-do-i-do)
-      - [Q: How do I start the main questline?](#q-how-do-i-start-the-main-questline)
-      - [Q: When do dragons start spawning?](#q-when-do-dragons-start-spawning)
-      - [Q: How do I become the Thane of Whiterun? How do I get Lydia?](#q-how-do-i-become-the-thane-of-whiterun-how-do-i-get-lydia)
-      - [Q: How do I enable my crosshair?](#q-how-do-i-enable-my-crosshair)
+    - [Q: This isn't vanilla!?](#q-why-does-the-list-claim-to-be-vanilla-when-it-clearly-isnt)
+    - [Q: BUG!](#q-bug)
+    - [Q: Why do all daedra sound like they're on *Insert Illicit Substance*?](#q-why-do-all-daedra-sound-like-theyre-on-insert-illicit-substance)
+    - [Q: I can't level up, what do I do?](#q-i-cant-level-up-what-do-i-do)
+    - [Q: How do I start the main questline?](#q-how-do-i-start-the-main-questline)
+    - [Q: When do dragons start spawning?](#q-when-do-dragons-start-spawning)
+    - [Q: How do I become the Thane of Whiterun? How do I get Lydia?](#q-how-do-i-become-the-thane-of-whiterun-how-do-i-get-lydia)
+    - [Q: How do I enable my crosshair?](#q-how-do-i-enable-my-crosshair)
   - [Removing the Modlist](#removing-the-modlist)
   - [Contact](#contact)
   - [Credits and Thanks](#credits-and-thanks)
 
 ## What is ElmoRim?  
 
-Elmorim is a **compact**, **performance friendly** list that offers **improved visuals**, **modernized combat** and **increased immersion**. A curated selection of tweaks and fixes for the vanilla content are provided. No massive quests or new lands are added added and NO CC-MODS REQUIRED.
+Elmorim is a **compact**, **performance friendly** list that offers **improved visuals**, **modernized combat** and **increased immersion**. A curated selection of tweaks and fixes for the vanilla content are provided. No massive quests or new lands are added and NO CC-MODS REQUIRED.
 
 This readme provides instructions for installing and configuring ElmoRim. A detailed gameplay guide, issue tracker and options for tweaking game settings can be found in the [ElmoRim wiki](https://github.com/ElmoDFGD/ElmoRim/wiki).
 
@@ -267,9 +267,9 @@ By default, ElmoRim is configured to run in exclusive fullscreen. This is becaus
 </details>
 
 
-### Optional: Widescreen & Gamepad support
+### Optional: Widescreen & gamepad support
 
-ElmoRim features mods that provide widescreen support & gamepad controls. Activate the mods under the **Ultrawide & Gamepad Support** separator and complete the following steps:
+ElmoRim features mods that provide widescreen & gamepad support. Activate the mods under the **Ultrawide & Gamepad Support** separator and complete the following steps:
 <details>
 <summary><strong>Click here to see required steps</strong></summary>
 
