@@ -7,6 +7,7 @@
 * connect to wabbajack CDN
 * Setup Nexus page
 * Make launch plan
+* upload included [E] to nexus
 
 ## Changelog
 
