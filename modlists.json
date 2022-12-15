@@ -1,0 +1,42 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "ElmoRim",
+    "description": "ElmoRim is for players who want to enhance their Skyrim experience without adding massive amounts of content. A compact and performance-friendly list that offers improved visuals, modernized combat, and increased immersion without requiring any CC-MODS.",
+    "author": "Elmo",
+    "maintainers": [
+      "github/elmodDFGD"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Compact",
+      "Performance",
+      "NO-CC"
+      "Combat"
+      "Visuals"
+      "Immersion"
+
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/77787/77787-1666950756-1857011084.png",
+      "readme": "https://github.com/ElmoDFGD/ElmoRim/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/ElmoRim.wabbajack_b5ef5660-6425-4c9e-b875-397f4a7d9360/",
+      "machineURL": "",
+      "discordURL": "https://discord.gg/6gGVgDYnBW"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 0,
+      "SizeOfArchives": 0,
+      "NumberOfInstalledFiles": 0,
+      "SizeOfInstalledFiles": 0
+    },
+    "version": "0.0.2"
+  }
+]
