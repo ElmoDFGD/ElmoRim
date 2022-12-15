@@ -1,6 +1,6 @@
 
  
-![](https://staticdelivery.nexusmods.com/mods/1704/images/77787/77787-1666950756-1857011084.png)
+![](https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/ElmoRim.png)
 
 
 # ElmoRim
