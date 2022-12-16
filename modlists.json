@@ -23,7 +23,7 @@
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/ElmoRim.png",
-      "readme": "https://github.com/ElmoDFGD/ElmoRim/blob/main/README.md",
+      "readme": "https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/README.md",
       "download": "https://authored-files.wabbajack.org/ElmoRim.wabbajack_b5ef5660-6425-4c9e-b875-397f4a7d9360/",
       "machineURL": "ElmoRim/ElmoRim",
       "discordURL": "https://discord.gg/6gGVgDYnBW"
