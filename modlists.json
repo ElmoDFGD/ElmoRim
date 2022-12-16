@@ -1,42 +1,40 @@
-[
-  {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "ElmoRim",
-    "description": "ElmoRim is for players who want to enhance their Skyrim experience without adding massive amounts of content. A compact and performance-friendly list that offers improved visuals, modernized combat, and increased immersion. No CC-MODS required.",
-    "author": "Elmo",
-    "maintainers": [
-      "github/elmoDFGD"
-    ],
-    "game": "skyrimspecialedition",
-    "tags": [
-      "Compact",
-      "Performance",
-      "NO-CC"
-      "Combat"
-      "Visuals"
-      "Immersion"
+[{
+	"$type": "ModListMetadata, Wabbajack.Lib",
+	"title": "ElmoRim",
+	"description": "ElmoRim is for players who want to enhance their Skyrim experience without adding massive amounts of content. A compact and performance-friendly list that offers improved visuals, modernized combat, and increased immersion. No CC-MODS required.",
+	"author": "Elmo",
+	"maintainers": [
+		"github/elmoDFGD"
+	],
+	"game": "skyrimspecialedition",
+	"tags": [
+		"Compact",
+		"Performance",
+		"NO-CC",
+		"Combat",
+		"Visuals",
+		"Immersion"
 
-    ],
-    "nsfw": false,
-    "image_contains_title": false,
-    "force_down": false,
-    "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/ElmoRim.png",
-      "readme": "https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/README.md",
-      "download": "https://authored-files.wabbajack.org/ElmoRim.wabbajack_b5ef5660-6425-4c9e-b875-397f4a7d9360",
-      "machineURL": "ElmoRim",
-      "discordURL": "https://discord.gg/6gGVgDYnBW"
-    },
-    "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "YsqmHjiJcXM=",
-      "Size": 144080510,
-      "NumberOfArchives": 709,
-      "SizeOfArchives": 55188466918,
-      "NumberOfInstalledFiles": 114540,
-      "SizeOfInstalledFiles": 79764664081
-    },
-    "version": "0.0.2"
-  }
-]
+	],
+	"nsfw": false,
+	"image_contains_title": false,
+	"force_down": false,
+	"links": {
+		"$type": "Links, Wabbajack.Lib",
+		"image": "https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/ElmoRim.png",
+		"readme": "https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/README.md",
+		"download": "https://authored-files.wabbajack.org/ElmoRim.wabbajack_b5ef5660-6425-4c9e-b875-397f4a7d9360",
+		"machineURL": "ElmoRim",
+		"discordURL": "https://discord.gg/6gGVgDYnBW"
+	},
+	"download_metadata": {
+		"$type": "DownloadMetadata, Wabbajack.Lib",
+		"Hash": "YsqmHjiJcXM=",
+		"Size": 144080510,
+		"NumberOfArchives": 709,
+		"SizeOfArchives": 55188466918,
+		"NumberOfInstalledFiles": 114540,
+		"SizeOfInstalledFiles": 79764664081
+	},
+	"version": "0.0.2"
+}]
