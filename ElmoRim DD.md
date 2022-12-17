@@ -5,7 +5,6 @@
 * use stagger animations from poise
 * Setup Nexus page
 * Make launch plan
-* 2 woodcutters constr objec
 
 ## Changelog
 
@@ -128,3 +127,5 @@ Disabled woodcutter's axe recipe from SSOS in ElmoRim CRP
 Added Sidequests Of Skyrim Settings Loader
 Renamed output-mods with [O] prefix for filtering purposes
 
+----0.0.31---
+Regenerated Nemesis output to include magelock
