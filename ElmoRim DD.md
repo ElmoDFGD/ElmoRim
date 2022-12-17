@@ -129,3 +129,7 @@ Renamed output-mods with [O] prefix for filtering purposes
 
 ----0.0.31---
 Regenerated Nemesis output to include magelock
+
+
+----0.0.4---- 
+Added Improvement Names Customized
