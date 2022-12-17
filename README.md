@@ -361,6 +361,11 @@ Customize *Health potion hotkey* (Default: `H`). Add a hotkey for stamina/magick
 
 ##### Simplest Horses
 Customize *Horse Control hotkey*(Default: `V`).
+
+##### Sidequests Of Skyrim
+Configure available quests. Set quest chance. Limit questgivers to unique NPC's.
+
+>The ingredient/shopping quests can be rather tedious and are disabled by default.
   
 ##### SmoothCam
 By default the list uses [Adventurer's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/59997). Feel free to download and install other presets.

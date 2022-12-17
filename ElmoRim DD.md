@@ -2,12 +2,10 @@
 ## 2d0
 
 * High Level Enemies Redux & Heritage Enemies 2
-* Shadow marks ENB bug
 * use stagger animations from poise
-* connect to wabbajack CDN
 * Setup Nexus page
 * Make launch plan
-* upload included [E] to nexus
+* 2 woodcutters constr objec
 
 ## Changelog
 
@@ -124,3 +122,6 @@ Added Menu and Load Smoke Removed for ENB
 Added Ultrawide & Gamepad support separator + mods
 Created ElmoRim discord
 Reconfigured WJ tags through UI
+Archived all small [E]-files. Include in WJ-file instead
+Disabled woodcutter's axe recipe from SSOS
+Added Sidequests Of Skyrim Settings Loader
