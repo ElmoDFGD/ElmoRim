@@ -10,7 +10,6 @@
 ## Changelog
 
 ----0.0.1----
-
 Created ElmoRim dir  
 Created ./Game Root dir  
 Copied files from Steam Folder to Game Root dir  
