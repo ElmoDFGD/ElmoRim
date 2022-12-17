@@ -121,8 +121,11 @@ Added 3rd Person Camera Stagger Remover
 Added Menu and Load Smoke Removed for ENB
 Added Ultrawide & Gamepad support separator + mods
 Created ElmoRim discord
+
+----0.0.3----
 Reconfigured WJ tags through UI
 Archived all small [E]-files. Include in WJ-file instead
 Disabled woodcutter's axe recipe from SSOS
 Added Sidequests Of Skyrim Settings Loader
 Renamed output-mods with [O] prefix for filtering purposes
+
