@@ -102,7 +102,7 @@ Adjusted CCARA>2066 (snowflake) to check for Solas
 Uploaded Facegen and Precision patch to Nexus
 Optimized wabbajack file size using https://github.com/wabbajack-tools/wiki/wiki/06.-Keeping-the-Game-Folder-clean and wabbajack cmd wabbajack-cli.exe modlist-report -i {path to .wabbajack file}
 
-----0.0.2----
+----0.0.2----  
 Reinstalled AI overhaul - Switched to full version  
 Switched to Berserkyr ENB  
 Added Skyrim Upscaler  
@@ -121,22 +121,22 @@ Added Ultrawide & Gamepad support separator + mods
 Created ElmoRim discord  
 Created modlists.json and made pull request to https://github.com/wabbajack-tools/mod-lists/blob/master/repositories.json  
 
-----0.0.3----
+----0.0.3----  
 Reconfigured WJ tags through UI  
 Archived all small [E]-files. Include in WJ-file instead  
 Disabled woodcutter's axe recipe from SSOS in ElmoRim CRP  
 Added Sidequests Of Skyrim Settings Loader  
 Renamed output-mods with [O] prefix for filtering purposes  
 
-----0.0.31---
+----0.0.31---  
 Regenerated Nemesis output to include magelock  
 
 
-----0.0.4---- 
+----0.0.4----   
 Added Improvement Names Customized  
 
 
-----0.0.5----
+----0.0.5----  
 Testpublish on WJ!  
 Updated Skyrim Upscaler to 1.0.8  
 Updated Upscaler Base Plugin to 1.0.4  
