@@ -46,18 +46,18 @@ This readme provides instructions for installing and configuring ElmoRim. A deta
 
 ## Feature overview
 ElmoRim consists of around 650 mods. This overview provides an idea of what to expect from the list.
-| Feature | Core Mods |  
-|     :---:    |     :---:     |  
-| **Visuals**   | Skyland AIO, Modular Armory, Berserkyr ENB |    
-| **Combat**    | MCO, Valhalla, Precision, Valravn    |  
-| **Gameplay** | SimonRim, Experience, ElmoRim Lite Needs*|  
-| **Quests**    | Skyrim Unbound, JaySerpa's Quest Expansion-series, At Your Own Pace, College For Non-Mages     |  
-| **Immersion** | Immersive interactions, EVG Animated Traversal, Animated Eating Redux|  
-| **Audio**| AOS, ISC, Regional Sounds Expansion, Yet Another Music Merge |  
-|**UI**| Untarnished UI, BTPS|  
-| **New lands** | Nope |  
-|**Followers**| Nope|  
-| **NSFW** | Nope |  
+| Feature       |                                     Core Mods                                             |  
+|     :---:     |                                      :---:                                                |  
+| **Visuals**   | Skyland AIO, Modular Armory, Berserkyr ENB                                                |    
+| **Combat**    | MCO, Valhalla, Precision, Valravn                                                         |  
+| **Gameplay**  | SimonRim, Experience, ElmoRim Lite Needs*                                                 |  
+| **Quests**    | Skyrim Unbound, JaySerpa's Quest Expansion-series, At Your Own Pace, College For Non-Mages|  
+| **Immersion** | Immersive interactions, EVG Animated Traversal, Animated Eating Redux                     |  
+| **Audio**     | AOS, ISC, Regional Sounds Expansion, Yet Another Music Merge                              |  
+|**UI**         | Untarnished UI, BTPS                                                                      |  
+| **New lands** | Nope                                                                                      |  
+|**Followers**  | Nope                                                                                      |  
+| **NSFW**      | Nope                                                                                      |  
 
 >*Not a mod but a combination of features from several mods. Read the [wiki](https://github.com/ElmoDFGD/ElmoRim/wiki/Welcome-to-the-ElmoRim-wiki#gameplay) to find out more.
 
