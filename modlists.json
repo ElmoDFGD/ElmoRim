@@ -1,7 +1,7 @@
 [{
 	"$type": "ModListMetadata, Wabbajack.Lib",
 	"title": "ElmoRim",
-	"description": "ElmoRim is for players who want to enhance their Skyrim experience without massive content additions or complex mechanics. A compact and performance-friendly list that offers improved visuals, modernized combat, and increased immersion. No CC-MODS required.",
+	"description": "ElmoRim is for players who want to enhance their Skyrim experience without adding massive amounts of content or complex mechanics. A compact and performance-friendly list that offers improved visuals, modernized combat, and increased immersion. NO CC-MODS REQUIRED",
 	"author": "Elmo",
 	"maintainers": [
 		"github/elmoDFGD"
@@ -36,5 +36,5 @@
 		"NumberOfInstalledFiles": 114540,
 		"SizeOfInstalledFiles": 79764664081
 	},
-	"version": "0.0.4"
+	"version": "0.0.5"
 }]
