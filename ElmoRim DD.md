@@ -119,6 +119,7 @@ Added 3rd Person Camera Stagger Remover
 Added Menu and Load Smoke Removed for ENB
 Added Ultrawide & Gamepad support separator + mods
 Created ElmoRim discord
+Created modlists.json and made pull request to https://github.com/wabbajack-tools/mod-lists/blob/master/repositories.json
 
 ----0.0.3----
 Reconfigured WJ tags through UI
@@ -133,3 +134,11 @@ Regenerated Nemesis output to include magelock
 
 ----0.0.4---- 
 Added Improvement Names Customized
+
+
+----0.0.5----
+Testpublish on WJ!
+Updated Skyrim Upscaler to 1.0.8
+Updated Upscaler Base Plugin to 1.0.4
+Set Widescreen/gamepad mods to always enabled in WJ UI
+
