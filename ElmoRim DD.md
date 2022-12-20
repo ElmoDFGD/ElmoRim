@@ -141,5 +141,5 @@ Testpublish on WJ!
 Updated Skyrim Upscaler to 1.0.8
 Updated Upscaler Base Plugin to 1.0.4
 Set Widescreen/gamepad mods to always enabled in WJ UI
-restructured github files
+Restructured github files
 
