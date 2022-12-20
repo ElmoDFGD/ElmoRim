@@ -21,7 +21,7 @@
 	"force_down": false,
 	"links": {
 		"$type": "Links, Wabbajack.Lib",
-		"image": "https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/ElmoRim.png",
+		"image": "https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/media/ElmoRim.png",
 		"readme": "https://github.com/ElmoDFGD/ElmoRim",
 		"download": "https://authored-files.wabbajack.org/ElmoRim.wabbajack_b5ef5660-6425-4c9e-b875-397f4a7d9360",
 		"machineURL": "ElmoRim",
