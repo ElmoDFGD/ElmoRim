@@ -77,12 +77,12 @@ With that said, ElmoRim has been carefully designed to offer a balance between v
 
 The list was developed on an upper-mid tier laptop with the following specs:
 
-| Category | Specs |
-|     :---:    |     :---:     |
-| **CPU**   | AMD Ryzen 7 5800H |  
-| **Video Card**    | Nvidia RTX 3070       |
-| **Ram**    | 16GB     |
-| **Storage**    |  SSD     |
+| Category | Specs |  
+|     :---:    |     :---:     |  
+| **CPU**   | AMD Ryzen 7 5800H |    
+| **Video Card**    | Nvidia RTX 3070       |  
+| **Ram**    | 16GB     |  
+| **Storage**    |  SSD     |  
 
 With these specs the game runs at 60fps@1080p and at around 45fps@1440p (in exteriors, 60 fps in interiors).
 
