@@ -103,44 +103,44 @@ Uploaded Facegen and Precision patch to Nexus
 Optimized wabbajack file size using https://github.com/wabbajack-tools/wiki/wiki/06.-Keeping-the-Game-Folder-clean and wabbajack cmd wabbajack-cli.exe modlist-report -i {path to .wabbajack file}
 
 ----0.0.2----
-Reinstalled AI overhaul - Switched to full version
-Switched to Berserkyr ENB
-Added Skyrim Upscaler
-Removed smaller texture mods such as 3D rocks to improve performance.
-Regenerated LOD outputs with medium quality
-Removed Draw2
-Added XPMSSE-styles & fixes
-Removed cathedral landscapes
-Added Folkvangr
-Generated grass cache for Folkvangr
-Removed Elden Equip
-Added Serio's Cycle Hotkeys
-Added 3rd Person Camera Stagger Remover
-Added Menu and Load Smoke Removed for ENB
-Added Ultrawide & Gamepad support separator + mods
-Created ElmoRim discord
-Created modlists.json and made pull request to https://github.com/wabbajack-tools/mod-lists/blob/master/repositories.json
+Reinstalled AI overhaul - Switched to full version  
+Switched to Berserkyr ENB  
+Added Skyrim Upscaler  
+Removed smaller texture mods such as 3D rocks to improve performance  
+Regenerated LOD outputs with medium quality  
+Removed Draw2  
+Added XPMSSE-styles & fixes  
+Removed cathedral landscapes  
+Added Folkvangr  
+Generated grass cache for Folkvangr  
+Removed Elden Equip  
+Added Serio's Cycle Hotkeys  
+Added 3rd Person Camera Stagger Remover  
+Added Menu and Load Smoke Removed for ENB  
+Added Ultrawide & Gamepad support separator + mods  
+Created ElmoRim discord  
+Created modlists.json and made pull request to https://github.com/wabbajack-tools/mod-lists/blob/master/repositories.json  
 
 ----0.0.3----
-Reconfigured WJ tags through UI
-Archived all small [E]-files. Include in WJ-file instead
-Disabled woodcutter's axe recipe from SSOS in ElmoRim CRP
-Added Sidequests Of Skyrim Settings Loader
-Renamed output-mods with [O] prefix for filtering purposes
+Reconfigured WJ tags through UI  
+Archived all small [E]-files. Include in WJ-file instead  
+Disabled woodcutter's axe recipe from SSOS in ElmoRim CRP  
+Added Sidequests Of Skyrim Settings Loader  
+Renamed output-mods with [O] prefix for filtering purposes  
 
 ----0.0.31---
-Regenerated Nemesis output to include magelock
+Regenerated Nemesis output to include magelock  
 
 
 ----0.0.4---- 
-Added Improvement Names Customized
+Added Improvement Names Customized  
 
 
 ----0.0.5----
-Testpublish on WJ!
-Updated Skyrim Upscaler to 1.0.8
-Updated Upscaler Base Plugin to 1.0.4
-Set Widescreen/gamepad mods to always enabled in WJ UI
-Restructured github files
-Swapped cover image to .webp-format
+Testpublish on WJ!  
+Updated Skyrim Upscaler to 1.0.8  
+Updated Upscaler Base Plugin to 1.0.4  
+Set Widescreen/gamepad mods to always enabled in WJ UI  
+Restructured github files  
+Swapped cover image to .webp-format  
 
