@@ -46,7 +46,7 @@ This readme provides instructions for installing and configuring ElmoRim. A deta
 
 ## Feature overview
 ElmoRim consists of around 650 mods. This overview provides an idea of what to expect from the list.
-| Feature       |                                     Core Mods                                             |  
+|    Feature    |                                     Core Mods                                             |  
 |     :---:     |                                      :---:                                                |  
 | **Visuals**   | Skyland AIO, Modular Armory, Berserkyr ENB                                                |    
 | **Combat**    | MCO, Valhalla, Precision, Valravn                                                         |  
@@ -54,10 +54,10 @@ ElmoRim consists of around 650 mods. This overview provides an idea of what to e
 | **Quests**    | Skyrim Unbound, JaySerpa's Quest Expansion-series, At Your Own Pace, College For Non-Mages|  
 | **Immersion** | Immersive interactions, EVG Animated Traversal, Animated Eating Redux                     |  
 | **Audio**     | AOS, ISC, Regional Sounds Expansion, Yet Another Music Merge                              |  
-|**UI**         | Untarnished UI, BTPS                                                                      |  
-| **New lands** | Nope                                                                                      |  
-|**Followers**  | Nope                                                                                      |  
-| **NSFW**      | Nope                                                                                      |  
+|   **UI**      | Untarnished UI, BTPS                                                                      |  
+| **New lands** |                                       Nope                                                |  
+|**Followers**  |                                       Nope                                                |  
+| **NSFW**      |                                       Nope                                                |  
 
 >*Not a mod but a combination of features from several mods. Read the [wiki](https://github.com/ElmoDFGD/ElmoRim/wiki/Welcome-to-the-ElmoRim-wiki#gameplay) to find out more.
 
@@ -77,12 +77,12 @@ With that said, ElmoRim has been carefully designed to offer a balance between v
 
 The list was developed on an upper-mid tier laptop with the following specs:
 
-| Category | Specs |  
-|     :---:    |     :---:     |  
-| **CPU**   | AMD Ryzen 7 5800H |    
-| **Video Card**    | Nvidia RTX 3070       |  
-| **Ram**    | 16GB     |  
-| **Storage**    |  SSD     |  
+|   Category      |       Specs         |    
+|     :---:       |       :---:         |    
+| **CPU**         | AMD Ryzen 7 5800H   |      
+| **Video Card**  | Nvidia RTX 3070     |    
+| **Ram**         |       16GB          |    
+| **Storage**     |        SSD          |  
 
 With these specs the game runs at 60fps@1080p and at around 45fps@1440p (in exteriors, 60 fps in interiors).
 
