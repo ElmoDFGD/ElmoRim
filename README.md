@@ -1,6 +1,4 @@
 
- 
-![](https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/ElmoRim.png)
 
 
 # ElmoRim
