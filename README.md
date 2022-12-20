@@ -1,6 +1,6 @@
 
 
-![](https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/ElmoRim.png)
+![](https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/media/ElmoRimCover.webp)
 # ElmoRim
 
 ## Contents
