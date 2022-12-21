@@ -98,7 +98,7 @@ The first step of installing ElmoRim is making sure all required software is ins
 3. Install [Special Edition: Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) through Steam. 
 4. Disable Steam [auto-updates](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 5. In Steam, right click on Skyrim SE and click on *Properties*, untick `Enable Steam Overlay while in-game`.
-> Make sure to install the correct version of the Creation Kit, make sure it is named exactly as the link in step 2!
+> Make sure to install the correct version of the Creation Kit. It should be named exactly as the link in step 2!
   
 ### Setting up pagefile
 
