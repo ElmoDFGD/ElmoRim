@@ -144,3 +144,8 @@ Set Widescreen/gamepad mods to always enabled in WJ UI
 Restructured github files  
 Swapped cover image to .webp-format  
 
+
+----0.0.6----
+Created separate test-profile
+Set resolution to 1920x1080
+
