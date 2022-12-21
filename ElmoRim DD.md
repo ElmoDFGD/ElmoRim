@@ -10,6 +10,7 @@
 
 ## Version update checklist
 
+0. Set resolution to 1920x1080, Run Clear/Build, clear overwrite.
 1. Re-compile w/ new version number
 2. Upload new file to CDN
 3. Update link and version number in modlists.json
@@ -157,4 +158,8 @@ Swapped cover image to .webp-format
 ----0.0.6----  
 Created separate test-profile  
 Set resolution to 1920x1080
+
+----0.0.7----
+Removed Movement Behavior Overhaul due to t-posing when using target-lock on
+Removed fControllerBufferDepth=0.01 from skyrim.ini
 
