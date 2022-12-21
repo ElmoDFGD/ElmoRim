@@ -6,6 +6,14 @@
 * Setup Nexus page
 * Make launch plan
 
+
+## Version update checklist
+
+1. Re-compile w/ new version number
+2. Upload new file to CDN
+3. Update link and version number in modlists.json
+4. pray
+
 ## Changelog
 
 ----0.0.1----
