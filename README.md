@@ -94,8 +94,11 @@ Modlist size: 127 GB (of which 46 GB are downloads)
 The first step of installing ElmoRim is making sure all required software is installed and that Steam is configured correctly.
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v6 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
-2. Disable Steam [auto-updates](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-3. In Steam, right click on Skyrim SE and click on *Properties*, untick `Enable Steam Overlay while in-game`.
+2. Install Skyrim Special Edition through Steam.
+3. Install [Special Edition: Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) through Steam. 
+4. Disable Steam [auto-updates](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+5. In Steam, right click on Skyrim SE and click on *Properties*, untick `Enable Steam Overlay while in-game`.
+> Make sure to install the correct version of the Creation Kit, make sure it is named exactly as the link in step 2!
   
 ### Setting up pagefile
 
