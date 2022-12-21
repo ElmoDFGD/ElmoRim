@@ -5,7 +5,6 @@
 * use stagger animations from poise
 * Setup Nexus page
 * Make launch plan
-* Add CK install instruction to readme
 
 
 ## Version update checklist
