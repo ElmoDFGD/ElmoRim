@@ -77,38 +77,38 @@ Created Tweaks-Separator + installed mods
 Created Interface-Separator + installed mods  
 Added SynOblivionInteractionIcons Synthesis Patch  
 Created Controls-Separator + installed mods  
-Set Nemesis, DynDOLOD and xLODGen executables to run in Win 8 Comp.mode
-Ported Appearance-Separator in its entirety from ElmoRim 5  
-Added Tavern AI Fix commands to Autorun  
-Created Gameplay-separator + installed mods
-Added fBookOpenTime=200 to [Interface] in skyrim.ini
-Created QoL-Separator + installed mods
-Created Animations-Separator + installed mods
-Created Loot, Gear & Encounters-Separator + installed mods
-Created SimonRim-Separator + installed mods
-Created Combat-Separator + installed mods
-Added fInAirFallingCharGravityMult=1.8 to [HAVOK] in skyrim.ini
-Added fControllerBufferDepth=0.01 to [CONTROLS] in skyrim.ini
-Added Late Loaders-Separator
-Ported ElmoRim CRP
-Added WABBAJACK_NOMATCH_INCLUDE tagfile to ./Game Root/enbcache
-Added WABBAJACK_IGNORE tagfile to ./Tools/_tmp
-Added Map-Separator + installed mods
-Configured grass cache settings (modpage + script to list relevant worldspaces)
-Tweaked inis and nvidia control panel settings according to Patrician ENB instructions
-Created Patrician ENB-Separator + installed mods
-Edited meta files to show tools as installed
-set bVATSDisable = 1 under [VATS] in skyrim.ini
-Set ElmoRim to play in fullscreen.
-Followed guide at https://github.com/The-Animonculory/Modding-Resources/blob/main/Regenerating%20Faces%20in%20the%20Creation%20Kit.md for Facegen
-Added https://github.com/caiobraz/Synth-NPCs-Face-Data Synthesis repo
-Set TintMaskResolution=1024 in Skyrim64_test.ini
-Installed SSE Creation Kit Fixes Update
-Installed Cathedral Assets Optimizer
-Installed CAO-profile from https://github.com/The-Animonculory/Modding-Resources/blob/main/BSA%20Creation.7z?raw=true
-Adjusted CCARA>2066 (snowflake) to check for Solas
-Uploaded Facegen and Precision patch to Nexus
-Optimized wabbajack file size using https://github.com/wabbajack-tools/wiki/wiki/06.-Keeping-the-Game-Folder-clean and wabbajack cmd wabbajack-cli.exe modlist-report -i {path to .wabbajack file}
+Set Nemesis, DynDOLOD and xLODGen executables to run in Win 8 Comp.mode  
+Ported Appearance-Separator in its entirety from ElmoRim 5    
+Added Tavern AI Fix commands to Autorun    
+Created Gameplay-separator + installed mods  
+Added fBookOpenTime=200 to [Interface] in skyrim.ini  
+Created QoL-Separator + installed mods  
+Created Animations-Separator + installed mods  
+Created Loot, Gear & Encounters-Separator + installed mods  
+Created SimonRim-Separator + installed mods  
+Created Combat-Separator + installed mods  
+Added fInAirFallingCharGravityMult=1.8 to [HAVOK] in skyrim.ini  
+Added fControllerBufferDepth=0.01 to [CONTROLS] in skyrim.ini  
+Added Late Loaders-Separator  
+Ported ElmoRim CRP  
+Added WABBAJACK_NOMATCH_INCLUDE tagfile to ./Game Root/enbcache  
+Added WABBAJACK_IGNORE tagfile to ./Tools/_tmp  
+Added Map-Separator + installed mods  
+Configured grass cache settings (modpage + script to list relevant worldspaces)  
+Tweaked inis and nvidia control panel settings according to Patrician ENB instructions  
+Created Patrician ENB-Separator + installed mods  
+Edited meta files to show tools as installed  
+set bVATSDisable = 1 under [VATS] in skyrim.ini  
+Set ElmoRim to play in fullscreen.  
+Followed guide at https://github.com/The-Animonculory/Modding-Resources/blob/main/Regenerating%20Faces%20in%20the%20Creation%20Kit.md for Facegen  
+Added https://github.com/caiobraz/Synth-NPCs-Face-Data Synthesis repo  
+Set TintMaskResolution=1024 in Skyrim64_test.ini  
+Installed SSE Creation Kit Fixes Update  
+Installed Cathedral Assets Optimizer  
+Installed CAO-profile from https://github.com/The-Animonculory/Modding-Resources/blob/main/BSA%20Creation.7z?raw=true  
+Adjusted CCARA>2066 (snowflake) to check for Solas  
+Uploaded Facegen and Precision patch to Nexus  
+Optimized wabbajack file size using https://github.com/wabbajack-tools/wiki/wiki/06.-Keeping-the-Game-Folder-clean and wabbajack cmd wabbajack-cli.exe modlist-report -i {path to .wabbajack file}  
 
 ----0.0.2----  
 Reinstalled AI overhaul - Switched to full version  
