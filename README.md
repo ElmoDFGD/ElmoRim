@@ -18,8 +18,10 @@
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
     - [Antivirus Exceptions](#antivirus-exceptions)
+    - [Users with a 10-series Nvidia card or lower: Disable DLAA](#users-with-a-10-series-nvidia-card-or-lower-disable-dlaa)
     - [Compatibility Settings](#compatibility-settings)
-    - [Widescreen Fixes](#widescreen-fixes)
+    - [Optional: Resolution settings](#optional-resolution-settings)
+    - [Optional Widescreen & gamepad support](#optional-widescreen--gamepad-support)
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
     - [MCM Configuration](#mcm-configuration)
@@ -85,6 +87,7 @@ The list was developed on an upper-mid tier laptop with the following specs:
 | **Storage**     |        SSD          |  
 
 With these specs the game runs at 60fps@1080p and at around 45fps@1440p (in exteriors, 60 fps in interiors).
+> ElmoRim uses the [Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343) for it's superior antialiasing implementatino. This feature requires an RTX 20-series card or higher. Users with [potato](#users-with-a-10-series-nvidia-card-or-lower-disable-dlaa) cards need to use TAA instead. 
 
 Recommendations on how to tweak the balance between visual quality and performance are provided [in the wiki](https://github.com/ElmoDFGD/ElmoRim/wiki/Welcome-to-the-ElmoRim-wiki#tweaking-the-game-settings).
 
@@ -249,6 +252,20 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
  </details>
 
 
+ ### Users with a 10-series Nvidia card or lower: Disable DLAA
+
+<details>
+  <summary><strong>Click here to see required steps</strong></summary> 
+
+ Users who do **not** have a RTX 20-series or higher card need to rely on Skyrims native antialiasing. Perform the following steps:
+
+- Disable the mods *UpscalerBasePlugin*, *ShaderTools Updated* and *Skyrim Upscaler* under the Framework-separator.
+- Open BethINI.
+- Under *Basic>Antialiasing*: Choose `TAA`.
+- Press `Save and Exit`.
+</details>
+
+
 ### Optional: Resolution settings
 By default, ElmoRim is configured to run in exclusive fullscreen. This is because [Detection Meter](https://www.nexusmods.com/skyrimspecialedition/mods/63057) is incompatible with the *BorderlessUpscale* feature of [SSE Display tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705). For users who absolutely want to play in borderless mode, complete the following steps:
 
@@ -405,6 +422,10 @@ Updating is like installing the list. Simply check that the file paths are the s
 **ALWAYS back up saves before an update.**
 
 ## FAQ 
+
+#### Q: I get CTD when starting the game
+
+A: You have a [potato](#users-with-a-10-series-nvidia-card-or-lower-disable-dlaa) graphics card. Follow the link for instructions on how to fix this.
 
 #### Q: This isn't vanilla?!
 
