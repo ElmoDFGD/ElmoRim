@@ -254,10 +254,10 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
 
  ### Users with a 10-series Nvidia card or lower: Disable DLAA
 
+ Users who do **not** have a RTX 20-series or higher card need to rely on Skyrims native antialiasing. Perform the following steps:
+
 <details>
   <summary><strong>Click here to see required steps</strong></summary> 
-
- Users who do **not** have a RTX 20-series or higher card need to rely on Skyrims native antialiasing. Perform the following steps:
 
 - Disable the mods *UpscalerBasePlugin*, *ShaderTools Updated* and *Skyrim Upscaler* under the Framework-separator.
 - Open BethINI.
