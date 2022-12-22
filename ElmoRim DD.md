@@ -161,4 +161,5 @@ Set resolution to 1920x1080
 ----0.0.7----
 Removed Movement Behavior Overhaul due to t-posing when using target-lock on
 Removed fControllerBufferDepth=0.01 from skyrim.ini
+Reverted ElmoRim cover image to.png
 
