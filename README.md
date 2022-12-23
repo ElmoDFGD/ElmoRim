@@ -429,7 +429,7 @@ A: You have a [potato](#users-with-a-10-series-nvidia-card-or-lower-disable-dlaa
 
 #### Q: This isn't vanilla?!
 
-A: Indeed not. The list is centered around vanilla content and provides a platform for enjoying said content by leveraging a decade of contributions from awesome mod makers.
+A: Indeed not. It is about experiencing vanilla content in 2023.
 
 #### Q: BUG!
 
@@ -437,7 +437,7 @@ A: If a suspected bug or weird behavior is encountered, check the [issue tracker
 
 #### Q: Why do all daedra sound like they're on *Insert Illicit Substance*?
 
-A: One of the most daunting things about starting a new playthrough in Skyrim is the prospect of having to listen to all the unskippable dialogue in daedric quests. The mod [Speedy Daedric Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/32459) alleviates this by making all dialogue play at 2x speed. To revert to vanilla, simply disable the mod.
+A: One of the most daunting things about starting a new playthrough is the prospect of having to listen to all the unskippable dialogue in the daedric quests. The mod [Speedy Daedric Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/32459) alleviates this by making all dialogue play at 2x speed. To revert to vanilla, simply disable the mod.
 
 #### Q: I can't level up, what do I do?  
 A: You have Sleep to level up enabled, go sleep in a bed or disable it through Survival Control Panel in the MCM.
