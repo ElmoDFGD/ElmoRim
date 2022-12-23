@@ -411,7 +411,7 @@ Customize equipment slots, such as placing one-handed swords on the players back
 
 Before updating, please check the [changelog](https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md) and back up any saves. A new game may be required after certain updates. To check if an update is save safe or not, refer to the version number. The first digit indicates major version, second digit indicates minor version (these are unlikely to be save safe unless otherwise specified) and the third digit will represent bug fixes etc.
   - If the modlist is updated from *1.0.0* to *2.0.0*, then this version is likely a major overhaul of at least one system and **will not** be considered save safe.
-  - If the modlist is updated from *1.0.0* to *1.1.0*, then this version is save safe **unless** the changelog states otherwise..
+  - If the modlist is updated from *1.0.0* to *1.1.0*, then this version is save safe **unless** the changelog states otherwise.
   - If the modlist is updated from *1.0.0* to *1.0.1*, then this version **is** save safe  
   
   >In cases where the update is save safe, performing additional steps my be needed to maintain the health of the save. These steps will be provided in the changelog.  
