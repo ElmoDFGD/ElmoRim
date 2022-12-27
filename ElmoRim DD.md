@@ -10,7 +10,7 @@
 
 ## Version update checklist
 
-0. Set resolution to 1920x1080, Run Clear/Build, clear overwrite.
+0. Run Clear/Build, clear overwrite.
 1. Re-compile w/ new version number
 2. Upload new file to CDN
 3. Update link and version number in modlists.json
@@ -18,13 +18,14 @@
 
 ## Changelog
 
-----0.1.1----
+----0.1.2----  
+Change default settings of Sidequests of Skyrim  
 
+----0.1.1----  
 Reduced Sampling Range to 0.25 in ENB AO
 Added Nvidia dll to Upscaler Base Plugin
 
-----0.1.0----
-
+----0.1.0----  
 Updated Precision to 2.0.2
 Updated Berserkyr ENB to 1.2.6
 Updated ENB Binaries to 0.484
