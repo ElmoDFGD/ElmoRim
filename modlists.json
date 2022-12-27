@@ -20,7 +20,7 @@
 	],
 	"nsfw": false,
 	"image_contains_title": false,
-	"force_down": true,
+	"force_down": false,
 	"links": {
 		"$type": "Links, Wabbajack.Lib",
 		"image": "https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/media/ElmoRimCover.webp",
@@ -38,5 +38,5 @@
 		"NumberOfInstalledFiles": 114540,
 		"SizeOfInstalledFiles": 79764664081
 	},
-	"version": "0.0.7"
+	"version": "0.1.0"
 }]

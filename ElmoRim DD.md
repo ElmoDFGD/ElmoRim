@@ -17,6 +17,20 @@
 
 ## Changelog
 
+----0.1.0----
+
+Updated Precision to 2.0.2
+Updated Berserkyr ENB to 1.2.6
+Updated ENB Binaries to 0.484
+Updated Skyrim Upscaler to 1.1.0
+Updated Upscaler Base Plugin to 1.0.6.1
+
+Removed Shader Tools Updated
+
+Regenerated Nemesis output
+
+
+
 ----0.0.7----  
 Removed Movement Behavior Overhaul due to t-posing when using target-lock on  
 Removed fControllerBufferDepth=0.01 from skyrim.ini
