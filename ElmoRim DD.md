@@ -22,6 +22,7 @@
 ----0.1.1----
 
 Reduced Sampling Range to 0.25 in ENB AO
+Added Nvidia dll to Upscaler Base Plugin
 
 ----0.1.0----
 
