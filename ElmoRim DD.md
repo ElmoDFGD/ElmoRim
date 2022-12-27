@@ -2,7 +2,6 @@
 ## 2d0
 
 * High Level Enemies Redux & Heritage Enemies 2
-* use stagger animations from poise
 * Setup Nexus page
 * Make launch plan
 * VAE
