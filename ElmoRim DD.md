@@ -5,6 +5,8 @@
 * use stagger animations from poise
 * Setup Nexus page
 * Make launch plan
+* VAE
+* Strange Runes
 
 
 ## Version update checklist
@@ -19,7 +21,7 @@
 
 ----0.1.1----
 
-Disabled Useselfintersecting in ENB AO
+Reduced Sampling Range to 0.25 in ENB AO
 
 ----0.1.0----
 
