@@ -17,6 +17,10 @@
 
 ## Changelog
 
+----0.1.1----
+
+Disabled Useselfintersecting in ENB AO
+
 ----0.1.0----
 
 Updated Precision to 2.0.2
