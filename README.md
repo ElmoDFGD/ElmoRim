@@ -87,7 +87,7 @@ The list was developed on an upper-mid tier laptop with the following specs:
 | **Storage**     |        SSD          |  
 
 With these specs the game runs at 60fps@1080p and at around 45fps@1440p (in exteriors, 60 fps in interiors).
-> ElmoRim uses the [Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343) for it's superior antialiasing implementatino. This feature requires an RTX 20-series card or higher. Users with [potato](#users-with-a-10-series-nvidia-card-or-lower-disable-dlaa) cards need to use TAA instead. 
+> ElmoRim uses the [Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343) for it's superior antialiasing implementation. This feature requires an RTX 20-series card or higher. Users with [potato](#users-with-a-10-series-nvidia-card-or-lower-disable-dlaa) cards need to use TAA instead. 
 
 Recommendations on how to tweak the balance between visual quality and performance are provided [in the wiki](https://github.com/ElmoDFGD/ElmoRim/wiki/Welcome-to-the-ElmoRim-wiki#tweaking-the-game-settings).
 
