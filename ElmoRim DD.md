@@ -18,6 +18,9 @@
 
 ## Changelog
 
+----0.1.3----  
+Switched nvngx_dlss.dll version to 2.4.0 which can be sourced from GitHub, ensuring the link doesn't break. 
+
 ----0.1.2----  
 Change default settings of Sidequests of Skyrim  
 
