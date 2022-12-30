@@ -6,6 +6,7 @@
 * Make launch plan
 * VAE
 * Strange Runes
+* ralbdthar gate key
 
 
 ## Version update checklist
