@@ -18,7 +18,7 @@
 
 ## Changelog
 
-----0.1.4----
+----0.1.4----  
 Tweaked enbseries.ini to improve performance
 * ResolutionScale = 0.50
 * SourceTexturesScale = 0.50
