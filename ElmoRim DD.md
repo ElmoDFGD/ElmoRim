@@ -1,7 +1,7 @@
 # ElmoRim Wabbajack Dev-Diary
 ## 2d0
 
-* High Level Enemies Redux & Heritage Enemies 2
+* Hand placed enemies
 * Setup Nexus page
 * Make launch plan
 * VAE
