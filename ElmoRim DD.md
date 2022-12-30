@@ -13,10 +13,16 @@
 0. Run Clear/Build, clear overwrite.
 1. Re-compile w/ new version number
 2. Upload new file to CDN
-3. Update link and version number in modlists.json
+3. Update modlists.json w/ jsonlint + new link
 4. pray
 
 ## Changelog
+
+----0.1.4----
+Tweaked enbseries.ini to improve performance
+* ResolutionScale = 0.50
+* SourceTexturesScale = 0.50
+* SamplingRange = 0.50
 
 ----0.1.3----  
 Switched nvngx_dlss.dll version to 2.4.0 which can be sourced from GitHub, ensuring the link doesn't break. 
