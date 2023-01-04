@@ -6,11 +6,10 @@
 * Make launch plan
 * VAE
 * Strange Runes
-* ralbdthar gate key
-
 
 ## Version update checklist
 
+00. Copy test profile, delete saves.
 0. Run Clear/Build, clear overwrite.
 1. Re-compile w/ new version number
 2. Upload new file to CDN
@@ -19,6 +18,23 @@
 
 ## Changelog
 
+
+----0.1.5----  
+Added Geirmund's Hall Pull Chain  
+
+Removed Footprints - ENB  
+Removed ENB Lava Particle Light Patch
+
+Better Third Person Selection - Disabled Object Cycling by default    
+Better Third Person Selectio - Increased Font Size
+Bright waterfall fix for ENB - Water for ENB - Removed fxambsnowblowingplaneheavy.nif (Fix for GitHub Issue #9) 
+ElmoRim CRP - Forwarded Simplest Horse records
+ElmoRim CRP - Added fix for The Break of Dawn "death fall"     
+Slightly Better - Old People Consistency - Moved to Late Loaders-separator        
+Synthesis Output - Regenerated       
+Timing is Everything - Changed Dawnguard start to 17    
+unofficial performance optimized textures AKA (UPOT) - Moved to Framework-separator
+  
 ----0.1.4----  
 Tweaked enbseries.ini to improve performance
 * ResolutionScale = 0.50
