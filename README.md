@@ -47,11 +47,11 @@ This readme provides instructions for installing and configuring ElmoRim. A deta
 > Disclaimer: ElmoRim puts vanilla content at center stage. However, it is first and foremost Skyrim the way I, Elmo, want it. So if a certain mod is included, it is because I want it there.
 
 ## Feature overview
-ElmoRim consists of around 650 mods. This overview provides an idea of what to expect from the list.
+ElmoRim consists of around 600 mods. This overview provides an idea of what to expect from the list.
 |    Feature    |                                     Core Mods                                             |  
 |     :---:     |                                      :---:                                                |  
-| **Visuals**   | Skyland AIO, Modular Armory, Berserkyr ENB                                                |    
-| **Combat**    | MCO, Valhalla, Precision, Valravn                                                         |  
+| **Visuals**   | Skyland AIO, Modular Armory, Sswaye's "Cabbage" Reshade                                   |    
+| **Combat**    | MCO, Valhalla, Precision, Valravn, Hand Placed Enemies                                    |  
 | **Gameplay**  | SimonRim, Experience, ElmoRim Lite Needs*                                                 |  
 | **Quests**    | Skyrim Unbound, JaySerpa's Quest Expansion-series, At Your Own Pace, College For Non-Mages|  
 | **Immersion** | Immersive interactions, EVG Animated Traversal, Animated Eating Redux                     |  
@@ -86,8 +86,8 @@ The list was developed on an upper-mid tier laptop with the following specs:
 | **Ram**         |       16GB          |    
 | **Storage**     |        SSD          |  
 
-With these specs the game runs at 60fps@1080p and at around 45fps@1440p (in exteriors, 60 fps in interiors).
-> ElmoRim uses the [Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343) for it's superior antialiasing implementation. This feature requires an RTX 20-series card or higher. Users with [potato](#users-with-a-10-series-nvidia-card-or-lower-disable-dlaa) cards need to use TAA instead. 
+With these specs the game runs at 60fps@1440p.
+> ElmoRim uses the [Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343). This feature requires an RTX 20-series card or higher. Users with [potato](#users-with-a-10-series-nvidia-card-or-lower-disable-dlaa) cards need to use TAA instead. 
 
 Recommendations on how to tweak the balance between visual quality and performance are provided [in the wiki](https://github.com/ElmoDFGD/ElmoRim/wiki/Welcome-to-the-ElmoRim-wiki#tweaking-the-game-settings).
 
@@ -252,39 +252,20 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
  </details>
 
 
- ### Users with a 10-series Nvidia card or lower: Disable DLAA
+ ### Users with a 10-series Nvidia card or lower: Disable DLSS
 
  Users who do **not** have a RTX 20-series or higher card need to rely on Skyrims native antialiasing. Perform the following steps:
 
 <details>
   <summary><strong>Click here to see required steps</strong></summary> 
 
-- Disable the mods *UpscalerBasePlugin*, *ShaderTools Updated* and *Skyrim Upscaler* under the Framework-separator.
+- Disable the mods *UpscalerBasePlugin* and *Skyrim Upscaler* under the Framework-separator.
 - Open BethINI.
-- Under *Basic>Antialiasing*: Choose `TAA`.
+- Under *Basic>Antialiasing*: Choose *TAA*.
 - Press `Save and Exit`.
 </details>
 
-
-### Optional: Resolution settings
-By default, ElmoRim is configured to run in exclusive fullscreen. This is because [Detection Meter](https://www.nexusmods.com/skyrimspecialedition/mods/63057) is incompatible with the *BorderlessUpscale* feature of [SSE Display tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705). For users who absolutely want to play in borderless mode, complete the following steps:
-
-<details>
-  <summary><strong>Click here to see required steps</strong></summary>    
-  
-1. Set Fullscreen = false in SSEDisplayTweaks.ini. This is found in the mod *SSE Display Tweaks - High performance configuration*. 
-
-2. Set *Resolution* to the desired value in SSEDisplayTweaks.ini.
-
-3. Right click on the Windows desktop.
-
-4. Select *Display settings*.
-
-5. Set *Display resolution* to the same value as in step 2.
-
->This is not an ideal solution since it means users who play at 1080p, but use 1440p for Windows, need to switch back and forth when playing ElmoRim. However, Detection Meter is too good a mod to skip. 
-</details>
-
+>Users with non-Nvidia cards need to use the XeSS or FSR2 upscaling method instead. Press `End` to open up the upscaler GUI and use the *Upscale Type* dropdown.
 
 ### Optional: Widescreen & gamepad support
 
@@ -313,8 +294,6 @@ fMessageInfoPosX (right-aligned, increase).
 </details>
 
 ## Playing the list
-
-#### Obligatory DAR Cache warning: due to the nature of this list and the amount of DAR based animations it uses, it does take some time (usually 15-30 seconds) at the start of each play session for DAR to cache all the folders and animations. Please note that this is an issue with DAR itself since it does not allow for pre-cacheing animations via Nemesis or during loading screens.
 
 ### Starting the game
 
@@ -357,8 +336,8 @@ Non-mages looking to access Saarthal and the Archmages quarters should make the 
 ##### SunHelm 
 Disable powers under *General>Enable/Disable powers*. Only Sunhelms Cold system is enabled as part of the ElmoRim Lite Survival setup. 
 
-##### Serio's Cycle Hotkeys
-Set up cycles for managing spells/shouts/weapons. See [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/27184) for details.
+##### Elden Equip
+Set up hotkeys to manage cycles for spells/shouts/weapons. See [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/74220) for details.
 
 ##### Incremental Gains
 Set *Soft Cap Base* to 125.
