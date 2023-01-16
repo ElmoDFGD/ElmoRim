@@ -56,7 +56,7 @@ ElmoRim consists of around 600 mods. This overview provides an idea of what to e
 | **Quests**    | Skyrim Unbound, JaySerpa's Quest Expansion-series, At Your Own Pace, College For Non-Mages|  
 | **Immersion** | Immersive interactions, EVG Animated Traversal, Animated Eating Redux                     |  
 | **Audio**     | AOS, ISC, Regional Sounds Expansion, Yet Another Music Merge                              |  
-|   **UI**      | Untarnished UI, BTPS                                                                      |  
+|   **UI**      | Untarnished UI, BTPS, Lamas Tiny HUD                                                      |  
 | **New lands** |                                       Nope                                                |  
 |**Followers**  |                                       Nope                                                |  
 | **NSFW**      |                                       Nope                                                |  
@@ -291,6 +291,12 @@ fMessageInfoPosX (right-aligned, increase).
 >* Player Loot Anchor X = 1.17"
 >
 
+
+From [Lamas Tiny HUD]
+>"Position of Image Width" and "Position of Image Height" moves the whole HUD
+2560x1440 should be around 2425 and 1250 (position I have in the Videos)
+Config default values are 140 and 140.
+1920x1080 the right Bottom should be something like at 1780-1.785 and 890-940
 </details>
 
 ## Playing the list
