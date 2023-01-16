@@ -37,7 +37,7 @@
   - [Removing the Modlist](#removing-the-modlist)
   - [Contact](#contact)
   - [Credits and Thanks](#credits-and-thanks)
- 
+
 ## What is ElmoRim?  
 
 ElmoRim is for players who want to **enhance their Skyrim experience** without adding massive amounts of content or complex mechanics. A **compact and performance-friendly** list that offers **improved visuals, modernized combat**, and **increased immersion**. NO CC-MODS REQUIRED.
@@ -454,3 +454,4 @@ Delete the ElmoRim folder.
 - Aljoxo, author of [Arisen](https://github.com/aljoxo/Arisen) for letting me use Arisens README as a template.
 - Phoenix, author of [The Phoenix Flavour](https://thephoenixflavour.com/) for letting me use the Appearance setup from [LotF](https://thephoenixflavour.com/skyrim-se/lotf/introduction/).
 - Maia, for teaching me Git and Markdown.
+1
