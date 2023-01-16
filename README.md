@@ -194,7 +194,7 @@ It is possible to encounter errors when installing with Wabbajack.
 - Antivirus reports a virus:
 	- Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
-  </details>
+  </details> 
 
 ## Post-installation
 
