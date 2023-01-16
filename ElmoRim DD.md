@@ -10,7 +10,7 @@
 1. Re-compile w/ new version number
 2. Upload new file to CDN
 3. Update modlists.json w/ jsonlint + new link
-4. pray
+4. pray  
  
 ## Changelog
 
