@@ -3,6 +3,7 @@
  
 * update control instructions
 * darified xpmsse
+* update mco
 ## Version update checklist
 
 00. Copy test profile, delete saves.
