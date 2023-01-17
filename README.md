@@ -298,7 +298,7 @@ fMessageInfoPosX (right-aligned, increase).
 >
 
 
-From [Lamas Tiny HUD]  
+From [Lamas Tiny HUD](https://www.nexusmods.com/skyrimspecialedition/mods/82545)  
 >"Position of Image Width" and "Position of Image Height" moves the whole HUD
 2560x1440 should be around 2425 and 1250 (position I have in the Videos)
 Config default values are 140 and 140.
