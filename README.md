@@ -297,7 +297,6 @@ fMessageInfoPosX (right-aligned, increase).
 >* Player Loot Anchor X = 1.17"
 >
 
-
 From [Lamas Tiny HUD](https://www.nexusmods.com/skyrimspecialedition/mods/82545) modpage:  
 >"Position of Image Width" and "Position of Image Height" moves the whole HUD
 2560x1440 should be around 2425 and 1250 (position I have in the Videos)
@@ -332,6 +331,11 @@ ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mod
 #### Valravn
 Disable (or set to 0) everything except *Attacks of Opportunity* and *Bow Stamina Cost*.
 
+#### Lamas Tiny HUD
+Adjust the height of the widget to fit screen resolution. Go to *LamasTinyHUD>Hud Setting>Position of Image Height*
+
+* For 1080p: Set to 780
+* For 1440p: Set to 1200 (should be default)
 
 #### Optional MCM Settings
 In addition to the mandatory settings, several optional tweaks are available:
