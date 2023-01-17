@@ -426,6 +426,11 @@ A: You have a [potato](#users-with-a-10-series-nvidia-card-or-lower-disable-dlaa
 
 A: Indeed not. It is about experiencing vanilla content in 2023.
 
+
+#### Q: The equipment widget is poorly positioned
+
+A: [Read](#lamas-tiny-hud) the MCM-instructions again. Configure LamasTinyHud.
+
 #### Q: BUG!
 
 A: If a suspected bug or weird behavior is encountered, check the [issue tracker](https://github.com/ElmoDFGD/ElmoRim/issues). If the issue isn't listed there, please register a new one.
