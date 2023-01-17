@@ -272,6 +272,7 @@ Users with **non-Nvidia** cards need to use the XeSS or FSR2 upscaling types ins
 * Press `End` to open up the upscaler GUI.
 * Use the *Upscale Type* dropdown menu to select XeSS or FSR2.
 </details>  
+
 ### Optional: Widescreen & gamepad support
 
 ElmoRim features mods that provide widescreen & gamepad support. Activate the mods under the **Ultrawide & Gamepad Support** separator and complete the following steps:
