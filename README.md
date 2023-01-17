@@ -18,7 +18,7 @@
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
     - [Antivirus Exceptions](#antivirus-exceptions)
-    - [Users with a 10-series Nvidia card or lower: Disable DLAA](#users-with-a-10-series-nvidia-card-or-lower-disable-dlaa)
+    - [Configure Upscaling](#configure-upscaling)
     - [Compatibility Settings](#compatibility-settings)
     - [Optional: Resolution settings](#optional-resolution-settings)
     - [Optional Widescreen & gamepad support](#optional-widescreen--gamepad-support)
@@ -252,9 +252,9 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
  </details>
 
 
- ### Users with a 10-series Nvidia card or lower: Disable DLSS
+ ### Configure upscaling
 
- Users who do **not** have a RTX 20-series or higher card need to rely on Skyrims native antialiasing. Perform the following steps:
+ Users with Nvidia cards that are **not** RTX 20-series or higher card need to rely on Skyrims native antialiasing. Perform the following steps:
 
 <details>
   <summary><strong>Click here to see required steps</strong></summary> 
@@ -263,10 +263,15 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
 - Open BethINI.
 - Under *Basic>Antialiasing*: Choose *TAA*.
 - Press `Save and Exit`.
-</details>
-
->Users with non-Nvidia cards need to use the XeSS or FSR2 upscaling method instead. Press `End` to open up the upscaler GUI and use the *Upscale Type* dropdown.
-
+</details>  
+  
+  
+Users with non-Nvidia cards need to use the XeSS or FSR2 upscaling types instead. Perform the following steps:
+<details>
+  <summary><strong>Click here to see required steps</strong></summary> 
+* Press `End` to open up the upscaler GUI.
+* Use the *Upscale Type* dropdown menu to select XeSS or FSR2.
+</details>  
 ### Optional: Widescreen & gamepad support
 
 ElmoRim features mods that provide widescreen & gamepad support. Activate the mods under the **Ultrawide & Gamepad Support** separator and complete the following steps:
