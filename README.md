@@ -254,7 +254,7 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
 
  ### Configure upscaling
 
- Users with Nvidia cards that are **not** RTX 20-series or higher card need to rely on Skyrims native antialiasing. Perform the following steps:
+ Users with Nvidia cards that are **not RTX 20-series or higher** need to rely on Skyrims native antialiasing. Perform the following steps:
 
 <details>
   <summary><strong>Click here to see required steps</strong></summary> 
@@ -266,7 +266,7 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
 </details>  
   
   
-Users with non-Nvidia cards need to use the XeSS or FSR2 upscaling types instead. Perform the following steps:
+Users with **non-Nvidia** cards need to use the XeSS or FSR2 upscaling types instead. Perform the following steps:
 <details>
   <summary><strong>Click here to see required steps</strong></summary> 
 * Press `End` to open up the upscaler GUI.
@@ -297,7 +297,7 @@ fMessageInfoPosX (right-aligned, increase).
 >
 
 
-From [Lamas Tiny HUD]
+From [Lamas Tiny HUD]  
 >"Position of Image Width" and "Position of Image Height" moves the whole HUD
 2560x1440 should be around 2425 and 1250 (position I have in the Videos)
 Config default values are 140 and 140.
