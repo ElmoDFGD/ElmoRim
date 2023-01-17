@@ -61,6 +61,8 @@ Added Airgetlam RE4.1 -ISC Compatibility Patch -
 Added Leviathan Animations II - Female Idle Walk And Run  
 Added Leviathan Animations II - Male Idle Walk And Run  
 Added Leviathan Animations II - Sprint  
+Added LamasTinyHUD
+Added [E] LamasTinyHUD - ElmoRim Preset
 
 
 Removed Rudy HQ - More Lights for ENB SE - Glowing Mushrooms  
