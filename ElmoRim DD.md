@@ -4,6 +4,7 @@
 * update control instructions
 * darified xpmsse
 * update mco
+* consistent letter capitalization readme
 ## Version update checklist
 
 00. Copy test profile, delete saves.
@@ -30,7 +31,7 @@ Added Cathedral Weathers MCM
 Added Cathedral Weathers MCM - Settings Loader   
 Added ESO Armor Collection - The Legends Breton Knight  
 Added ESO The Breton Knight HDT-SMP  
-Added Elden Equip   
+Added LamasTinyHUD  
 Added Reverie Skin  
 Added SkySight Skins - Ultra HD Male Textures and Real Feet Meshes (4K2K HIGH)  
 Added Feminine Khajiit Textures (Grey Cat and Leopard) [Vanilla]  
@@ -212,6 +213,7 @@ Updated Adamant - A Perk Overhaul to 5.7.1
 Updated Mysticism - A Magic Overhaul to 2.2.1  
 Updated Scion - A Vampire Overhaul to 2.1.2  
 Updated Manbeast - A Werewolf Overhaul to 2.0  
+Updated Attack MCO-DXP to 1.6.0.5  
 
 Compacted form-ids and converted [E]*-plugins to ESP-FE
 Configured SSE SSE Display Tweaks - High performance configuration - Borderless Fullscreen, no upscale  
