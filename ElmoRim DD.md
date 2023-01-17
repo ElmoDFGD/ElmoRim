@@ -1,9 +1,7 @@
 # ElmoRim Wabbajack Dev-Diary
 ## 2d0
  
-* update control instructions
 * darified xpmsse
-* update mco
 * consistent letter capitalization readme
 ## Version update checklist
 
