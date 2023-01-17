@@ -20,7 +20,7 @@
     - [Antivirus Exceptions](#antivirus-exceptions)
     - [Configure Upscaling](#configure-upscaling)
     - [Compatibility Settings](#compatibility-settings)
-    - [Optional: Resolution settings](#optional-resolution-settings)
+    - [Resolution settings](#resolution-settings)
     - [Optional Widescreen & gamepad support](#optional-widescreen--gamepad-support)
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
