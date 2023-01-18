@@ -3,6 +3,7 @@
  
 * darified xpmsse
 * consistent letter capitalization readme
+* switch water for enb to skyland water + lod
 ## Version update checklist
 
 00. Copy test profile, delete saves.
