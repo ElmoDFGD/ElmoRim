@@ -14,6 +14,12 @@
 4. pray  
  
 ## Changelog
+----0.2.1----
+
+Updated Untarnished UI to 1.1.1.  
+
+Hid files conflicting w/ Untarnished UI  
+Moved Ultrawide & Gamepad Support-separator above Interface-separator  
 
 ----0.2.0----  
 Added [R] SSE Parallax Shader Fix + d3dcompiler_47.dll  
