@@ -3,7 +3,7 @@
  
 * darified xpmsse
 * consistent letter capitalization readme
-* switch water for enb to skyland water + lod
+
 ## Version update checklist
 
 00. Copy test profile, delete saves.
@@ -13,13 +13,30 @@
 3. Update modlists.json w/ jsonlint + new link
 4. pray  
  
+## Update message
+ElmoRim has been updated to 0.2.1.
+* Swapped water mod to Skyland Watercolor. Super lightweight and suits the theme of the list.
+* Regenerated LOD - No more waterseams!
+* UI fixes
+* Save-safe
+
+
 ## Changelog
 ----0.2.1----
+Added Skyland Watercolor  
 
-Updated Untarnished UI to 1.1.1.  
+Removed Water for ENB 
+Removed Water for ENB Patches   
+
+Updated Untarnished UI to 1.1.1  
+Updated [O] ElmoRim - TexGen Output to 2.1  
+Updated [O] ElmoRim - DynDOLOD Output to 2.1  
 
 Hid files conflicting w/ Untarnished UI  
 Moved Ultrawide & Gamepad Support-separator above Interface-separator  
+Removed patches for Water for ENB from Lux and FWMF  
+Removed version number from profile name - it was a stupid idea  
+
 
 ----0.2.0----  
 Added [R] SSE Parallax Shader Fix + d3dcompiler_47.dll  

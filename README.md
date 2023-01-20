@@ -26,7 +26,8 @@
     - [Starting the Game](#starting-the-game)
     - [MCM Configuration](#mcm-configuration)
   - [FAQ](#faq)
-    - [Q: This isn't vanilla!?](#q-why-does-the-list-claim-to-be-vanilla-when-it-clearly-isnt)
+      [Q: I get CTD when starting the game](#q-i-get-ctd-when-starting-the-game)
+    - [Q: This isn't vanilla!?](#q-this-isnt-vanilla)
     - [Q: BUG!](#q-bug)
     - [Q: Why do all daedra sound like they're on *Insert Illicit Substance*?](#q-why-do-all-daedra-sound-like-theyre-on-insert-illicit-substance)
     - [Q: I can't level up, what do I do?](#q-i-cant-level-up-what-do-i-do)
@@ -87,7 +88,7 @@ The list was developed on an upper-mid tier laptop with the following specs:
 | **Storage**     |        SSD          |  
 
 With these specs the game runs at 60fps@1440p.
-> ElmoRim uses the [Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343). This feature requires an RTX 20-series card or higher. Users with [potato](#users-with-a-10-series-nvidia-card-or-lower-disable-dlaa) cards need to use TAA instead. 
+> ElmoRim uses the [Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343). This feature requires an RTX 20-series card or higher. Users with [potato](#configure-upscaling) cards need to use TAA instead. 
 
 Recommendations on how to tweak the balance between visual quality and performance are provided [in the wiki](https://github.com/ElmoDFGD/ElmoRim/wiki/Welcome-to-the-ElmoRim-wiki#tweaking-the-game-settings).
 
@@ -334,8 +335,8 @@ Disable (or set to 0) everything except *Attacks of Opportunity* and *Bow Stamin
 #### Lamas Tiny HUD
 Adjust the height of the widget to fit screen resolution. Go to *LamasTinyHUD>Hud Setting>Position of Image Height*
 
-* For 1080p: Set to 780
-* For 1440p: Set to 1200 (should be default)
+* For 1080p: Set to 850
+* For 1440p: Set to 1250 (should be default)
 
 #### Optional MCM Settings
 In addition to the mandatory settings, several optional tweaks are available:
@@ -351,9 +352,6 @@ Non-mages looking to access Saarthal and the Archmages quarters should make the 
 
 ##### SunHelm 
 Disable powers under *General>Enable/Disable powers*. Only Sunhelms Cold system is enabled as part of the ElmoRim Lite Survival setup. 
-
-##### Elden Equip
-Set up hotkeys to manage cycles for spells/shouts/weapons. See [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/74220) for details.
 
 ##### Incremental Gains
 Set *Soft Cap Base* to 125.
@@ -430,6 +428,10 @@ A: Indeed not. It is about experiencing vanilla content in 2023.
 #### Q: The equipment widget is poorly positioned
 
 A: [Read](#lamas-tiny-hud) the MCM-instructions again. Configure LamasTinyHud.
+
+#### Q: What madman uses this control scheme?
+
+A: The controls can be reverted to vanilla by disabling [E] Controlmap. To disable the equipment manager, disable LamasTinyHUD and [E] LamasTinyHUD - ElmoRim Preset. All these mods can be found under the Controls-separator.
 
 #### Q: BUG!
 
