@@ -14,12 +14,6 @@
 4. pray  
  
 ## Update message
-ElmoRim has been updated to 0.2.1.
-* Swapped water mod to Skyland Watercolor. Super lightweight and suits the theme of the list.
-* Regenerated LOD - No more waterseams!
-* UI fixes
-* Save-safe
-
 
 ## Changelog
 ----0.2.1----
