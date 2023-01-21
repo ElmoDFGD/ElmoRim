@@ -28,6 +28,7 @@
   - [FAQ](#faq)
       [Q: I get CTD when starting the game](#q-i-get-ctd-when-starting-the-game)
     - [Q: This isn't vanilla!?](#q-this-isnt-vanilla)
+    - [Q: What madman uses this control scheme?](#q-what-madman-uses-this-control-scheme)
     - [Q: BUG!](#q-bug)
     - [Q: Why do all daedra sound like they're on *Insert Illicit Substance*?](#q-why-do-all-daedra-sound-like-theyre-on-insert-illicit-substance)
     - [Q: I can't level up, what do I do?](#q-i-cant-level-up-what-do-i-do)
