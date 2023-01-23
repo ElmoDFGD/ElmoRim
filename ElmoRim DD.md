@@ -22,7 +22,7 @@ ElmoRim has been updated to 0.2.2.
 * Save-safe w/ special instructions. See changelog.
 * Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
 
-ElmoRim is close to what I want it to be. Barring any game-breaking bugs being reported, 1.0 will be released 1/2. Thank you for playing and providing input!   
+ElmoRim is close to what I want it to be. Barring any game-breaking bugs being reported, 1.0 will be released mid february. Thank you for playing and providing input!   
 
 ## Changelog
 ----0.2.2----  
