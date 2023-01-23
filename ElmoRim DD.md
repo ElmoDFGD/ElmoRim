@@ -15,17 +15,51 @@
 4. pray  
  
 ## Update message
+ElmoRim has been updated to 0.2.2.  
+
+* Bigger bears and trolls.  
+* Switched to SimonRim attack Speed fix
+* Save-safe w/ special instructions. See changelog.
+* Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
+
+ElmoRim is close to what I want it to be. Barring any game-breaking bugs being reported, 1.0 will be released 1/2. Thank you for playing and providing input!   
 
 ## Changelog
+----0.2.2----  
+> Special update instruction:  
+> Remove and add perks affected by speedmult via console to apply new setup.
+> The following perks are affected
+> * Flourish  
+> * Quick Draw  
+> * Bloodlust  
+
+Added SimonRim Attack Speed Fix  
+Added Bears of the North  
+Added Tyrannical Trolls  
+
+Updated Adamant - A Perk Overhaul to 5.7.4  
+Updated Pilgrim - A Religion Overhaul to 1.1.1  
+Updated Hand to Hand - An Adamant Addon to 1.3.6  
+Updated Aetherius - A Race Overhaul to 2.9.1  
+
+Removed Weapon Speed Mult Fix  
+Removed Weapon SPID Mult Fix  
+
+Corrected name of Bloodlust perk in [E] Adamant - Precision Consistency Patch    
+Disable Bear gore in Maximum Carnage - conflict with Bears of the North  
+Implemented SimonRim Attack Speed Fix in [E] Adamant - Precision Consistency Patch    
+Removed records from ElmoRim CRP related to attack speed  
+
 ----0.2.1----
 Added Skyland Watercolor  
 
-Removed Water for ENB 
+Removed Water for ENB  
 Removed Water for ENB Patches   
 
 Updated Untarnished UI to 1.1.1  
 Updated [O] ElmoRim - TexGen Output to 2.1  
 Updated [O] ElmoRim - DynDOLOD Output to 2.1  
+
 
 Hid files conflicting w/ Untarnished UI  
 Moved Ultrawide & Gamepad Support-separator above Interface-separator  
