@@ -20,22 +20,22 @@
 	],
 	"nsfw": false,
 	"image_contains_title": false,
-	"force_down": true,
+	"force_down": false,
 	"links": {
 		"$type": "Links, Wabbajack.Lib",
 		"image": "https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/media/ElmoRimCover.webp",
 		"readme": "https://github.com/ElmoDFGD/ElmoRim",
-		"download": "https://authored-files.wabbajack.org/ElmoRim0_2_1.wabbajack_b58a5e04-ec56-4f85-b0c2-10a2ddcb4159",
+		"download": "https://authored-files.wabbajack.org/https://authored-files.wabbajack.org/ElmoRim0_2_2.wabbajack_feba35c7-4465-42a1-8b24-912f46d11396",
 		"machineURL": "ElmoRim",
 		"discordURL": "https://discord.gg/6gGVgDYnBW"
 	},
 	"download_metadata": {
-		"Hash": "eFrSfQiW8tM=",
-		"Size": 167318438,
-		"NumberOfArchives": 679,
-		"SizeOfArchives": 55235692107,
-		"NumberOfInstalledFiles": 111723,
-		"SizeOfInstalledFiles": 80110649872
+		"Hash": "/1hVgsk3qLs=",
+		"Size": 167223958,
+		"NumberOfArchives": 680,
+		"SizeOfArchives": 55235891647,
+		"NumberOfInstalledFiles": 111732,
+		"SizeOfInstalledFiles": 80156242738
 	},
-	"version": "0.2.1"  
+	"version": "0.2.2"  
 }] 

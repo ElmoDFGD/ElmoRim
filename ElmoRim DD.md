@@ -41,6 +41,7 @@ Updated Adamant - A Perk Overhaul to 5.7.4
 Updated Pilgrim - A Religion Overhaul to 1.1.1  
 Updated Hand to Hand - An Adamant Addon to 1.3.6  
 Updated Aetherius - A Race Overhaul to 2.9.1  
+Updated LamasTinyHUD to 1.0.8  
 
 Removed Weapon Speed Mult Fix  
 Removed Weapon SPID Mult Fix  
