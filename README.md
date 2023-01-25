@@ -5,40 +5,40 @@
 
 ## Contents
   - [What is ElmoRim?](#What-is-ElmoRim)
-  - [Feature Overview](#feature-overview)
-  - [Pre-Installation](#pre-installation)
-    - [System Requirements](#system-requirements)
-    - [Software Setup](#software-setup)
-    - [Setting Up Pagefile](#setting-up-pagefile)
-    - [Setting Shader Cache Size](#setting-shader-cache-size)
+  - [Feature overview](#feature-overview)
+  - [Pre-installation](#pre-installation)
+    - [System requirements](#system-requirements)
+    - [Software setup](#software-setup)
+    - [Setting Up pagefile](#setting-up-pagefile)
+    - [Setting shader cache size](#setting-shader-cache-size)
   - [Installation](#installation)
-    - [Wabbajack Installation](#wabbajack-installation)
-    - [Downloading and Installing ElmoRim](#downloading-and-installing-ElmoRim)
+    - [Wabbajack installation](#wabbajack-installation)
+    - [Downloading and installing ElmoRim](#downloading-and-installing-ElmoRim)
     - [Problems with installation](#problems-with-installation)
-  - [Post-Installation](#post-installation)
-    - [Game Folder](#game-folder)
-    - [Antivirus Exceptions](#antivirus-exceptions)
-    - [Configure Upscaling](#configure-upscaling)
-    - [Compatibility Settings](#compatibility-settings)
+  - [Post-installation](#post-installation)
+    - [Game folder](#game-folder)
+    - [Antivirus exceptions](#antivirus-exceptions)
+    - [Compatibility settings](#compatibility-settings)
     - [Configure upscaling](#configure-upscaling)
     - [Optional Widescreen & gamepad support](#optional-widescreen--gamepad-support)
-  - [Playing the List](#playing-the-list)
-    - [Starting the Game](#starting-the-game)
-    - [MCM Configuration](#mcm-configuration)
-  - [FAQ](#faq)
+  - [Playing the list](#playing-the-list)
+    - [Starting the game](#starting-the-game)
+    - [MCM configuration](#mcm-configuration)
+  - [FAQ](#faq)  
       [Q: I get CTD when starting the game](#q-i-get-ctd-when-starting-the-game)
     - [Q: This isn't vanilla!?](#q-this-isnt-vanilla)
+    - [Q: The equipment widget is poorly positioned](#q-the-equipment-widget-is-poorly-positioned)
     - [Q: What madman uses this control scheme?](#q-what-madman-uses-this-control-scheme)
     - [Q: BUG!](#q-bug)
     - [Q: Why do all daedra sound like they're on *Insert Illicit Substance*?](#q-why-do-all-daedra-sound-like-theyre-on-insert-illicit-substance)
     - [Q: I can't level up, what do I do?](#q-i-cant-level-up-what-do-i-do)
     - [Q: How do I start the main questline?](#q-how-do-i-start-the-main-questline)
     - [Q: When do dragons start spawning?](#q-when-do-dragons-start-spawning)
-    - [Q: How do I become the Thane of Whiterun? How do I get Lydia?](#q-how-do-i-become-the-thane-of-whiterun-how-do-i-get-lydia)
+    - [Q: How do I become the thane of Whiterun? How do I get Lydia?](#q-how-do-i-become-the-thane-of-whiterun-how-do-i-get-lydia)
     - [Q: How do I enable my crosshair?](#q-how-do-i-enable-my-crosshair)
-  - [Removing the Modlist](#removing-the-modlist)
+  - [Removing the modlist](#removing-the-modlist)
   - [Contact](#contact)
-  - [Credits and Thanks](#credits-and-thanks)
+  - [Credits and thanks](#credits-and-thanks)
 
 ## What is ElmoRim?  
 
@@ -339,7 +339,7 @@ Adjust the height of the widget to fit screen resolution. Go to *LamasTinyHUD>Hu
 * For 1080p: Set to 850
 * For 1440p: Set to 1250 (should be default)
 
-#### Optional MCM Settings
+#### Optional MCM settings
 In addition to the mandatory settings, several optional tweaks are available:
 
 <details>
