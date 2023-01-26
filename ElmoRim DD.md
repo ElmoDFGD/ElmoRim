@@ -15,16 +15,14 @@
 4. pray  
  
 ## Update message
-ElmoRim has been updated to 0.2.2.  
 
-* Bigger bears and trolls.  
-* Switched to SimonRim attack Speed fix
-* Save-safe w/ special instructions. See changelog.
-* Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
-
-ElmoRim is close to what I want it to be. Barring any game-breaking bugs being reported, 1.0 will be released mid february. Thank you for playing and providing input!   
 
 ## Changelog
+
+----0.2.3----
+Removed xLODGen97 due to refusing to be compiled   
+Downloaded [O] ElmoRim - SSELODGen Output from nexus to ensure version sync  
+
 ----0.2.2----  
 > Special update instruction:  
 > Remove and add perks affected by speedmult via console to apply new setup.
