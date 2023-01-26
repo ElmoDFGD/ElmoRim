@@ -19,7 +19,7 @@
 
 ## Changelog
 
-----0.2.3----
+----0.2.3----  
 Removed xLODGen97 due to refusing to be compiled   
 Downloaded [O] ElmoRim - SSELODGen Output from nexus to ensure version sync  
 
