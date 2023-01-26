@@ -271,8 +271,8 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
 Users with **non-Nvidia** cards need to use the XeSS or FSR2 upscaling types instead. Perform the following steps:
 <details>
   <summary><strong>Click here to see required steps</strong></summary> 
-* Open up *SkyrimUpscaler.ini* in the mod *Skyrim Upscaler*.
-* Set mUpscaleType to 1 for FSR2 or 2 for XeSS.
+- Open up *SkyrimUpscaler.ini* in the mod *Skyrim Upscaler*.
+- Set mUpscaleType to 1 for FSR2 or 2 for XeSS.
 </details>  
 
 ### Optional: Widescreen & gamepad support
