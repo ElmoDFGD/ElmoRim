@@ -9,7 +9,8 @@
   - [Pre-installation](#pre-installation)
     - [System requirements](#system-requirements)
     - [Software setup](#software-setup)
-    - [Setting Up pagefile](#setting-up-pagefile)
+    - [Install Creation Kit:Special Edition](#install-creation-kit-special-edition)
+    - [Setting up pagefile](#setting-up-pagefile)
     - [Setting shader cache size](#setting-shader-cache-size)
   - [Installation](#installation)
     - [Wabbajack installation](#wabbajack-installation)
@@ -20,12 +21,13 @@
     - [Antivirus exceptions](#antivirus-exceptions)
     - [Compatibility settings](#compatibility-settings)
     - [Configure upscaling](#configure-upscaling)
-    - [Optional Widescreen & gamepad support](#optional-widescreen--gamepad-support)
+    - [Optional: Gamepad support](#optional-gamepad-support)
+    - [Optional: Widescreen support](#optional-widescreen-support)
   - [Playing the list](#playing-the-list)
     - [Starting the game](#starting-the-game)
     - [MCM configuration](#mcm-configuration)
   - [FAQ](#faq)  
-      [Q: I get CTD when starting the game](#q-i-get-ctd-when-starting-the-game)
+    - [Q: I get CTD when starting the game](#q-i-get-ctd-when-starting-the-game)
     - [Q: This isn't vanilla!?](#q-this-isnt-vanilla)
     - [Q: The equipment widget is poorly positioned](#q-the-equipment-widget-is-poorly-positioned)
     - [Q: What madman uses this control scheme?](#q-what-madman-uses-this-control-scheme)
@@ -67,6 +69,8 @@ ElmoRim consists of around 600 mods. This overview provides an idea of what to e
 
 ## Pre-installation
 
+
+
 ### System requirements
 
 First a word about performance. [QuagaarWarrior](https://www.nexusmods.com/skyrimspecialedition/users/6411808), author of [QW's Grass Patch 2](https://www.nexusmods.com/skyrimspecialedition/mods/67785) and more, sums it up perfectly:
@@ -89,7 +93,7 @@ The list was developed on an upper-mid tier laptop with the following specs:
 | **Storage**     |        SSD          |  
 
 With these specs the game runs at 60fps@1440p.
-> ElmoRim uses the [Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343). This feature requires an RTX 20-series card or higher. Users with [potato](#configure-upscaling) cards need to use TAA instead. 
+> ElmoRim uses the [Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343). This feature requires a DX12-compatible card. Users with [potato](#configure-upscaling) cards need to use TAA instead. 
 
 Recommendations on how to tweak the balance between visual quality and performance are provided [in the wiki](https://github.com/ElmoDFGD/ElmoRim/wiki/Welcome-to-the-ElmoRim-wiki#tweaking-the-game-settings).
 
@@ -100,11 +104,15 @@ The first step of installing ElmoRim is making sure all required software is ins
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v6 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
 2. Install Skyrim Special Edition through Steam.
-3. Install [Skyrim Special Edition: Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) through Steam. 
-4. Disable Steam [auto-updates](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-5. In Steam, right click on Skyrim SE and click on *Properties*, untick `Enable Steam Overlay while in-game`.
-6. Start Skyrim through Steam. Exit after loading into the main menu.
-> Make sure to install the correct version of the Creation Kit. It should be named exactly as the link in step 2!
+3. Disable Steam [auto-updates](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+4. In Steam, right click on Skyrim SE and click on *Properties*, untick `Enable Steam Overlay while in-game`.
+5. Start Skyrim through Steam. Exit after loading into the main menu.
+
+
+### Install Creation Kit: Special Edition
+Install [Skyrim Special Edition: Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) through Steam. 
+> Make sure to install the correct version of the Creation Kit. It should be named exactly as the link!
+> 99% of installation errors are due to not performing this step correctly.
   
 ### Setting up pagefile
 
@@ -154,7 +162,6 @@ To set up the pagefile, complete the following steps:
 </details>
 
 ## Installation
-
 
 ### Wabbajack installation
 
@@ -255,8 +262,23 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
 
 
  ### Configure upscaling
+Upscaling needs to be configured to match the upscaling method used by different GPUs.
 
- Users with Nvidia cards that are **not RTX 20-series or higher** need to rely on Skyrims native antialiasing. Perform the following steps:
+#### Nvidia RTX cards
+ Users with Nvidia RTX 20-series or higher can use the default DLSS upscaling method of ElmoRim.  
+
+#### AMD, Intel and Nvidia GTX cards
+Users with non RTX-cards that support DX12 can use optional upscaling methods. Perform the following steps:
+
+<details>
+  <summary><strong>Click here to see required steps</strong></summary> 
+  
+- Open up *SkyrimUpscaler.ini* in the mod *Skyrim Upscaler*.
+- Set mUpscaleType to 1 for FSR2 or 2 for XeSS.
+</details>  
+
+#### Potato cards
+Users with cards that don't support DX12 need to rely on Skyrims native anti-aliasing. Perform the following steps:
 
 <details>
   <summary><strong>Click here to see required steps</strong></summary> 
@@ -267,18 +289,27 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
 - Press `Save and Exit`.
 </details>  
   
-  
-Users with **non-Nvidia** cards need to use the XeSS or FSR2 upscaling types instead. Perform the following steps:
+
+### Optional: Gamepad support
+ElmoRim features mods that provide gamepad support. Activate the corresponding mods under the **Ultrawide & Gamepad Support** separator and complete the following steps:
+
 <details>
-  <summary><strong>Click here to see required steps</strong></summary> 
-  
-- Open up *SkyrimUpscaler.ini* in the mod *Skyrim Upscaler*.
-- Set mUpscaleType to 1 for FSR2 or 2 for XeSS.
-</details>  
+<summary><strong>Click here to see required steps</strong></summary>
 
-### Optional: Widescreen & gamepad support
+* Disable the mod [E] Controlmap under the *Controls* separator.  
+* Configure hotkeys. Credits to user Ego the Negus on the ElmoRim discord for these settings :
 
-ElmoRim features mods that provide widescreen & gamepad support. Activate the mods under the **Ultrawide & Gamepad Support** separator and complete the following steps:
+>
+>"In the tk dodge re ini set the dodgekey to 277(The B button on the Xbox controller). You have to also reset the lock on button in the True Directional Movement MCM. After that everything should be working fine." 
+>
+</details>
+
+
+
+### Optional: Widescreen support
+
+ElmoRim features mods that provide widescreen support. Activate the corresponding mods under the **Ultrawide & Gamepad Support** separator and complete the following steps:
+
 <details>
 <summary><strong>Click here to see required steps</strong></summary>
 
@@ -369,9 +400,6 @@ Customize which powers will be in the favorites menu (for werewolves).
  
 ##### Improved Alternate Conversation Camera
 Tweak the dialogue camera. Notable settings include *Switch Target* (for Witcher-Style Dialogue Camera), *Force Third/First Person* and *Camera Offsets*.
- 
-##### Optimal Potion Hotkey
-Customize *Health potion hotkey* (Default: `H`). Add a hotkey for stamina/magicka potions.
 
 ##### Simplest Horses
 Customize *Horse Control hotkey*(Default: `V`).
@@ -382,7 +410,13 @@ Configure available quests. Set quest chance. Limit questgivers to unique NPC's.
 >The ingredient/shopping quests can be rather tedious and are disabled by default.
   
 ##### SmoothCam
-By default the list uses [Adventurer's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/59997). Feel free to download and install other presets.
+By default the list offers three presets:
+*  [Adventurer's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/59997) (Default setting)
+*  [Galuna´s Preset](https://www.nexusmods.com/skyrimspecialedition/mods/78397) 
+*  [Vanilla Enhanced 2](https://www.nexusmods.com/skyrimspecialedition/mods/82481)
+
+>Vanilla Enhanced 2 locks the FOV and instead offers the option of toggling between normal and close-up modes. Default: `CapsLock`. 
+>The FOV can be changed via console. Open up the console and type FOV *XX* where XX between 80-90 is a good range for most monitors.  
 
 ##### Survival Control Panel
 Enable/disable *Sleep to level up*.   
@@ -453,7 +487,7 @@ A: If you have chosen to be Dragonborn in the Skyrim Unbound MCM settings, then 
 A: By default, dragons are set to be delayed in their spawns from 7 to 21 days after you leave the starting room. By default, dragons will begin showing up at their Word Walls before you will encounter them in the wild.
 
 #### Q: How do I become the Thane of Whiterun? How do I get Lydia?  
-A: You must complete [The Blessings of Nature](https://en.uesp.net/wiki/Skyrim:The_Blessings_of_Nature) and talk to Jarl Balgruuf when the Gildergreen tree is repaired/the sappling blooms. He'll thank you and allow you to buy the Breezehome after which the standard thaneship quest (help people of the hold and buy a house to become a thane) will be available.
+A: Complete [The Blessings of Nature](https://en.uesp.net/wiki/Skyrim:The_Blessings_of_Nature). When some time has passed the Gildergreen tree will be repaired/the sappling bloomed. Now you can talk to Jarl Balgruuf, he'll thank you and allow you to buy the Breezehome. The standard thaneship quest (help people of the hold and buy a house to become a thane) will then become available.
 
 #### Q: How do I enable my crosshair?
 A: Disable the [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980) mod, under the *Interface* separator in MO2.

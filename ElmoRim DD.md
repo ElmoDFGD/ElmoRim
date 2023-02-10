@@ -2,7 +2,11 @@
 ## 2d0
  
 * darified xpmsse
-* consistent letter capitalization readme
+* Forgotten retex project loadscreenparticle.nif
+* test animated armory
+* test cotn + reinstall efps patch hub
+* Vibrant + improved weapon enchant FX
+* update reshade
 
 
 ## Version update checklist
@@ -18,6 +22,61 @@
 
 
 ## Changelog
+
+----1.0.0.----  
+Added Untarnished LamasTinyHUD Reskin  
+Added Unarmed Weapon Speed Scaling   
+Added SmoothCam Vanilla Enhanced 2  
+Added SmoothCam - Galuna's Preset  
+Added Dialogue Movement Enabler  
+Added Camera Noise  
+Added Cinematic Sprint  
+Added TK Dodge RE (Shorter Step Dodge)  
+Added QRVAE - Qwinn's Refined Visual Animated Enchants 
+Added [E] VAE - RoM Patch   
+Added Frozen Electrocuted Combustion  
+Added Improved Table Transition Animations  
+  
+Removed [E] LamasTinyHUD - ElmoRim Preset  
+Removed SPID for Footprints Fix  
+Removed Hand to Hand - Armor Addon  
+Removed Vampire Feeding Tweaks: Can bug out at times + new Scion update makes blood potions more common  
+Removed Vampire Feeding Tweaks - Show Feed Option Patch  
+Removed Improved Alternate Conversation Camera: Causes some issues with SmoothCam.
+Removed Maximum Destruction   
+Removed Smart Optimal Salves - Optimal Potion Hotkey MCM: Replaced by Lamas Tiny HUD
+Removed Smart Optimal Salves - A Patch for All Potions
+Removed Smart Optimal Salves - Optimal Potion Hotkey MCM - Settings Loader
+
+Updated LamasTinyHud to 1.1.12    
+Updated Papyrus Tweaks NG to 4.0  
+Updated CritterSpawn Congestion Fix to 1.3  
+Updated Reverb Interior Sounds Expansion to 1.5.0  
+Updated Flickering Meshes Fix to 2.1  
+Updated Assorted mesh fixes to 0.78  
+Updated Forgotten Retex Project to 8.2  
+Updated Cathedral Weathers Unofficial Update to 2.40  
+Updated Deathrattle - Maximum Carnage Audio Replacer to 1.1  
+Updated SPID for Footprints to 3.4  
+Updated Hand to Hand - An Adamant Addon to 1.4.0  
+Updated Aetherius - A Race Overhaul to 2.10.2  
+Updated Mundus - A Standing Stone Overhaul to 1.9.1  
+Updated Pilgrim - A Religion Overhaul to 1.1.2  
+Updated Faster HDT-SMP to 1.49.3  
+Updated The Choice is Yours to 2.7  
+Updated The Innocence Lost - Quest Expansion to 1.01  
+Updated SCAR - Skyrim Combos AI Revolution to 1.06b  
+Updated Precision to 2.0.4  
+Updated Mysticism spells for spellcasters to 1.9  
+Updated Leviathan Animations II - Female Idle Walk And Run to 2.3    
+Updated Leviathan Animations II - Male Idle Walk And Run to 2.3  
+Updated Leviathan Animations II - Sprint to 2.4  
+Updated Skyrim Unbound Reborn to 1.11.14  
+
+Regenerated Nemesis output  
+Regenerated Synthesis output  
+Renamed SKSE to ElmoRim + added icon  
+Rearranged Smoothcam presets
 
 ----0.2.4----
 Added xLODGen back in - Elmo needs to remember to check his meta files  
