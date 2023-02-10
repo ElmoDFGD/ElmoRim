@@ -23,7 +23,7 @@
 
 ## Changelog
 
-----1.0.0.----  
+----1.0.0 RC1----  
 Added Untarnished LamasTinyHUD Reskin  
 Added Unarmed Weapon Speed Scaling   
 Added SmoothCam Vanilla Enhanced 2  
