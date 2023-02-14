@@ -394,11 +394,11 @@ Configure equipping animations.
 <summary><strong>Click here to see detailed instructions</strong></summary>
 
 > ElmoRim comes with 2 [IED](https://www.nexusmods.com/skyrimspecialedition/mods/62001) profiles to match either standard or weapons-on-back setups. To configure weapons on back:
-> * Press `Backspace` to open the IED GUI. 
+> * Press `Backspace` to open the IED GUI
 > * Under *Gear positioning>Presets*, select *ElmoRim - Weapons on Back*
-> * Click `Apply` and confirm any prompts.
-> * Under *Display Manager - Equipment>Preset*, select *ElmoRim - Weapons on Back*.
-> * Click `Merge` and confirm any prompts.
+> * Click `Apply` and confirm any prompts
+> * Under *Display Manager - Equipment>Preset*, select *ElmoRim - Weapons on Back*
+> * Click `Merge` and confirm any prompts
 
 
 ![IED](https://github.com/ElmoDFGD/ElmoRim/blob/main/media/ElmoRimIEDConfig.png?raw=true)
