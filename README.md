@@ -383,6 +383,27 @@ Non-mages looking to access Saarthal and the Archmages quarters should make the 
 - Starting Requirements>First Lessons: Set to 0
 - Starting Requirements>Under Saarthal: Set to 0
 
+##### One Click Power Attack
+Set key for power attacks by configuring *ForceRightKey*. Default `MB4`.
+> If the settings don't take effect, trigger a loading screen by going through a door/fast traveling. 
+
+##### Draw 2
+Configure equipping animations. 
+
+<details>
+<summary><strong>Click here to see detailed instructions</strong></summary>
+
+> ElmoRim comes with 2 [IED](https://www.nexusmods.com/skyrimspecialedition/mods/62001) profiles to match either standard or weapons-on-back setups. To configure weapons on back:
+> * Press `Backspace` to open the IED GUI. 
+> * Under *Gear positioning>Presets*, select *ElmoRim - Weapons on Back*
+> * Click `Apply` and confirm any prompts.
+> * Under *Display Manager - Equipment>Preset*, select *ElmoRim - Weapons on Back*.
+> * Click `Merge` and confirm any prompts.
+
+
+![IED]https://github.com/ElmoDFGD/ElmoRim/blob/main/media/ElmoRimIEDConfig.png?raw=true
+
+<details>
 ##### SunHelm 
 Disable powers under *General>Enable/Disable powers*. Only Sunhelms Cold system is enabled as part of the ElmoRim Lite Survival setup. 
 

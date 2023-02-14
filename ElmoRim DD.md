@@ -1,27 +1,69 @@
 # ElmoRim Wabbajack Dev-Diary
 ## 2d0
  
-* darified xpmsse
-* Forgotten retex project loadscreenparticle.nif
 * test animated armory
 * test cotn + reinstall efps patch hub
+* Spaghettis AIO
 * Vibrant + improved weapon enchant FX
-* update reshade
 
 
 ## Version update checklist
-
 00. Copy test profile, delete saves.
-0. Run Clear/Build, clear overwrite.
+01. Run Clear/Build, clear overwrite.
+02. Reset Lamas Config, IED, Draw2 & Smoothcam presets 
 1. Re-compile w/ new version number
 2. Upload new file to CDN
 3. Update modlists.json w/ jsonlint + new link
 4. pray  
  
 ## Update message
+ElmoRim has been updated to 1.0.0 RC2  
 
+* Ripping off the bandaid before the release of 1.0.0. XPMSSE has been removed in it's entirety (the skeleton is provided by other mods).  
+* I don't like XPMSSE. For all the fixes out there, it still causes bloat, script lag and a lot of draw calls which hamper performance.  
+* It was mainly included because no other mods had proper Axe on Back equipping animations. This will now be handled by Draw 2 along with some ElmoRim tweaks.  
+* Updated combat animations.  
+* MCM for One Click Power Attack! - If the settings don't take effect, transition to a cell/fast travel so that a loadscreen is triggered.  
+* Rearranged some mods & separators.  
+* Save safe w/ special instructions. See full changelog.  
+* Full changelog: 
+* Download link: 
 
 ## Changelog
+
+----1.0.0 RC2----  
+Special update instructions:
+* Open RaceMenu. Set all XPMSSE related sliders in RaceMenu and XPMSSE styles to to default in MCM. 
+* Press uninstall in your mod manager for XPMSSE.
+
+Added DART - Dynamic Animation Replacer Tool (beta)  
+Added Reshade - DXGI.dll: Moved to separate mod for easier distribution   
+Added Animations - Movement separator  
+Added Animations - Idles & Interactions separator 
+Added [E] Attack MCO-DXP Sprint attack fix: Sprintpowerattack = sprintattack for maces/axes. Sprintattack from greatsword for warhammers/battleaxes. Fix for GitHub issue #13  
+Added One Click Power Attack MCM  
+Added Papyrus Ini Manipulator  
+Added Elder Creed - Valhalla Axe Moveset AIO  
+Added MCO - ADXP - Elder Creed - Blade 
+Added Champollion  
+Added Champollion - Graphical User Interface   
+Added [E] Draw 2 Addon - Axes on Back  
+
+Updated NPC Animation Remix (DAR) to 1.2.1  
+Updated EVG Animated Traversal Skyrim Integration Patch to 1.2.3: Switched to non-mcm version  
+Updated Reshade to 5.6.0  
+
+Removed Animations separator  
+Removed SSE Parallax Shader Fix v1.0 (BETA): Not needed ATM  
+Removed [R] SSE Parallax Shader Fix - d3dcompiler_47: Not needed ATM    
+Removed XP32 Maximum Skeleton Special Extended  
+Removed XP32 Maximum Skeleton Special Extended - Fixed Scripts  
+Removed XPMSSE - Nemesis - Papyrus Stack Fix  
+Removed XPMSSE Weapon Styles Uncloaked  
+
+Moved Cumulative fix for Eye Meshes - Alternate - Only black eye fix to Appearance-separator  
+Now distributing dxgi.dll directly since licence allows it  
+Regenerated Nemesis output  
 
 ----1.0.0 RC1----  
 Added Untarnished LamasTinyHUD Reskin  
