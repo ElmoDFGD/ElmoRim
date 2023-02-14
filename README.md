@@ -401,7 +401,7 @@ Configure equipping animations.
 > * Click `Merge` and confirm any prompts.
 
 
-![IED]https://github.com/ElmoDFGD/ElmoRim/blob/main/media/ElmoRimIEDConfig.png?raw=true
+![IED](https://github.com/ElmoDFGD/ElmoRim/blob/main/media/ElmoRimIEDConfig.png?raw=true)
 
 </details>
 
