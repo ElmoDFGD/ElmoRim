@@ -10,26 +10,43 @@
 ## Version update checklist
 00. Copy test profile, delete saves.
 01. Run Clear/Build, clear overwrite.
-02. Reset Lamas Config, IED, Draw2 & Smoothcam presets 
+02. Reset Lamas Config, IED, Smoothcam presets 
 1. Re-compile w/ new version number
 2. Upload new file to CDN
 3. Update modlists.json w/ jsonlint + new link
 4. pray  
  
 ## Update message
-ElmoRim has been updated to 1.0.0 RC2  
+ElmoRim has been updated to 1.0.0 RC3.
 
-* Ripping off the bandaid before the release of 1.0.0. XPMSSE has been removed in it's entirety (the skeleton is provided by other mods).  
-* I don't like XPMSSE. For all the fixes out there, it still causes bloat, script lag and a lot of draw calls which hamper performance.  
-* It was mainly included because no other mods had proper Axe on Back equipping animations. This will now be handled by Draw 2 along with some ElmoRim tweaks.  
-* Updated combat animations.  
-* MCM for One Click Power Attack! - If the settings don't take effect, transition to a cell/fast travel so that a loadscreen is triggered.  
-* Rearranged some mods & separators.  
-* Save safe w/ special instructions. See full changelog.  
-* Full changelog: 
-* Download link: 
+* Fixed some weapon positions/rotations in IED since this will be replacing XPMSSE
+* UI fixes
+* Readded Parallax Shader Fix - Woops
+* NPCs now use ammo to offset the added archer spawns from Hand Placed Enemies  
+* Regenerated all LODs for good measure  
+* Save-safe
+* Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
+* Download link: https://drive.google.com/file/d/1ZllYL9nBxaOI9NgYT0skWkHX9TOOvRxe/view?usp=share_link
 
 ## Changelog
+
+----1.0.0 RC3----    
+Added [E] IED Left hand meshes  
+Added Missile's Immersive Equipment Display Presets  
+Added [R] SSE Parallax Shader Fix - d3dcompiler_47: Turns out it is needed ATM   
+  
+Updated Infinity UI to 2.0.1  
+Updated Untarnished UI to 1.1.4  
+Updated Compass Navigation Overhaul to 2.1  
+
+Removed QuickLoot EE - Dynamic Resize and Value-Weight Patch: Now included in Untarnished UI  
+Removed Whiterun Market - A Map Marker: Redundant with CoMAP Jorrvaskr marker   
+  
+Added ImmersiveEquipmentMeshGen Synthesis patcher  
+Fixed some IED weapon rotations  
+Regenerated Synthesis output   
+Regenerated LOD
+set bForceNPCSsUseAmmo to 1 via BethINI  
 
 ----1.0.0 RC2----  
 Special update instructions:
@@ -61,9 +78,11 @@ Removed XP32 Maximum Skeleton Special Extended - Fixed Scripts
 Removed XPMSSE - Nemesis - Papyrus Stack Fix  
 Removed XPMSSE Weapon Styles Uncloaked  
 
+
 Moved Cumulative fix for Eye Meshes - Alternate - Only black eye fix to Appearance-separator  
 Now distributing dxgi.dll directly since licence allows it  
 Regenerated Nemesis output  
+ 
 
 ----1.0.0 RC1----  
 Added Untarnished LamasTinyHUD Reskin  
