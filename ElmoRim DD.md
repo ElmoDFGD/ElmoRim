@@ -5,7 +5,7 @@
 * test cotn + reinstall efps patch hub
 * Spaghettis AIO
 * Vibrant + improved weapon enchant FX
-
+* add brute force error search method to readme
 
 ## Version update checklist
 00. Copy test profile, delete saves.
@@ -17,16 +17,17 @@
 4. pray  
  
 ## Update message
-ElmoRim has been updated to 1.0.0 RC4.
+ElmoRim has been updated to 1.0.0 RC5.
 
-* Fixed female weapon positioning in IED
-* Fix for GitHub issue #14. An attempt to mitigate the most glaring clipping issues with Scaled Armor. Not perfect, but the best I can do without spending an inordinate amount of time. Thank you Fiorezy for reporting the issue!
-* Fix for GitHub issue #15 Tweaked Pause After Load to avoid breaking scenes. Thank you Zé for testing!
+* Removed Skyrim Platform since there are no dependencies left in ElmoRim. Skyrim Platform and XPMSSE were two mods I never really wanted in ElmoRim, having been able to remove them both means the ElmoRim implementation is that much crisper. Also, this means no more clutter in the overwrite folder after every session!
 * Save-safe
 * Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
-* Download link: https://drive.google.com/file/d/1gwbLDuoEjMwST_7pf4eok4zmyaKXHMf1/view?usp=sharing
+* Download link: https://drive.google.com/file/d/1sb7yzQTplmhRehaE9gNOaY3MYR0ZjqxI/view?usp=sharing
 
 ## Changelog
+
+---1.0.0 RC5----
+Removed Skyrim Platform: Elden Equip was the only dependency.   
 
 ----1.0.0 RC4----  
 Added [E] Scaled Armor Clipping Fix: Not perfect but the best I can do in a reasonable time frame.
