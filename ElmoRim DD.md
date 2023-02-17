@@ -29,7 +29,7 @@ ElmoRim has been updated to 1.0.0 RC6.
 Updated [E] Attack MCO-DXP Sprint attack fix to 1.1: Credits to fiorezy for finding a fix for the animation snapping  
 
 
----1.0.0 RC5----
+---1.0.0 RC5----  
 Removed Skyrim Platform: Elden Equip was the only dependency.   
 
 
