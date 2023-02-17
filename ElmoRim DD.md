@@ -5,7 +5,7 @@
 * test cotn + reinstall efps patch hub
 * Spaghettis AIO
 * Vibrant + improved weapon enchant FX
-* add brute force error search method to readme
+* Vampire feeding fix 
 
 ## Version update checklist
 00. Copy test profile, delete saves.
@@ -17,17 +17,22 @@
 4. pray  
  
 ## Update message
-ElmoRim has been updated to 1.0.0 RC5.
+ElmoRim has been updated to 1.0.0 RC6.
 
-* Removed Skyrim Platform since there are no dependencies left in ElmoRim. Skyrim Platform and XPMSSE were two mods I never really wanted in ElmoRim, having been able to remove them both means the ElmoRim implementation is that much crisper. Also, this means no more clutter in the overwrite folder after every session!
+* Proper fix for sprint attack animation snapping caused by MCO. It's not perfect but will have to do until MCO gets updaed. Huge, and I mean HUGE, shoutout to f for doing the legwork with research and providing input.
 * Save-safe
 * Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
 * Download link: https://drive.google.com/file/d/1sb7yzQTplmhRehaE9gNOaY3MYR0ZjqxI/view?usp=sharing
 
 ## Changelog
+---1.0.0 RC6----  
+Updated [E] Attack MCO-DXP Sprint attack fix to 1.1: Credits to fiorezy for finding a fix for the animation snapping  
+
 
 ---1.0.0 RC5----
 Removed Skyrim Platform: Elden Equip was the only dependency.   
+
+
 
 ----1.0.0 RC4----  
 Added [E] Scaled Armor Clipping Fix: Not perfect but the best I can do in a reasonable time frame.
