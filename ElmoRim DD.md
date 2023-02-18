@@ -6,6 +6,10 @@
 * Spaghettis AIO
 * Vibrant + improved weapon enchant FX
 * Vampire feeding fix 
+* valhalla stun balancing
+* rom vae2 patch check reply
+* dw sprint naruto fix
+* maleficus no mcm
 
 ## Version update checklist
 00. Copy test profile, delete saves.
@@ -19,13 +23,15 @@
 ## Update message
 ElmoRim has been updated to 1.0.0 RC6.
 
-* Proper fix for sprint attack animation snapping caused by MCO. It's not perfect but will have to do until MCO gets updaed. Huge, and I mean HUGE, shoutout to f for doing the legwork with research and providing input.
+* Tomorrow is the day of 1.0.0. I had previously planned to release it during the afternoon (GMT+1), but it will likely be later in the evening due to real life obligations.
+* Proper fix for sprint attack animation snapping caused by MCO. It's not perfect but will have to do until MCO gets updated. Huge shoutout to f for doing the legwork with research and providing input.
 * Save-safe
 * Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
-* Download link: https://drive.google.com/file/d/1sb7yzQTplmhRehaE9gNOaY3MYR0ZjqxI/view?usp=sharing
+* Download link: https://drive.google.com/file/d/1xTptftV_KUnWIcDlm8lyz30CMXtCpOR1/view?usp=sharing
 
 ## Changelog
 ---1.0.0 RC6----  
+Removed Elder Creed - Valhalla Axe Moveset AIO  
 Updated [E] Attack MCO-DXP Sprint attack fix to 1.1: Credits to fiorezy for finding a fix for the animation snapping  
 
 
