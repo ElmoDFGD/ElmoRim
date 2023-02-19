@@ -21,13 +21,14 @@
 4. pray  
  
 ## Update message
-ElmoRim has been updated to 1.0.0 RC6.
+ElmoRim has been updated to 1.0.0.
 
-* Tomorrow is the day of 1.0.0. I had previously planned to release it during the afternoon (GMT+1), but it will likely be later in the evening due to real life obligations.
-* Proper fix for sprint attack animation snapping caused by MCO. It's not perfect but will have to do until MCO gets updated. Huge shoutout to f for doing the legwork with research and providing input.
-* Save-safe
-* Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
-* Download link: https://drive.google.com/file/d/1xTptftV_KUnWIcDlm8lyz30CMXtCpOR1/view?usp=sharing
+* Thank you to everyone who showed up early. OG.
+* Thank you for being kind, enthusiastic and helpful to each other
+* Thank you for testing, providing feedback and constructive criticism
+* Note that 1.0.0 in 2023 is not the same as 1.0.0 ten years ago. There will be bugs, imbalances and annoyances and I will fix them as we go.
+* I will be taking a break from modding for a few weeks. I will be available in the discord to hang out, offer support and put out hotfixes. Other than that, don't expect much activity.
+* Enjoy ElmoRim!
 
 ## Changelog
 ---1.0.0 RC6----  
