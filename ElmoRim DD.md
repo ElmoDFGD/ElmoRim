@@ -2,14 +2,13 @@
 ## 2d0
  
 * test animated armory
-* test cotn + reinstall efps patch hub
-* Spaghettis AIO
-* Vibrant + improved weapon enchant FX
-* Vampire feeding fix 
 * valhalla stun balancing
 * rom vae2 patch check reply
-* dw sprint naruto fix
-* maleficus no mcm
+* redo lods
+* remove vibrant weapons powers
+* fix dead drop whiterun
+* OCoW to JK's College
+* update reshade 
 
 ## Version update checklist
 00. Copy test profile, delete saves.
@@ -21,16 +20,79 @@
 4. pray  
  
 ## Update message
-ElmoRim has been updated to 1.0.0.
+PUBLIC SERVICE ANNOUNCEMENT
 
-* Thank you to everyone who showed up early. OG.
-* Thank you for being kind, enthusiastic and helpful to each other
-* Thank you for testing, providing feedback and constructive criticism
-* Note that 1.0.0 in 2023 is not the same as 1.0.0 ten years ago. There will be bugs, imbalances and annoyances and I will fix them as we go.
-* I will be taking a break from modding for a few weeks. I will be available in the discord to hang out, offer support and put out hotfixes. Other than that, don't expect much activity.
-* Enjoy ElmoRim!
+* ElmoRim 1.1.0 is now in active development. One upside of taking a break is that it allows for scrutinizing ones own work and ideas.
+* As such, the following decisions were made fairly quickly when evaluating what to do for 1.1.0:
+* CotN is out. Great mod but makes too many changes and requires too much patching to gel with the idea of a compact setup. There are other options that improve visuals and are a better fit with the ElmoRim design principles.
+* LotD is out. Not sure what I was thinking there...
+* Visual Animated Enchants is out. Vibrant weapons + Improved Weapon Enchantment Effects + Precision's weapon trails look great and allows for a lean setup.
+* Animated Armory is still on the table, but not for 1.1.0. It will take a while to ensure the new weapons follow the general progression of ElmoRim. How I despise levelled lists.
+* TLDR; 1.1.0 = lightweight city overhauls, new weapon VFX, bug fixes and balancing.
 
 ## Changelog
+---1.1.0---  
+Added Vanargand Animations - One Handed Mid Stance  
+Added ConsolePlusPlus  
+Added HelpExtender  
+Added Vampire Feed Improved  
+Added Cities-separator  
+Added Capital of the Pale  
+Added Capital of the Pale - CFTO Patch  
+Added Capital of Winterhold  
+Added Capital of Hjaalmarch  
+Added Capital of Hjaalmarch - CFTO Patch    
+Added Capital of Falkreath  
+Added Icy Windhelm  
+Added Spaghetti's Cities - AIO  
+Added Vampire Lines Expansion  
+Added Orc Addon for Vampire Lines Expansion  
+Added Locational Encounter Zones  
+Added Vibrant weapons - Fire Frost Shock  
+Added Improved weapons enchantments FX SE  
+Added [E] Thaumaturgy VFX Patch  
+Added Infernorum - Fire Magic Sounds Overhaul  
+Added Fulminis - Shock Magic Sounds Overhaul  
+Added Swiftly Order Squad - Simply Order Summons integration  
+Added Simply Order Summons
+
+Removed Copy and Paste in Console  
+Removed Maleficus' MCM Framework for EVGAT Mods  
+Removed Maleficus' Traversal (EVGAT)  
+Removed Visual Animated Enchants - VAE  
+Removed QRVAE - Qwinn's Refined Visual Animated Enchants  
+Removed Thaumaturgy - Visual Animated Enchantment Patch  
+Removed [E] VAE - RoM Patch  
+
+Updated Lamas Tiny HUD to 1.2.2  
+Updated Untarnished LamasTinyHUD Reskin to 1.2  
+Updated Skyrim Unbound Reborn to 1.12.3  
+Updated At Your Own Pace - Companions to 2.0.5CP  
+Updated At Your Own Pace - Thieves Guild to 2.1TG  
+Updated [E] No starting Castle Dour Map Marker to 1.1: Forwarded records from USSEP  
+Updated [E] ElmoRim CRP to 1.2: Resolved conflict between Caught Red Handed QE and Skyrim Unbound  
+Updated Paper Sovngarde Map for FWMF to 1.72  
+Updated Paper Blackreach Map for FWMF to 1.75  
+
+Added Shield+Sword on back Draw2 animation    
+Added accidentally removed Custom IED profile    
+Disabled Animated Eating Redux NPC animations: Caused NPC to stand in weird places  
+Increased I-frames of Elden counter for balancing purposes  
+Increased stun damage in Valhalla Combat for balancing purposes  
+Reduced camera shake when sprinting  
+Reinstalled Elder Creed - Odyssey Dual Wield Dagger Moveset to reset priorities  
+Tweaked Incremental Injuries for mage QoL. Reduced magicka damage rate. Slightly increased helath damage rate.     
+Tweaked Sunhelm settings for QoL  
+
+---1.0.2---  
+Fixed AstrayFX shader download link  
+
+---1.0.1---  
+Fixed broken shader download link  
+ 
+
+  
+
 ---1.0.0 RC6----  
 Removed Elder Creed - Valhalla Axe Moveset AIO  
 Updated [E] Attack MCO-DXP Sprint attack fix to 1.1: Credits to fiorezy for finding a fix for the animation snapping  
