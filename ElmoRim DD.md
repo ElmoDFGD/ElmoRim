@@ -4,11 +4,13 @@
 * test animated armory
 * valhalla stun balancing
 * rom vae2 patch check reply
-* redo lods
 * remove vibrant weapons powers
 * fix dead drop whiterun
 * OCoW to JK's College
 * update reshade 
+* Swiftly order squad wiki
+* Fix double dialogue with thralls
+* evaluate power attack mods
 
 ## Version update checklist
 00. Copy test profile, delete saves.
@@ -20,15 +22,14 @@
 4. pray  
  
 ## Update message
-PUBLIC SERVICE ANNOUNCEMENT
+ElmoRim has been updated to 1.1.0  
 
-* ElmoRim 1.1.0 is now in active development. One upside of taking a break is that it allows for scrutinizing ones own work and ideas.
-* As such, the following decisions were made fairly quickly when evaluating what to do for 1.1.0:
-* CotN is out. Great mod but makes too many changes and requires too much patching to gel with the idea of a compact setup. There are other options that improve visuals and are a better fit with the ElmoRim design principles.
-* LotD is out. Not sure what I was thinking there...
-* Visual Animated Enchants is out. Vibrant weapons + Improved Weapon Enchantment Effects + Precision's weapon trails look great and allows for a lean setup.
-* Animated Armory is still on the table, but not for 1.1.0. It will take a while to ensure the new weapons follow the general progression of ElmoRim. How I despise levelled lists.
-* TLDR; 1.1.0 = lightweight city overhauls, new weapon VFX, bug fixes and balancing.
+* Light city overhauls
+* New enchantment VFX
+* Swiftly Order Squad and Simply Order Summons to help with managing followers and summons
+* Balance changes and bug fixes
+* Not save-safe
+* Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
 
 ## Changelog
 ---1.1.0---  
@@ -80,6 +81,7 @@ Disabled Animated Eating Redux NPC animations: Caused NPC to stand in weird plac
 Increased I-frames of Elden counter for balancing purposes  
 Increased stun damage in Valhalla Combat for balancing purposes  
 Reduced camera shake when sprinting  
+Regenerated LOD
 Reinstalled Elder Creed - Odyssey Dual Wield Dagger Moveset to reset priorities  
 Tweaked Incremental Injuries for mage QoL. Reduced magicka damage rate. Slightly increased helath damage rate.     
 Tweaked Sunhelm settings for QoL  
