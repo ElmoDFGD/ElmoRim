@@ -1,16 +1,13 @@
 # ElmoRim Wabbajack Dev-Diary
-## 2d0
+## backlog
  
 * test animated armory
-* valhalla stun balancing
 * rom vae2 patch check reply
-* remove vibrant weapons powers
-* fix dead drop whiterun
 * OCoW to JK's College
-* update reshade 
-* Swiftly order squad wiki
-* Fix double dialogue with thralls
 * evaluate power attack mods
+* update cover image to grey borders
+* community shaders + complex grass + grass collisions
+* combat pathing revolution  
 
 ## Version update checklist
 00. Copy test profile, delete saves.
@@ -22,16 +19,28 @@
 4. pray  
  
 ## Update message
-ElmoRim has been updated to 1.1.0  
+ElmoRim has been updated to 1.1.1
 
-* Light city overhauls
-* New enchantment VFX
-* Swiftly Order Squad and Simply Order Summons to help with managing followers and summons
-* Balance changes and bug fixes
-* Not save-safe
+* Fixed Savior's hide crash
+* Fixed double dialogue for dead thrall's
+* Added grey borders to ElmoRim WJ image for better readability. Waiting for GPT4 access to generate a proper image.  
+* Updates to minor mods
+* Save-safe
 * Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
 
 ## Changelog
+
+---1.1.1---  
+Added [E] Listen Dead Drop Fix    
+Added [E] Remove Adamant Thrall Dialogue  
+  
+Updated Modular Armory - Armor Mesh Fixes Patch to 1.1  
+Updated Modular Armory to 1.3.1  
+Updated Reshade to 5.7.0  
+Updated Vampire Feed Improved to 1.3  
+
+Disassembled Vibrant Weapons scripts, removed powers & recompiled  
+  
 ---1.1.0---  
 Added Vanargand Animations - One Handed Mid Stance  
 Added ConsolePlusPlus  

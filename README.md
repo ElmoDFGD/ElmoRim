@@ -384,8 +384,11 @@ Non-mages looking to access Saarthal and the Archmages quarters should make the 
 - Starting Requirements>Under Saarthal: Set to 0
 
 ##### One Click Power Attack
-Set key for power attacks by configuring *ForceRightKey*. Default `MB4`.
+Set key for power attacks by configuring *ForceRightKey*. Default: `MB4`.
 > If the settings don't take effect, trigger a loading screen by going through a door/fast traveling. 
+
+##### Swiftly Order Squad
+Configure Hotkeys for summoning, opening follower inventory etc. Default: `B`
 
 ##### Draw 2
 Configure equipping animations. 
