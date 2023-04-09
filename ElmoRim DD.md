@@ -1,13 +1,8 @@
 # ElmoRim Wabbajack Dev-Diary
 ## backlog
  
-* test animated armory
-* rom vae2 patch check reply
-* OCoW to JK's College
-* evaluate power attack mods
-* update cover image to grey borders
-* community shaders + complex grass + grass collisions
-* combat pathing revolution  
+* redo dyndolod + upload
+* lamas preset to mod
 
 ## Version update checklist
 00. Copy test profile, delete saves.
@@ -19,16 +14,120 @@
 4. pray  
  
 ## Update message
-ElmoRim has been updated to 1.1.1
+ElmoRim has been updated to 1.2.0
 
-* Fixed Savior's hide crash
-* Fixed double dialogue for dead thrall's
-* Added grey borders to ElmoRim WJ image for better readability. Waiting for GPT4 access to generate a proper image.  
-* Updates to minor mods
-* Save-safe
+* We did it, ElmoRim is now feature complete. The roadmap is empty and I have either implemented or discarded every idea that I wanted to explore. 
+* Feature complete does not mean done. There will be bugs to squash and things to polish.
+* Main additions in 1.2.0 are Animated armory, new lighting and reshade setup, parallax textures and complex grass.
+* Removed OCW. Required a lot of patching while not adding much in terms of gameplay & immersion.
+* Switched from Lux to Ambiance. Looks good with the new Reshade and greatly reduces the need for patching.
+* Switched from Sunhelm to The Frozen North. Cold system without bloat or conflicts. Cannibals, enjoy.
+* New cover image so version etc. is visible in WJ interface. 
+* Not Save-safe
 * Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
 
 ## Changelog
+---1.2.0---  
+Added Simple Crossbow Integration (SPID)  
+Added SSE Parallax Shader Fix v1.0 (BETA)  
+Added SSE Parallax Shader Fix v1.0 (BETA) - Parallax Terrain Addon Beta  
+Added Vanilla POM  
+Added Auto Parallax  
+Added Skyland Landscapes Parallax  
+Added Improved colors Reshade for Vanilla HDR  
+Added Community Shaders  
+Added Tree LOD Lighting  
+Added Grass Lighting  
+Added Grass Collision  
+Added Twilight  
+Added Enhanced Volumetric Lighting and Shadows (EVLaS)  
+Added Ambiance - A Vanilla+ Ambient Lighting Overhaul  
+Added Combat Pathing Revolution  
+Added Behavior Data Injector  
+Added [E] ElmoRim Animated Armory Tweaks  
+Added Realistic Halberd Poleaxe Animation(MCO SCAR)  
+Added Vibrant Weapons - Animated Armoury Patch  
+Added ADXP I MCO ER rapiers (SCAR)  
+Added ADXP I MCO ER Katana (SCAR)  
+Added ER Spear Basic Animation walk and run  
+Added ADXP I MCO ER Spear Basic Animation (SCAR)  
+Added Animated Armoury - Open World Addon  
+Added Animated Armoury - Clean Edition 2.3  
+Added Animated Armoury - DAR Version - New Weapons with animations  
+Added The Frozen North - Cold Standalone  
+Added [E] Camping Lite Tweaks  
+Added Hand placed enemies - No Ambushes Version  
+Added Chillwind Depths CTD Fix  
+Added Hearthfires Houses Building Fix  
+Added Scare my Enemy Bug Fix  
+Added Mount Anthor Dragon Fix  
+Added Source of Stalhrim Quest Fix  
+Added WE05 Script Fix  
+Added Magic Student (WIChangeLocation04) Quest Fix  
+Added Stamina of Steeds  
+Added Rock Traps Trigger Fixes  
+Added Leviathan Animations II - Greatsword Non Combat Locomotion  
+Added Leviathan Animations II - Greatsword Low Stance  
+Added Fnar Combat - Increased Damage  
+Added Fnar Combat - No Killmoves and No Killcams  
+Added Fnar Combat - Draugr Don't Shout  
+Added Fnar Combat - No BS AI Projectile Dodge  
+Added Fnar Combat - Reduce Archer Accuracy  
+Added Fnar Combat - Blocking More Effective  
+
+Removed Lux - FWMF Fantasy Paper Maps Patch  
+Removed Lux Patches  
+Removed Lux  
+Removed Lux Via - Resource Pack (No ENB Light)  
+Removed Hyperborean Snow 4K  
+Removed TB's 8K Immersive Caves  
+Removed TB's 8K Immersive Mines  
+Removed Skyland Watercolor  
+Removed Untarnished LamasTinyHUD Reskin - until it gets updated  
+Removed ShaderTools Updated  
+Removed Crossbow Integration (Including Creation Club)  
+Removed Obscure's College of Winterhold  
+Removed Obscure's College of Winterhold NPC Stuck in Staircase Fix  
+Removed Obscure's College of Winterhold - Patches  
+Removed eFPS - Official Patch Hub  
+Removed [R] Reshade - dxgi.dll  
+Removed Sswaye's "Cabbage" Reshade  
+Removed Sunhelm - Patches  
+Removed SunHelm Survival  
+Removed Sunhelm - Simple weather icons  
+Removed SunHelm Survival and needs Alternate Start Mods - Settings Loader  
+Removed Sunhelm - Experience Patch  
+Removed Hand Placed Enemies - More populated spawns dungeons and POIs  
+Removed Elder Creed - Blade  
+Removed Valravn - Integrated Combat of Skyrim  
+Removed Valravn SPID Uncloak  
+Removed Subtle but Aetherius  
+
+Updated ElmoRim CRP to 1.3.0 - Removed Crossbow Integration as master  
+Updated LamasTinyHUD to 1.4.1   
+Updated DynDOLOD Resources SE 3 to alpha-34  
+Updated DynDOLOD to alpha-122  
+Updated Skyland AIO to 4.1  
+Updated FSR dll's for UpscalerBasePlugin  
+Updated UpscalerBasePlugin to 1.1.0  
+Updated XeSS dll's to 1.1.0  
+
+Regenerated Nemesis output  
+Regenerated SSELODGen output  
+Regenerated TexGen output  
+Regenerated DynDOLOD output    
+Regenerated Synthesis output  
+Added recommended Vanilla HDR ini-tweaks  
+Set TreeNormalMaps=1 in TexGEN_SSE.ini  
+Set TreeLODComplexAtlas=1 in DynDOLOD_SSE.ini  
+Restructured [R] Reshade to match new functionality  
+Renamed Lighting & Reshade-separator to Community shaders, Lighting & Reshade  
+Moved Map-separator  
+Moved Dragon War - A Dragon Overhaul to Combat-separator  
+Moved [E] Dragon War No Killmoves to Combat-separator  
+Exported new IED default config  
+  
+
 
 ---1.1.1---  
 Added [E] Listen Dead Drop Fix    
