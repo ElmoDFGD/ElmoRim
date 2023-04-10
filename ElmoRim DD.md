@@ -2,7 +2,6 @@
 ## backlog
  
 * redo dyndolod + upload
-* lamas preset to mod
 
 ## Version update checklist
 00. Copy test profile, delete saves.
@@ -25,6 +24,17 @@ ElmoRim has been updated to 1.2.0
 * New cover image so version etc. is visible in WJ interface. 
 * Not Save-safe
 * Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
+
+ElmoRim has been updated to 1.2.0RC1.
+
+* Refer to above PSA for overview of changes.
+* Combat is now less punishing. The goal was always fast-paced action, not soulslike. 
+* Enemies are less damage spongey and archers are no longer aimbots.
+* Performance should be better. Any sudden drops in FPS is due to me being to lazy to generate high quality occlusion before uploading this.
+* No mandatory MCM configs (apart from Skyrim Unbound) 
+* Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
+* Not save-safe
+* Download link: https://drive.google.com/file/d/1-5YYnoL-JfIfJ7VAv_9fJau0CkSYIQM6/view?usp=sharing
 
 ## Changelog
 ---1.2.0---  
@@ -66,14 +76,15 @@ Added WE05 Script Fix
 Added Magic Student (WIChangeLocation04) Quest Fix  
 Added Stamina of Steeds  
 Added Rock Traps Trigger Fixes  
-Added Leviathan Animations II - Greatsword Non Combat Locomotion  
-Added Leviathan Animations II - Greatsword Low Stance  
 Added Fnar Combat - Increased Damage  
 Added Fnar Combat - No Killmoves and No Killcams  
 Added Fnar Combat - Draugr Don't Shout  
 Added Fnar Combat - No BS AI Projectile Dodge  
 Added Fnar Combat - Reduce Archer Accuracy  
 Added Fnar Combat - Blocking More Effective  
+Added Dynamic Impact - Slash Effects X  
+Added ADXP l MCO Imperium Animation Complete Pack  
+Added [O] Synthesis - NPC Stat Rescaler  
 
 Removed Lux - FWMF Fantasy Paper Maps Patch  
 Removed Lux Patches  
@@ -102,6 +113,9 @@ Removed Elder Creed - Blade
 Removed Valravn - Integrated Combat of Skyrim  
 Removed Valravn SPID Uncloak  
 Removed Subtle but Aetherius  
+Removed 3rd Person Dual Wield Animation Fix SSE  
+Removed AC Valhalla Inspired Animations For Player Only  
+
 
 Updated ElmoRim CRP to 1.3.0 - Removed Crossbow Integration as master  
 Updated LamasTinyHUD to 1.4.1   
@@ -111,6 +125,10 @@ Updated Skyland AIO to 4.1
 Updated FSR dll's for UpscalerBasePlugin  
 Updated UpscalerBasePlugin to 1.1.0  
 Updated XeSS dll's to 1.1.0  
+Updated [O] ElmoRim - Facegen to 2.2  
+Updated [O] ElmoRim - SSELODGen Output to 2.1  
+Updated [O] Elmorim - TexGen Output to 2.4  
+Updated [O] ElmoRim - DynDOLOD Output to 2.4  
 
 Regenerated Nemesis output  
 Regenerated SSELODGen output  
@@ -125,6 +143,7 @@ Renamed Lighting & Reshade-separator to Community shaders, Lighting & Reshade
 Moved Map-separator  
 Moved Dragon War - A Dragon Overhaul to Combat-separator  
 Moved [E] Dragon War No Killmoves to Combat-separator  
+Moved MCM Helper to Framework-separator  
 Exported new IED default config  
   
 
