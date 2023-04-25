@@ -2,6 +2,10 @@
 ## backlog
  
 * redo dyndolod + upload
+* evaluate AYOP Thane 
+* evaluate ayop MG 2.0
+* evaluate Dragon war 3.0.2  
+* check OCPA updates
 
 ## Version update checklist
 00. Copy test profile, delete saves.
@@ -35,6 +39,50 @@ ElmoRim has been updated to 1.2.0RC1.
 * Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
 * Not save-safe
 * Download link: https://drive.google.com/file/d/1-5YYnoL-JfIfJ7VAv_9fJau0CkSYIQM6/view?usp=sharing
+
+ElmoRim has been updated to 1.2.0RC2
+
+* Slightly increased enemy HP.
+* Updated LamasTinyHUD.
+* Deactivated Precision debug-mode.
+* Now using NordwarUA's Scaled Armor because the current one looked awful.
+* Fixed Dragonbane enchantment.
+* Fixed katana power attacks not consuming stamina.
+* Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
+* Save-safe when updating from 1.2.0RC1
+* Download link: https://drive.google.com/file/d/1o9uj3uabqIb5hWCzDRo45PldN2LAnExH/view?usp=sharing
+
+ElmoRim has been updated to 1.2.0RC3
+
+* Fix for NPC Stats Rescaler overwriting Skyrim Unbound starting gear. Kudos Rusty Replicant.
+* Untarnished reskin for LamasTinyHud is back.
+* New dialogue skipping setup. Kudos Rusty Replicant
+* Cleaned up katana keyword conflicts between AA and RoM.
+* New clutter filter for BTPS for a significant QoL-improvement.
+* Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
+* Save-safe when updating from 1.2.0RC2
+* Download link: https://drive.google.com/file/d/1aOzc3AQdjjYZSZUvklGHajZJ9kvlz2Sv/view?usp=sharing
+
+ElmoRim has been updated to 1.2.0RC4
+* Barter balancing, coin flowed a bit too freely 
+* Updated a bunch of mods
+* Added PO3's Tweaks. TBH I thought I had this installed all along. Just when I thought I had become a decent modder...
+* Removed random block animations mod. Looked a bit janky and didn't add much to combat.
+* Removed Move It Damnit - seems to make followers a bit buggy
+* Last update before 1.2.0 barring any critical bug fixes
+* Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
+* Not save-safe
+* Download link: https://drive.google.com/file/d/1GL4O9BMqZSAnssqAvrdEeUcnp0LTy4VW/view?usp=sharing
+
+ElmoRim has been updated to 1.2.0RC5
+* Proper occlusion 
+* Disabled horse sprint camera noise
+* Disabled Precision weapon capsules
+
+* Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
+* Not save-safe
+* Download link: https://drive.google.com/file/d/1GL4O9BMqZSAnssqAvrdEeUcnp0LTy4VW/view?usp=sharing
+
 
 ## Changelog
 ---1.2.0---  
@@ -83,8 +131,24 @@ Added Fnar Combat - No BS AI Projectile Dodge
 Added Fnar Combat - Reduce Archer Accuracy  
 Added Fnar Combat - Blocking More Effective  
 Added Dynamic Impact - Slash Effects X  
-Added ADXP l MCO Imperium Animation Complete Pack  
 Added [O] Synthesis - NPC Stat Rescaler  
+Added NordwarUA Scaled Armor  
+Added [E] Rescaler - Skyrim Unbound Patch  
+Added Instantly Skip Dialogue NG  
+Added Clutter Filter for BTPS  
+Added Merchant - A Trading Expansion  
+Added Merchant - Prices Addon  
+Added Maximum Carnage for SkySA and MCO  
+Added Hand to Hand - Jump Perks Addon  
+Added Nemesis Creature Behaivour - WereWolf Addon  
+Added Imperium Combat Animations for Player No Locomotions  
+Added Maximum Skeletons Rougeshot  
+Added powerofthree's Tweaks  
+Added Adamant - Animated Armory Bound Weapons - No Whips  
+Added Dragonactorscript infinite loop fix  
+Added [E] Untarnished UI ElmoRim Config  
+
+
 
 Removed Lux - FWMF Fantasy Paper Maps Patch  
 Removed Lux Patches  
@@ -94,7 +158,6 @@ Removed Hyperborean Snow 4K
 Removed TB's 8K Immersive Caves  
 Removed TB's 8K Immersive Mines  
 Removed Skyland Watercolor  
-Removed Untarnished LamasTinyHUD Reskin - until it gets updated  
 Removed ShaderTools Updated  
 Removed Crossbow Integration (Including Creation Club)  
 Removed Obscure's College of Winterhold  
@@ -115,10 +178,17 @@ Removed Valravn SPID Uncloak
 Removed Subtle but Aetherius  
 Removed 3rd Person Dual Wield Animation Fix SSE  
 Removed AC Valhalla Inspired Animations For Player Only  
+Removed [E] Scaled Armor Clipping Fix  
+Removed Speedy Daedric Dialogue (2x)  
+Removed Allow Dialogue Progress Bugfix  
+Removed Misc Tweaks - More Expensive Inns  
+Removed Tyrannical Trolls  
+Removed Smooth Random Blocking Animation 3.0  
+Removed Move it Dammit - SSE All-in-One Insaller  
 
 
-Updated ElmoRim CRP to 1.3.0 - Removed Crossbow Integration as master  
-Updated LamasTinyHUD to 1.4.1   
+Updated ElmoRim CRP to 1.3.0
+Updated LamasTinyHUD to 1.4.4   
 Updated DynDOLOD Resources SE 3 to alpha-34  
 Updated DynDOLOD to alpha-122  
 Updated Skyland AIO to 4.1  
@@ -129,6 +199,61 @@ Updated [O] ElmoRim - Facegen to 2.2
 Updated [O] ElmoRim - SSELODGen Output to 2.1  
 Updated [O] Elmorim - TexGen Output to 2.4  
 Updated [O] ElmoRim - DynDOLOD Output to 2.4  
+Updated Untarnished LamasTinyHUD Reskin to 1.4  
+Updated powerofthree's Papyrus Extender to 5.5.0  
+Updated Nemesis Creatures BEHAVIOUR compatibility to 1.4  
+Updated Skyrim Upscaler - DLSS FSR2 XeSS to 1.1.3  
+Updated Spell Perk Item Distributor to 6.5.2  
+Updated Keyword Item Distributor to 3.0.2  
+Updated Scrambled Bugs (Merged new optional files into main mod)
+Updated Papyrus Tweaks NG to 4.1  
+Updated QuickLoot EE to 1.2.1  
+Updated QuickLoot EE - Settings Loader to 1.1  
+Updated Untarnished UI to 1.1.5  
+Updated Infernorum - Fire Magic Sounds Overhaul to 0.42  
+Updated Static Mesh Improvement Mod Improvement Mod to 1.7.1  
+Updated Skyrim Landscape and Water Fixes to 7.7  
+Updated Forgotten Retex Project to 8.3  
+Updated Icy Windhelm to 2.2  
+Updated Spaghetti's Cities - AIO to 1.3  
+Updated Reverie Skin to 1.10.14  
+Updated Maximum Carnage to 7.5  
+Updated Maximum Carnage - Settings Loader to 1.2  
+Updated AI Overhaul SSE to 1.8.3  
+Updated Misc Dialogue Edits to 1.8.6  
+Updated Bandit Lines Expansion to 1.07  
+Updated Civil War Lines Expansion to 1.06  
+Updated Mysticism - A Magic Overhaul to 2.2.3  
+Updated Adamant - A Perk Overhaul to 5.7.6  
+Updated Hand to Hand - An Adamant Addon to 1.4.4  
+Updated Aetherius - A Race Overhaul to 2.10.4  
+Updated Mundus - A Standing Stone Overhaul to 1.9.2  
+Updated Forceful Tongue - Shouts Overhaul to 3.0.9.1  
+Updated Faster HDT-SMP to 1.50.7  
+Updated Reliquary of Myth - Artifact Overhaul to 4.6.7  
+Updated Simple Dual Sheath to 1.5.6  
+Updated Timing is Everything SE - Settings Loader to 1.0.1  
+Updated At Your Own Pace - Companions to 2.0.7CP  
+Updated At Your Own Pace - Skyrim Unbound to 1.1SU  
+Updated Dawnguard - Tweaks and Enhancements to 0.21  
+Updated TK Dodge RE to 0.50Final  
+Updated Precision Creatures to 2.1  
+Updated Maximum Skeletons D-Won Edition to 1.2  
+Updated NPC Animation Remix (DAR) to 1.4  
+Updated Improved Table Transition Animations to 1.1  
+Updated Conditional Expressions - Subtle Face Animations to 1.27  
+Updated Community Shaders to 0.1.0  
+Updated Embers XD to 2.7.3  
+Updated My Minimalistic AutoSave Mod to 5.0  
+
+
+
+
+
+
+
+
+
 
 Regenerated Nemesis output  
 Regenerated SSELODGen output  
@@ -145,7 +270,12 @@ Moved Dragon War - A Dragon Overhaul to Combat-separator
 Moved [E] Dragon War No Killmoves to Combat-separator  
 Moved MCM Helper to Framework-separator  
 Exported new IED default config  
-  
+Changed controlmap to allow for more hotkeys  
+Reconfigured the controlmap 
+Renamed & moved Misc Dialogue Edits Patches to Late loaders-separator  
+Moved dodge mods below Precision  
+Added Mortal Enemies Synthesis patcher  
+Merged [E] No starting Castle Dour Map Marker & [E] FWMF Brightness Fix into [E] Map Fixes & Tweaks  
 
 
 ---1.1.1---  
