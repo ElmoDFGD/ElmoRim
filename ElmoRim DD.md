@@ -2,10 +2,17 @@
 ## backlog
  
 * redo dyndolod + upload
-* evaluate AYOP Thane 
+* evaluate AYOP Thane, remove misc tweaks houses & harder thaneships
 * evaluate ayop MG 2.0
 * evaluate Dragon war 3.0.2  
 * check OCPA updates
+* balance pilgrim blessing of akatosh & amulet of akatosh
+* Switch to vestige
+* evaluate Visibility and Azurite weathers  + mikhails reshade
+* Open Civil War??? https://www.palimptes.dev/ocw
+* evaluate Atlantean landscapes
+* cathedral weather mcm settings
+* easy wheel menu II
 
 ## Version update checklist
 00. Copy test profile, delete saves.
@@ -15,7 +22,7 @@
 2. Upload new file to CDN
 3. Update modlists.json w/ jsonlint + new link
 4. pray  
- 
+
 ## Update message
 ElmoRim has been updated to 1.2.0
 
@@ -78,18 +85,38 @@ ElmoRim has been updated to 1.2.0RC5
 * Proper occlusion 
 * Disabled horse sprint camera noise
 * Disabled Precision weapon capsules
-
+* Updated a few more mods
+* Nuked Nemesis folder and regenerated from scratch to fix crashing
 * Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
-* Not save-safe
-* Download link: https://drive.google.com/file/d/1GL4O9BMqZSAnssqAvrdEeUcnp0LTy4VW/view?usp=sharing
+* Save-safe when updating from RC4
+* Download link: https://drive.google.com/file/d/1HWIQiHXh9AepbTrtD6LkL9nz9PiLsJ2Z/view?usp=sharing
+
+
+
+ElmoRim has been updated to 1.2.0RC6
+
+* Recompiled MC Message Script
+* Added terrain blending fix
+* Updated Reshade binaries
+* Tweaked parallax settings
+* Enabled faction stealing in Po3's Tweaks
+* Spring cleaning, merged several mods w/ their respective patches and addons
+* Removed Vanilla POM (Thank you Mikhail)
+* Full changelog: https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md
+* Save-safe when updating from RC5
+* Download link: 
 
 
 ## Changelog
+---1.3.0---  
+
+
+
+
 ---1.2.0---  
 Added Simple Crossbow Integration (SPID)  
 Added SSE Parallax Shader Fix v1.0 (BETA)  
 Added SSE Parallax Shader Fix v1.0 (BETA) - Parallax Terrain Addon Beta  
-Added Vanilla POM  
 Added Auto Parallax  
 Added Skyland Landscapes Parallax  
 Added Improved colors Reshade for Vanilla HDR  
@@ -102,7 +129,6 @@ Added Enhanced Volumetric Lighting and Shadows (EVLaS)
 Added Ambiance - A Vanilla+ Ambient Lighting Overhaul  
 Added Combat Pathing Revolution  
 Added Behavior Data Injector  
-Added [E] ElmoRim Animated Armory Tweaks  
 Added Realistic Halberd Poleaxe Animation(MCO SCAR)  
 Added Vibrant Weapons - Animated Armoury Patch  
 Added ADXP I MCO ER rapiers (SCAR)  
@@ -147,7 +173,7 @@ Added powerofthree's Tweaks
 Added Adamant - Animated Armory Bound Weapons - No Whips  
 Added Dragonactorscript infinite loop fix  
 Added [E] Untarnished UI ElmoRim Config  
-
+Added Terrain Parallax Blending Fix
 
 
 Removed Lux - FWMF Fantasy Paper Maps Patch  
@@ -210,14 +236,14 @@ Updated Papyrus Tweaks NG to 4.1
 Updated QuickLoot EE to 1.2.1  
 Updated QuickLoot EE - Settings Loader to 1.1  
 Updated Untarnished UI to 1.1.5  
-Updated Infernorum - Fire Magic Sounds Overhaul to 0.42  
+Updated Infernorum - Fire Magic Sounds Overhaul to 0.5    
 Updated Static Mesh Improvement Mod Improvement Mod to 1.7.1  
-Updated Skyrim Landscape and Water Fixes to 7.7  
+Updated Skyrim Landscape and Water Fixes to 7.9  
 Updated Forgotten Retex Project to 8.3  
 Updated Icy Windhelm to 2.2  
 Updated Spaghetti's Cities - AIO to 1.3  
 Updated Reverie Skin to 1.10.14  
-Updated Maximum Carnage to 7.5  
+Updated Maximum Carnage to 7.7  
 Updated Maximum Carnage - Settings Loader to 1.2  
 Updated AI Overhaul SSE to 1.8.3  
 Updated Misc Dialogue Edits to 1.8.6  
@@ -225,11 +251,11 @@ Updated Bandit Lines Expansion to 1.07
 Updated Civil War Lines Expansion to 1.06  
 Updated Mysticism - A Magic Overhaul to 2.2.3  
 Updated Adamant - A Perk Overhaul to 5.7.6  
-Updated Hand to Hand - An Adamant Addon to 1.4.4  
+Updated Hand to Hand - An Adamant Addon to 1.4.6  
 Updated Aetherius - A Race Overhaul to 2.10.4  
 Updated Mundus - A Standing Stone Overhaul to 1.9.2  
 Updated Forceful Tongue - Shouts Overhaul to 3.0.9.1  
-Updated Faster HDT-SMP to 1.50.7  
+Updated Faster HDT-SMP to 1.50.9rc-1    
 Updated Reliquary of Myth - Artifact Overhaul to 4.6.7  
 Updated Simple Dual Sheath to 1.5.6  
 Updated Timing is Everything SE - Settings Loader to 1.0.1  
@@ -245,15 +271,7 @@ Updated Conditional Expressions - Subtle Face Animations to 1.27
 Updated Community Shaders to 0.1.0  
 Updated Embers XD to 2.7.3  
 Updated My Minimalistic AutoSave Mod to 5.0  
-
-
-
-
-
-
-
-
-
+Updated Reshade to 5.8.0  
 
 Regenerated Nemesis output  
 Regenerated SSELODGen output  
@@ -275,7 +293,25 @@ Reconfigured the controlmap
 Renamed & moved Misc Dialogue Edits Patches to Late loaders-separator  
 Moved dodge mods below Precision  
 Added Mortal Enemies Synthesis patcher  
-Merged [E] No starting Castle Dour Map Marker & [E] FWMF Brightness Fix into [E] Map Fixes & Tweaks  
+Merged several [E]-mods under their respective separators    
+Merged several mods w/ their patches and optional files  
+Recompiled [E] Remove Maximum Carnage Message script  
+Disabled a broken mesh in Major Cities Mesh Overhaul  
+Hid Verolevi idles to enable other npc idles  
+Merged AMB Variants Lite Patches into single mod  
+Merged Frankly HD Miraak hotfix with main mod  
+Merged Mundus w/ patch   
+Merged Hand to Hand addons into single mod  
+Merged Apothecary - Food & Drink w/ patch  
+Merged Forceful Tongue w/ patches  
+Merged Miscellaneous Tweaks Collection mods into single mod  
+Merged Fnar Combat mods into single mod  
+Merged Yet another music merged w/ chapter II patch  
+Merged Caught Red Handed w/ USSEP patch  
+Split Loot, Gear & Encounters-separator into Equipment - Loot & Gear and Equipment - Textures and Meshes  
+Renamed Quests separator Quests & Encounters  
+Moved encounter mods to Quests & Encounters-separator  
+Added Toggle Run/Walk back to [E] Controlmap - Num 0  
 
 
 ---1.1.1---  

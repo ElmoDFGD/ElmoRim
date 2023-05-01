@@ -51,10 +51,10 @@ This readme provides instructions for installing and configuring ElmoRim. A deta
 > Disclaimer: ElmoRim puts vanilla content at center stage. However, it is first and foremost Skyrim the way I, Elmo, want it. So if a certain mod is included, it is because I want it there.
 
 ## Feature overview
-ElmoRim consists of around 600 mods. This overview provides an idea of what to expect from the list.
+ElmoRim consists of around 650 mods. This overview provides an idea of what to expect from the list.
 |    Feature    |                                     Core Mods                                             |  
 |     :---:     |                                      :---:                                                |  
-| **Visuals**   | Skyland AIO, Modular Armory, Sswaye's "Cabbage" Reshade                                   |    
+| **Visuals**   | Skyland AIO w/ parallax, Modular Armory, Cathedral weathers, Reshade, Complex grass       |    
 | **Combat**    | MCO, Valhalla, Precision, Valravn, Hand Placed Enemies                                    |  
 | **Gameplay**  | SimonRim, Experience, ElmoRim Lite Needs*                                                 |  
 | **Quests**    | Skyrim Unbound, JaySerpa's Quest Expansion-series, At Your Own Pace, College For Non-Mages|  
@@ -383,6 +383,9 @@ Non-mages looking to access Saarthal and the Archmages quarters should make the 
 - Starting Requirements>First Lessons: Set to 0
 - Starting Requirements>Under Saarthal: Set to 0
 
+##### Cathedral Weather
+Configure night brightness under *Settings>Lighting>Nocturnal Sight*.
+
 ##### One Click Power Attack
 Set key for power attacks by configuring *ForceRightKey*. Default: `MB4`.
 > If the settings don't take effect, trigger a loading screen by going through a door/fast traveling. 
@@ -407,9 +410,6 @@ Configure equipping animations.
 ![IED](https://github.com/ElmoDFGD/ElmoRim/blob/main/media/ElmoRimIEDConfig.png?raw=true)
 
 </details>
-
-##### SunHelm 
-Disable powers under *General>Enable/Disable powers*. Only Sunhelms Cold system is enabled as part of the ElmoRim Lite Survival setup. 
 
 ##### Incremental Gains
 Set *Soft Cap Base* to 125.
@@ -448,9 +448,6 @@ Enable/disable *Sleep to level up*.
 
 ##### True Directional Movement  
 Customize *Target Lock* keybind here (Default `MB4`).
-
-##### XPMSSE
-Customize equipment slots, such as placing one-handed swords on the players back. 
 
 ##### Valhalla Combat
   * Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them. 
