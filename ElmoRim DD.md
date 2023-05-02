@@ -13,6 +13,7 @@
 * evaluate Atlantean landscapes
 * cathedral weather mcm settings
 * easy wheel menu II
+* ini settings: vanilla hdr, iblf, sao
 
 ## Version update checklist
 00. Copy test profile, delete saves.
