@@ -14,6 +14,7 @@
 * cathedral weather mcm settings
 * easy wheel menu II
 * ini settings: vanilla hdr, iblf, sao
+* Shadow of Skyrim
 
 ## Version update checklist
 00. Copy test profile, delete saves.
