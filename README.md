@@ -28,7 +28,6 @@
     - [MCM configuration](#mcm-configuration)
   - [FAQ](#faq)  
     - [Q: I get CTD when starting the game](#q-i-get-ctd-when-starting-the-game)
-    - [Q: This isn't vanilla!?](#q-this-isnt-vanilla)
     - [Q: The equipment widget is poorly positioned](#q-the-equipment-widget-is-poorly-positioned)
     - [Q: What madman uses this control scheme?](#q-what-madman-uses-this-control-scheme)
     - [Q: BUG!](#q-bug)
