@@ -93,14 +93,11 @@ ElmoRim has been updated to 1.2.0RC5
 * Save-safe when updating from RC4
 * Download link: https://drive.google.com/file/d/1HWIQiHXh9AepbTrtD6LkL9nz9PiLsJ2Z/view?usp=sharing
 
-
-
 ElmoRim has been updated to 1.2.0RC6
 
 * Recompiled MC Message Script
-* Added terrain blending fix
+* Added terrain parallax blending fix
 * Updated Reshade binaries
-* Tweaked parallax settings
 * Enabled faction stealing in Po3's Tweaks
 * Spring cleaning, merged several mods w/ their respective patches and addons
 * Removed Vanilla POM (Thank you Mikhail)
