@@ -31,7 +31,6 @@
     - [Q: The equipment widget is poorly positioned](#q-the-equipment-widget-is-poorly-positioned)
     - [Q: What madman uses this control scheme?](#q-what-madman-uses-this-control-scheme)
     - [Q: BUG!](#q-bug)
-    - [Q: Why do all daedra sound like they're on *Insert Illicit Substance*?](#q-why-do-all-daedra-sound-like-theyre-on-insert-illicit-substance)
     - [Q: I can't level up, what do I do?](#q-i-cant-level-up-what-do-i-do)
     - [Q: How do I start the main questline?](#q-how-do-i-start-the-main-questline)
     - [Q: When do dragons start spawning?](#q-when-do-dragons-start-spawning)
@@ -463,7 +462,7 @@ Updating is like installing the list. Simply check that the file paths are the s
 
 #### Q: I get CTD when starting the game.
 
-A: You have a [potato](#users-with-a-10-series-nvidia-card-or-lower-disable-dlaa) graphics card. Follow the link for instructions on how to fix this.
+A: You have a [potato](#configure-upscaling) graphics card. Follow the link for instructions on how to fix this.
 
 #### Q: The equipment widget is poorly positioned.
 
