@@ -297,7 +297,7 @@ ElmoRim features mods that provide gamepad support. Activate the corresponding m
 <summary><strong>Click here to see required steps</strong></summary>
 
 * Disable the mod [E] Controlmap under the *Controls* separator.  
-* Configure hotkeys. Credits to user Ego the Negus on the ElmoRim discord for these settings :
+* Configure hotkeys. Credits to user Ego the Negus on the ElmoRim discord for these settings:
 
 >
 >"In the tk dodge re ini set the dodgekey to 277(The B button on the Xbox controller). You have to also reset the lock on button in the True Directional Movement MCM. After that everything should be working fine." 
@@ -349,7 +349,7 @@ Config default values are 140 and 140.
  - Launch the *ElmoRim* executable in MO2
 
 ### MCM configuration
-Almost all of ElmoRim's MCM menus are pre-configured. This section outlines the few mandatory manual tweaks that are required.
+Almost all of ElmoRim's MCM menus are pre-configured. This section outlines the few mandatory manual settings that are required.
 
 #### Skyrim Unbound
 ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) as the alternate start mod.
@@ -361,15 +361,6 @@ ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mod
 
 
 * Once finished with chargen, choose *Continue* to start the game.
-
-#### Valravn
-Disable (or set to 0) everything except *Attacks of Opportunity* and *Bow Stamina Cost*.
-
-#### Lamas Tiny HUD
-Adjust the height of the widget to fit screen resolution. Go to *LamasTinyHUD>Hud Setting>Position of Image Height*
-
-* For 1080p: Set to 850
-* For 1440p: Set to 1250 (should be default)
 
 #### Optional MCM settings
 In addition to the mandatory settings, several optional tweaks are available:
@@ -423,9 +414,6 @@ Enable/disable the filters that prevent the player from accidentally stealing it
 ##### Favourite Howls Menu  
 Customize which powers will be in the favorites menu (for werewolves).
  
-##### Improved Alternate Conversation Camera
-Tweak the dialogue camera. Notable settings include *Switch Target* (for Witcher-Style Dialogue Camera), *Force Third/First Person* and *Camera Offsets*.
-
 ##### Simplest Horses
 Customize *Horse Control hotkey*(Default: `V`).
 
@@ -440,7 +428,7 @@ By default the list offers three presets:
 *  [Galuna´s Preset](https://www.nexusmods.com/skyrimspecialedition/mods/78397) 
 *  [Vanilla Enhanced 2](https://www.nexusmods.com/skyrimspecialedition/mods/82481)
 
->Vanilla Enhanced 2 locks the FOV and instead offers the option of toggling between normal and close-up modes. Default: `CapsLock`. 
+>Vanilla Enhanced 2 preset locks the FOV and instead offers the option of toggling between normal and close-up modes. Default: `CapsLock`. 
 >The FOV can be changed via console. Open up the console and type FOV *XX* where XX between 80-90 is a good range for most monitors.  
 
 ##### Survival Control Panel
@@ -474,30 +462,21 @@ Updating is like installing the list. Simply check that the file paths are the s
 
 ## FAQ 
 
-#### Q: I get CTD when starting the game
+#### Q: I get CTD when starting the game.
 
 A: You have a [potato](#users-with-a-10-series-nvidia-card-or-lower-disable-dlaa) graphics card. Follow the link for instructions on how to fix this.
 
-#### Q: This isn't vanilla?!
+#### Q: The equipment widget is poorly positioned.
 
-A: Indeed not. It is about experiencing vanilla content in 2023.
-
-
-#### Q: The equipment widget is poorly positioned
-
-A: [Read](#lamas-tiny-hud) the MCM-instructions again. Configure LamasTinyHud.
+A: Check the [widescreen](#optional-widescreen-support) section. Configure LamasTinyHud. 
 
 #### Q: What madman uses this control scheme?
 
-A: The controls can be reverted to vanilla by disabling [E] Controlmap. To disable the equipment manager, disable LamasTinyHUD and [E] LamasTinyHUD - ElmoRim Preset. All these mods can be found under the Controls-separator.
+A: The controls can be reverted to vanilla by disabling [E] Controlmap.
 
 #### Q: BUG!
 
 A: If a suspected bug or weird behavior is encountered, check the [issue tracker](https://github.com/ElmoDFGD/ElmoRim/issues). If the issue isn't listed there, please register a new one.
-
-#### Q: Why do all daedra sound like they're on *Insert Illicit Substance*?
-
-A: One of the most daunting things about starting a new playthrough is the prospect of having to listen to all the unskippable dialogue in the daedric quests. The mod [Speedy Daedric Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/32459) alleviates this by making all dialogue play at 2x speed. To revert to vanilla, simply disable the mod.
 
 #### Q: I can't level up, what do I do?  
 A: You have Sleep to level up enabled, go sleep in a bed or disable it through Survival Control Panel in the MCM.
