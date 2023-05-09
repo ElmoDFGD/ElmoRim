@@ -16,6 +16,9 @@
 * ini settings: vanilla hdr, iblf, sao
 * Shadow of Skyrim
 * Wait in tween menu
+* Ambiance after Embers XD
+* Tweak npc health settings
+* replace OWL patches w/ synthesis version
 
 ## Version update checklist
 00. Copy test profile, delete saves.
@@ -30,7 +33,7 @@
 ElmoRim has been updated to 1.2.0
 
 * We did it, ElmoRim is now feature complete. I have either implemented or discarded every idea that I originally set out to explore. 
-* Feature complete does not mean done. There will be bugs to squash and areas to refine.
+* Feature complete does not mean done. There will be bugs to squash and stuff to refine.
 * Main additions in 1.2.0 are Animated armory, new lighting and reshade setup, parallax textures and complex grass.
 * Removed OCW. Required a lot of patching while not adding much in terms of gameplay & immersion.
 * Switched from Lux to Ambiance. Looks good with the new Reshade and greatly reduces the need for patching.
