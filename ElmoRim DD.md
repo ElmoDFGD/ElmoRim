@@ -2,6 +2,7 @@
 ## backlog
  
 * redo dyndolod + upload
+* update tools
 * evaluate AYOP Thane, remove misc tweaks houses & harder thaneships
 * evaluate ayop MG 2.0
 * evaluate Dragon war 3.0.2  
@@ -19,11 +20,9 @@
 * Ambiance after Embers XD
 * Tweak npc health settings
 * replace OWL patches w/ synthesis version
+* Video guide w/ biggie
 
 ## Version update checklist
-00. Copy test profile, delete saves.
-01. Run Clear/Build, clear overwrite.
-02. Reset Lamas Config, IED, Smoothcam presets 
 1. Re-compile w/ new version number
 2. Upload new file to CDN
 3. Update modlists.json w/ jsonlint + new link
@@ -32,8 +31,10 @@
 ## Update message
 ElmoRim has been updated to 1.2.0
 
-* We did it, ElmoRim is now feature complete. I have either implemented or discarded every idea that I originally set out to explore. 
-* Feature complete does not mean done. There will be bugs to squash and stuff to refine.
+* We did it, ElmoRim is now feature complete. I have either implemented or discarded every idea that I originally set out to explore.
+* I am proud of what I have built and am immensely grateful to everyone who has played and provided feedback, suggestions and bug reports.
+* Feature complete does not mean done. There will be bugs to squash and stuff to refine. I already have a backlog for the next update.
+* 1.2.0 took a long time so a break is in order before getting started, about a month or so. I will be around in chat to offer support and answer questions.
 * Main additions in 1.2.0 are Animated armory, new lighting and reshade setup, parallax textures and complex grass.
 * Removed OCW. Required a lot of patching while not adding much in terms of gameplay & immersion.
 * Switched from Lux to Ambiance. Looks good with the new Reshade and greatly reduces the need for patching.
@@ -309,7 +310,7 @@ Merged Apothecary - Food & Drink w/ patch
 Merged Forceful Tongue w/ patches  
 Merged Miscellaneous Tweaks Collection mods into single mod  
 Merged Fnar Combat mods into single mod  
-Merged Yet another music merged w/ chapter II patch  
+Merged Yet another music merge w/ chapter II patch  
 Merged Caught Red Handed w/ USSEP patch  
 Split Loot, Gear & Encounters-separator into Equipment - Loot & Gear and Equipment - Textures and Meshes  
 Renamed Quests separator Quests & Encounters  
