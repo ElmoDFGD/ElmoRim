@@ -95,7 +95,7 @@ With these specs the game runs at 60fps@1440p.
 
 Recommendations on how to tweak the balance between visual quality and performance are provided [in the wiki](https://github.com/ElmoDFGD/ElmoRim/wiki/Welcome-to-the-ElmoRim-wiki#tweaking-the-game-settings).
 
-Modlist size: 127 GB (of which 46 GB are downloads)
+Modlist size: 127 GB (of which ~50 GB are downloads)
 
 ### Software setup 
 The first step of installing ElmoRim is making sure all required software is installed and that Steam is configured correctly.
