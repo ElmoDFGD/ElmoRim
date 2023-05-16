@@ -11,16 +11,17 @@
 * Switch to vestige
 * evaluate Visibility and Azurite weathers  + mikhails reshade
 * Open Civil War??? https://www.palimptes.dev/ocw
-* evaluate Atlantean landscapes
-* cathedral weather mcm settings
 * easy wheel menu II
-* ini settings: vanilla hdr, iblf, sao
 * Shadow of Skyrim
 * Wait in tween menu
 * Ambiance after Embers XD
 * Tweak npc health settings
 * replace OWL patches w/ synthesis version
 * Video guide w/ biggie
+* reshade archives
+* background imagew
+* Mikhails script
+* Tweak nighteye
 
 ## Version update checklist
 1. Re-compile w/ new version number
@@ -34,7 +35,19 @@
 
 ## Changelog
 ---1.3.0---  
+Added Vikings Weaponry - Johnskyrim  
 
+Removed [O] Synthesis - NPC Stat Rescaler  
+Removed [E] Rescaler - Skyrim Unbound Patch  
+Removed [E] IED Left Hand Meshes  
+Removed Nordic Round Shields (Viking shields)  
+
+Restructured Synthesis Outputs  
+Moved Open World Loot - Encounter Zone and Loot Overhaul to Late Loaders-separator  
+Moved OWL Randomized Special Loot  
+Moved Open World Loot - Better Civil War Reward Addon  
+Removed dependencies and cleaned masters from ElomRim CRP  
+Added new Synthesis patcher for OWL integration  
 
 
 
