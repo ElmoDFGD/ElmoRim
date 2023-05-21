@@ -1,7 +1,7 @@
 [{
 	"$type": "ModListMetadata, Wabbajack.Lib",
 	"title": "ElmoRim",
-	"description": "ElmoRim is for players who want to enhance their Skyrim experience without adding massive amounts of content or complex mechanics. A compact and performance-friendly list that offers improved visuals, modernized combat, and increased immersion. NO CC-MODS REQUIRED",
+	"description": "ElmoRim is for players who want enhanced visuals, combat and immersion with solid performance and minimal content additions.",
 	"author": "Elmo",
 	"maintainers": [
 		"github/elmoDFGD"
@@ -23,17 +23,17 @@
 		"$type": "Links, Wabbajack.Lib",
 		"image": "https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/media/ElmoRim_Sak_edit.png",
 		"readme": "https://github.com/ElmoDFGD/ElmoRim",
-		"download": "https://authored-files.wabbajack.org/ElmoRim.wabbajack_7e7ed453-80eb-486a-ac4d-270104a31a7d",
+		"download": "https://authored-files.wabbajack.org/ElmoRim.wabbajack_b706e3ae-56e4-40db-b36d-c9e9b7f15e89",
 		"machineURL": "ElmoRim",
 		"discordURL": "https://discord.gg/6gGVgDYnBW"
 	},
 	"download_metadata": {
-		"Hash": "2i0OzhFGD3c=",
-		"Size": 448575110,
+		"Hash": "A1LcJ4gc9Ds=",
+		"Size": 448575875,
 		"NumberOfArchives": 720,
 		"SizeOfArchives": 55159498386,
 		"NumberOfInstalledFiles": 123131,
-		"SizeOfInstalledFiles": 81201685474
+		"SizeOfInstalledFiles": 81201688513
 	},
-	"version": "1.2.0"  
+	"version": "1.2.1"  
 }] 
