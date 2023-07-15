@@ -1,27 +1,11 @@
 # ElmoRim Wabbajack Dev-Diary
 ## backlog
  
-* redo dyndolod + upload
-* update tools
-* evaluate AYOP Thane, remove misc tweaks houses & harder thaneships
-* evaluate ayop MG 2.0
-* evaluate Dragon war 3.0.2  
 * check OCPA updates
-* balance pilgrim blessing of akatosh & amulet of akatosh
-* Switch to vestige
-* evaluate Visibility and Azurite weathers  + mikhails reshade
-* Open Civil War??? https://www.palimptes.dev/ocw
-* easy wheel menu II
-* Shadow of Skyrim
-* Wait in tween menu
-* Ambiance after Embers XD
-* Tweak npc health settings
-* replace OWL patches w/ synthesis version
 * Video guide w/ biggie
-* reshade archives
-* background imagew
-* Mikhails script
-* Tweak nighteye
+* fxambbeamdust02.nif
+* bloodskaal wiki
+* remote int saveload wiki
 
 ## Version update checklist
 1. Re-compile w/ new version number
@@ -36,20 +20,254 @@
 ## Changelog
 ---1.3.0---  
 Added Vikings Weaponry - Johnskyrim  
+Added Mikhails Reshade for ElmoRim  
+Added [R] Reshade Shaders  
+Added TAA Deblur  
+Added Grass Sampler Fix  
+Added Visibility - Performance-Friendly Lighting Mod  
+Added Standard Lighting Templates  
+Added At Your Own Pace - Thane Overhaul  
+Added [E] WAAT - ArteFake Patch  
+Added Vikings Weaponry - Johnskyrim  
+Added Taunt Your Enemies - Taunting Matters  
+Added Remote Interactions  
+Added Remote Interactions - Settings Loader  
+Added Spaghetti's Towns - AIO  
+Added Azurite Weathers  
+Added True Storms Special Edition - Thunder Rain and Weather Redone  
+Added Vocaris - Conjuration Sounds Overhaul  
+Added Hibernus - Frost Magic Sounds Overhaul  
+Added Hyperion - Restoration Sounds Overhaul  
+Added See Time Remaining for Rested Effects  
+Added Wait Menu Redirected  
+Added Skyrim on Skooma  
+Added Wait I know You - Forcegreet Tweak  
+Added Skyrim Textures Upscaled - Complete Vanilla Upgrade  
+Added Immersive Hunting Overhaul  
+Added [E] Immersive Hunting Consistency Patch  
+Added Carriage and Ferry Travel Overhaul - Fixes and Winterhold
+Added R.A.S.S. - Rain Ash And Snow Shaders  
+Added Lawless - A Bandit Overhaul  
+Added Lawless Simonrim  
+Added Lawless Patch FOMOD  
+Added [E] ElmoRim OAR Configuration  
+Added Open Animation Replacer  
+Added Goetia Animations - Alternate Movement For All Staves  
+Added Weapon Styles - DrawSheathe Animations  
+Added Immersive Equipment Displays - Extra Skeleton Nodes  
+Added Dual Casting Fix  
+Added Screen-Space Shadows  
+Added Skóglendi - A Grass Mod  
+Added Realistic High Altitude Treeline  
+Added ADXP l MCO Imperium Animation Complete Pack OAR  
+Added Smooth Moveset - Grip fix  
+Added For Honor in Skyrim I Nobushi OAR  
+Added For Honor in Skyrim I Lawbringer OAR  
+Added Runic Mage Armor- Flesh Replacer 2  
+Added Simplicity of Sea  
+Added Water Effects Brightness and Reflection Fix  
+Added Grass FPS Booster  
+Added Complex Parallax Materials  
+Added Water Blending  
+Added Dynamic RaceMenu Interface Patcher - DRIP  
+Added RaceMenu - Untarnished UI Patch - DRIP Patch  
+Added DRIP - Untarnished UI  
+Added [NoDelete] Fishing  
+Added [NoDelete] Rare Curios  
+Added [NoDelete] Saints and Seducers  
+Added [NoDelete] Survival Mode  
+Added Rogue Master Detector  
+Added Inmortui - Undead SFX Replacer  
+Added Simple Dual Sheath - XPMSSE Left Hand Sheath Rotation Fix  
+Added Conditional Expressions Extended  
+Added Conditional Expressions Extended - Settings Loader  
+Added [E] Gameplay Fixes & Tweaks
+Addded SPID-ified - HDT-SMP for Cloaks and Capes  
+Added Spectris - Illusion SFX Overhaul  
+Added The Heart of Dibella - Quest Expansion  
+Added Survival Mode Prompt Removed  
+Added Fishing - Reduced Cut  
+Added Skyrim Extended Cut - Saints and Seducers  
+Added Some Standard Lighting Templates patches  
+Added CC Integration separator  
+Added MCO Universal Support  
+Added MCO Block Recovery  
 
 Removed [O] Synthesis - NPC Stat Rescaler  
 Removed [E] Rescaler - Skyrim Unbound Patch  
 Removed [E] IED Left Hand Meshes  
 Removed Nordic Round Shields (Viking shields)  
+Removed [E] OWL - Nordic Round Shield Patch  
+Removed [O] Synthesis - NPC Stat Rescaler  
+Removed [E] Rescaler - Skyrim Unbound Patch  
+Removed Imperium Combat Animations for Player No Locomotions  
+Removed College for Non-Mages  
+Removed Harder Thaneships - Globals Only  
+Removed Improved College Entry - Questline Tweaks  
+Removed WAAT Custom Artifact Patch  
+Removed Artifacts - The Tournament of the Ten Bloods (Goldbrand 2H Only)  
+Removed Bloodskal Blade - Tweaks and Enhancements - Reliquary of Myth Patch  
+Removed Modular Armory - Reliquary of Myth Patch  
+Removed Reliquary of Myth - Artifact Overhaul  
+Removed Nightsky via Silver  
+Removed Skyrim Textures Redone - Stars  
+Removed Cathedral Weathers MCM - Settings Loader  
+Removed Cathedral Weathers MCM  
+Removed Cathedral Weathers Unofficial Update   
+Removed Cathedral Weathers and Seasons  
+Removed Improved colors Reshade for Vanilla HDR   
+Removed [R] Reshade  
+Removed Vanilla HDR  
+Removed UpscalerBasePlugin  
+Removed Skyrim Upscaler - DLSS FSR2 XeSS  
+Removed Mundus USSEP patch  
+Removed unofficial performance optimized textures AKA (UPOT)  
+Removed Project Clarity AIO Half Res Loose  
+Removed Skygazer Moons SSE 2K - No Glow  
+Removed HD Quality Cubemaps  
+Removed Animated Armoury - Open World Addon  
+Removed Dynamic Animation Replacer  
+Removed [E] Draw 2 Addon - Axes on Back  
+Removed Draw 2 - Dual Weapon Equip-Unequip Animations  
+Removed Folkvangr - Grass and Landscape Overhaul  
+Removed Bears of the North  
+Removed Maximum Skeletons - Rougeshot  
+Removed SSE Parallax Shader Fix v1.0 (BETA)  
+Removed SSE Parallax Shader Fix v1.0 (BETA) - Parallax Terrain Addon Beta  
+Removed ADXP I MCO ER Spear Basic Animation (SCAR)  
+Removed Smart NPC Potions - Enemies Use Potions and Poisons - Settings Loader  
+Removed Realistic Halberd Poleaxe Animation(MCO SCAR)  
+Removed Community Shaders - Parallax  
+Removed Community Shaders - Enable Terrain Parallax  
+Removed Barenziah's Glory  
+Removed High Gate Ruins Puzzle Reset Fix  
+Removed Conditional Expressions - Subtle Face Animations - Settings Loader 
+Removed Inferno - Fire Effects Redux   
+Removed No Edge Glow - Magic and Transformations UPDATED ESL  
+Removed [E] Backpack Penalty Tweaks  
+Removed [E] Camping Lite Tweaks  
+Removed Miscellaneous Tweaks Collection - Realistic Animal Loot  
+Removed [E] ElmoRim Cloaks Lite  
+Removed Ghosu's Leviathan Axe - Retexture and Remodel by Akarsil  
+Removed God of War Leviathan Axe  
+Removed Dark Brotherhood Rising Revengeance  
+Removed Skeletons don't breathe SSE  
+Removed Player Spell Lighting - Mysticism Patch (now handled in the ElmoRim CRP)  
+Removed [E] Restore Crossbow Fire Sound  
+Removed Mount Anthor Dragon Fix  
+
+Updated At Your Own Pace - College of Winterhold to 2.0.1  
+Updated DynDOLOD Resources SE 3 to alpha-36  
+Updated DynDOLOD 3 to alpha-127  
+Updated Synthesis to 0.25.4  
+Updated xLODGen to beta-98  
+Updated Mundus - A Standing Stone Overhaul to 1.10.2    
+Updated Mysticism - A Magic Overhaul to 2.3.1  
+Updated Adamant - A Perk Overhaul to 5.8.3  
+Updated Aetherius - A Race Overhaul to 2.11.7  
+Updated Apothecary - An Alchemy Overhaul to 1.3.4  
+Updated Thaumaturgy - An Enchanting Overhaul to 1.3.3   
+Updated Hand to Hand - An Adamant Addon to 1.5.5  
+Updated Conditional Armor Type Animations to 1.3c  
+Updated Goetia Animations - Female Idle Walk And Run to 1.2c  
+Updated Goetia Animations - Male Idle Walk And Run to 1.3c    
+Updated Goetia Animations - Sprint to 1.0c
+Updated Leviathan Animations II - Female Idle Walk And Run to 2.3c  
+Updated Leviathan Animations II - Male Idle Walk And Run to 2.3c  
+Updated Leviathan Animations II - Sprint to 2.4c  
+Updated Vanargand Animations - Female Idle Walk and Run to 1.3c  
+Updated Vanargand Animations - Male Idle Walk and Run to 1.3c  
+Updated Vanargand Animations - Sprint to 1.3c  
+Updated Dynamic Random Spell Idle to 1.4  
+Updated Grass Lighting to 1.1.1  
+Updated Tree LOD Lighting to 1.0.1  
+Updated Community Shaders to 0.4.2  
+Updated Xenius Character Enhancement to 1.3  
+Updated Unofficial Skyrim Special Edition Patch to 4.2.9alpha  
+Updated Spell Perk Item Distributor to 6.6.1  
+Updated Payload Interpreter to 1.1  
+Updated Papyrus Ini Manipulator to 1.9.2  
+Updated ConsolePlusPlus 1.3  
+Updated Mannequin Management to 4.0  
+Updated Dragonactorscript infinite loop fix to 1.3.2  
+Updated Compass Navigation Overhaul to 1.2.1  
+Updated Clutter Filter for BTPS to 1.0.1  
+Updated Untarnished UI to 1.1.6
+Updated The Elder Scrolls Legends - Loading Screens to 2.1.1  
+Updated Keyboard Shortcuts Fix to 1.0.0.4  
+Updated Audio Overhaul for Skyrim SE to 4.1.3  
+Updated AOS - EBT Lite & True Storms Patch to 4.1.3  
+Updated Deadeye - Bow SFX to 1.2  
+Updated Infernorum - Fire Magic Sounds Overhaul to 1.0  
+Updated Fulminis - Shock Magic Sounds Overhaul to 1.0  
+Updated Hibernus - Frost Magic Sounds Overhaul to 1.0  
+Updated Yet Another Music Merge to 1.3  
+Updated Chapter II - Jeremy Soule Inspired Music to 3.2  
+Updated Assorted mesh fixes to 0.85  
+Updated DynDOLOD Resources SE 3 to alpha-37  
+Updated Simplicity of Snow to 0.12.1  
+Updated SkySight Skins - Ultra HD Male Textures and Real Feet Meshes (4K2K HIGH) to 1.1.0  
+Updated Dynamic Impact - Slash Effects X to 1.02  
+Updated Misc Dialogue Edits to 1.9.2  
+Updated Swiftly Order Squad - Simply Order Summons integration to 1.7  
+Updated Simply Order Summons to 0.11  
+Updated Remote Interactions to 1.02  
+Updated Simple Crossbow Integration (SPID) to 1.0.1  
+Updated Arena - An Encounter Zone Overhaul to 1.2  
+Updated Paarthurnax - Quest Expansion to 1.12  
+Updated At Your Own Pace - Companions to 3.0CP  
+Updated At Your Own Pace - Thieves Guild to 2.1.1TG  
+Updated At Your Own Pace - College of Winterhold to 2.1MG  
+Updated Sidequests of Skyrim to 0.8.2  
+Updated Precision Creatures to 2.3  
+Updated Maximum Skeletons D-Won Edition to 1.3  
+Updated Gesture Animation Remix (DAR) to 2.0  
+Updated NPC Animation Remix (DAR) to 1.5  
+Updated Skyrim Unbound Reborn to 2.0.5  
+Updated Community Shaders to 0.4.3  
+Updated TAA Sharpen to 1.0.1  
+Updated Grass Sampler Fix to 1.0.1  
+Updated Embers XD to 2.7.8  
 
 Restructured Synthesis Outputs  
+Configured IED mesh generator synthesis patch path   
 Moved Open World Loot - Encounter Zone and Loot Overhaul to Late Loaders-separator  
-Moved OWL Randomized Special Loot  
-Moved Open World Loot - Better Civil War Reward Addon  
+Moved OWL Randomized Special Loot  to Late Loaders-separator  
+Moved Open World Loot - Better Civil War Reward Addon  to Late Loaders-separator  
+Moved Arena - An Encounter Zone Overhaul to Lates Loaders-separator
 Removed dependencies and cleaned masters from ElomRim CRP  
-Added new Synthesis patcher for OWL integration  
+Added new Synthesis patcher for OWL integrations  
+Reset Wait to T key   
+Moved NordwarUA Scaled Armor to Equipment - Textures & Meshes-separator  
+Enabled TAA in skyrimprefs.ini  
+Deleted Misc Tweaks - More Expensive Player Homes.esp from Miscellaneous Tweaks Collection  
+Deleted Misc Tweaks - Night Eye Redux.esp from Miscellaneous Tweaks Collection  
+Renamed Miscellaneous Tweaks Collection to Miscellaneous Tweaks Collection - Realistic Animal Loot  
+Renamed Cities-separator to Cities & Towns  
+Deleted [E] College for Non Mages Tweaks from [E] Quest Fixes & Tweaks  
+Added [E] ElmoRim Pilgrim Consistency Patch.esp to [E] SimonRim Fixes & Tweaks  
+Cleaned upp the inlined files by deleting a bunch of logs  
+Reinstalled Untarnished UI w/o map markers to improve world map visibility  
+Deleted aMidianBorn Armor Variants Lite - OWL Patch.esp from aMidianborn Armor Variants Lite  
+Tweaked attack speeds for Animated Armory  
+Regenerated LOD
+Regenerated facegen
+Reverted to vanilla difficulty multipliers  
+Removed NPC Stats rescaler Synthesis patcher  
+Made crossbow steel/dwarven bolts craftable anywhere  
+Rebalanced Adamant Overpower & Overrun perks to fit with ElmoRim combat tempo  
+Renamed Cumulative fix for Eye Meshes - Alternate - Only black eye fix to Cumulative fix for Eye Meshes - Only black eye fix  
+Updated several [E]-patches  
+Updated ElmoRim CRP - Disables all form of Nighteye  
+Reinstalled Simple Crossbow Integration (SPID) since Rare Curios is now integrated with ElmoRim  
+Merged Andrealphus' Harder Quest-mods into single mod  
+Split Quests & Encounters-separator into separate separators  
+Moved Hand placed enemies - No Ambushes Version to Encounters separator  
 
 
+---1.2.1--  
+Switched xLODGen link    
+Updated modlist description  
 
 ---1.2.0---  
 Added Simple Crossbow Integration (SPID)  
