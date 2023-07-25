@@ -6,6 +6,12 @@
 * fxambbeamdust02.nif
 * bloodskaal wiki
 * remote int saveload wiki
+* Check vampire carry weight incremental injuries
+* Ownership flags and harvesting
+* unlock dravins bow
+* waterskin levelled lists
+* fast fx reshade 590
+
 
 ## Version update checklist
 1. Re-compile w/ new version number
@@ -18,11 +24,46 @@
 
 
 ## Changelog
----1.3.0---  
+---1.3.0RC2---  
+Added Enhanced Blood Textures    
+Added Dynamic Activation Key  
+Added No Edge Glow - Magic and Transformations UPDATED ESL  
+Added DPI Scaling Fix  
+Added DAR to OAR Converter  
+
+Removed Enhanced Blood Textures LITE  
+Removed Optional files for blood splatter sizes (LITE version ONLY)  
+Removed Animated Ingredients  
+Removed Animated Ingredients - Settings Loader  
+Removed Animated Poisons  
+Removed Animated Poisons - Settings Loader  
+  
+Updated Immersive Interactions - Animated Actions to 1.71  
+Updated Immersive Interactions - Legacy Settings Loader to 1.40  
+Updated Slim & Glamarye reshade shaders  
+Updated Reshade to 5.9.0  
+
+Switched EBT patches to Main variants  
+Increased carry weight to 200  
+Patched Bound Animated Armory weapon speeds  
+Regenerated Nemesis Output  
+Set Shadow Resolution to 1024 in skyrimprefs.ini  
+Enabled DOF in skyrimprefs.ini    
+Added NoStartingMapMarker Synthesis patcher  
+Removed Castle Dour map marker esp  
+Fixed duplicate Armors of the Velothi recipes
+Reinstalled Crossbow Integration  
+Replaced No map marker esp with Synthesis patcher  
+Regenerated Synthesis Output  
+Regenerated Nemesis Output  
+Converted ADXP I MCO ER Katana (SCAR) to OAR structure  
+
+  
+---1.3.0RC1---  
 Added Vikings Weaponry - Johnskyrim  
 Added Mikhails Reshade for ElmoRim  
 Added [R] Reshade Shaders  
-Added TAA Deblur  
+Added TAA Sharpen    
 Added Grass Sampler Fix  
 Added Visibility - Performance-Friendly Lighting Mod  
 Added Standard Lighting Templates  
