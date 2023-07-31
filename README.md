@@ -20,21 +20,19 @@
     - [Game folder](#game-folder)
     - [Antivirus exceptions](#antivirus-exceptions)
     - [Compatibility settings](#compatibility-settings)
-    - [Configure upscaling](#configure-upscaling)
     - [Optional: Gamepad support](#optional-gamepad-support)
     - [Optional: Widescreen support](#optional-widescreen-support)
   - [Playing the list](#playing-the-list)
     - [Starting the game](#starting-the-game)
     - [MCM configuration](#mcm-configuration)
   - [FAQ](#faq)  
-    - [Q: I get CTD when starting the game](#q-i-get-ctd-when-starting-the-game)
     - [Q: The equipment widget is poorly positioned](#q-the-equipment-widget-is-poorly-positioned)
     - [Q: What madman uses this control scheme?](#q-what-madman-uses-this-control-scheme)
     - [Q: BUG!](#q-bug)
     - [Q: I can't level up, what do I do?](#q-i-cant-level-up-what-do-i-do)
     - [Q: How do I start the main questline?](#q-how-do-i-start-the-main-questline)
     - [Q: When do dragons start spawning?](#q-when-do-dragons-start-spawning)
-    - [Q: How do I become the thane of Whiterun? How do I get Lydia?](#q-how-do-i-become-the-thane-of-whiterun-how-do-i-get-lydia)
+    - [Q: How do I become the thane of Whiterun?](#q-how-do-i-become-the-thane-of-whiterun)
     - [Q: How do I enable my crosshair?](#q-how-do-i-enable-my-crosshair)
   - [Removing the modlist](#removing-the-modlist)
   - [Contact](#contact)
@@ -52,10 +50,10 @@ This readme provides instructions for installing and configuring ElmoRim. A deta
 ElmoRim consists of around 650 mods. This overview provides an idea of what to expect from the list.
 |    Feature    |                                     Core Mods                                             |  
 |     :---:     |                                      :---:                                                |  
-| **Visuals**   | Skyland AIO w/ parallax, Modular Armory, Cathedral weathers, Reshade, Complex grass       |    
-| **Combat**    | MCO, Valhalla, Precision, Valravn, Hand Placed Enemies                                    |  
+| **Visuals**   | Skyland AIO w/ parallax, Modular Armory, Azurite Weathers, Reshade, Community Shaders     |    
+| **Combat**    | MCO, Valhalla, Precision, Hand Placed Enemies                                             |  
 | **Gameplay**  | SimonRim, Experience, ElmoRim Lite Needs*                                                 |  
-| **Quests**    | Skyrim Unbound, JaySerpa's Quest Expansion-series, At Your Own Pace, College For Non-Mages|  
+| **Quests**    | Skyrim Unbound, JaySerpa's Quest Expansion-series, At Your Own Pace                       |  
 | **Immersion** | Immersive interactions, EVG Animated Traversal, Animated Eating Redux                     |  
 | **Audio**     | AOS, ISC, Regional Sounds Expansion, Yet Another Music Merge                              |  
 |   **UI**      | Untarnished UI, BTPS, Lamas Tiny HUD                                                      |  
@@ -91,11 +89,10 @@ The list was developed on an upper-mid tier laptop with the following specs:
 | **Storage**     |        SSD          |  
 
 With these specs the game runs at 60fps@1440p.
-> ElmoRim uses the [Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343). This feature requires a DX12-compatible card. Users with [potato](#configure-upscaling) cards need to use TAA instead. 
 
 Recommendations on how to tweak the balance between visual quality and performance are provided [in the wiki](https://github.com/ElmoDFGD/ElmoRim/wiki/Welcome-to-the-ElmoRim-wiki#tweaking-the-game-settings).
 
-Modlist size: 127 GB (of which ~50 GB are downloads)
+Modlist size: Ca 150 GB including downloads.  
 
 ### Software setup 
 The first step of installing ElmoRim is making sure all required software is installed and that Steam is configured correctly.
@@ -259,35 +256,6 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
  </details>
 
 
- ### Configure upscaling
-Upscaling needs to be configured to match the upscaling method used by different GPUs.
-
-#### Nvidia RTX cards
- Users with Nvidia RTX 20-series or higher can use the default DLSS upscaling method of ElmoRim.  
-
-#### AMD, Intel and Nvidia GTX cards
-Users with non RTX-cards that support DX12 can use optional upscaling methods. Perform the following steps:
-
-<details>
-  <summary><strong>Click here to see required steps</strong></summary> 
-  
-- Open up *SkyrimUpscaler.ini* in the mod *Skyrim Upscaler*.
-- Set mUpscaleType to 1 for FSR2 or 2 for XeSS.
-</details>  
-
-#### Potato cards
-Users with cards that don't support DX12 need to rely on Skyrims native anti-aliasing. Perform the following steps:
-
-<details>
-  <summary><strong>Click here to see required steps</strong></summary> 
-
-- Disable the mods *UpscalerBasePlugin* and *Skyrim Upscaler* under the Framework-separator.
-- Open BethINI.
-- Under *Basic>Antialiasing*: Choose *TAA*.
-- Press `Save and Exit`.
-</details>  
-  
-
 ### Optional: Gamepad support
 ElmoRim features mods that provide gamepad support. Activate the corresponding mods under the **Ultrawide & Gamepad Support** separator and complete the following steps:
 
@@ -367,13 +335,9 @@ In addition to the mandatory settings, several optional tweaks are available:
   <summary><strong>Click here to see optional MCM Tweaks</strong></summary>
 
 
-##### AYOP - College of Winterhold
-Non-mages looking to access Saarthal and the Archmages quarters should make the following changes:
-- Starting Requirements>First Lessons: Set to 0
-- Starting Requirements>Under Saarthal: Set to 0
+##### AYOP mods
 
 ##### Cathedral Weather
-Configure night brightness under *Settings>Lighting>Nocturnal Sight*.
 
 ##### One Click Power Attack
 Set key for power attacks by configuring *ForceRightKey*. Default: `MB4`.
@@ -382,7 +346,7 @@ Set key for power attacks by configuring *ForceRightKey*. Default: `MB4`.
 ##### Swiftly Order Squad
 Configure Hotkeys for summoning, opening follower inventory etc. Default: `B`
 
-##### Draw 2
+##### Weapon Styles - DrawSheathe Animations
 Configure equipping animations. 
 
 <details>
@@ -460,10 +424,6 @@ Updating is like installing the list. Simply check that the file paths are the s
 
 ## FAQ 
 
-#### Q: I get CTD when starting the game.
-
-A: You have a [potato](#configure-upscaling) graphics card. Follow the link for instructions on how to fix this.
-
 #### Q: The equipment widget is poorly positioned.
 
 A: Check the [widescreen](#optional-widescreen-support) section. Configure LamasTinyHud. 
@@ -485,8 +445,8 @@ A: If you have chosen to be Dragonborn in the Skyrim Unbound MCM settings, then 
 #### Q: When do dragons start spawning?  
 A: By default, dragons are set to be delayed in their spawns from 7 to 21 days after you leave the starting room. By default, dragons will begin showing up at their Word Walls before you will encounter them in the wild.
 
-#### Q: How do I become the Thane of Whiterun? How do I get Lydia?  
-A: Complete [The Blessings of Nature](https://en.uesp.net/wiki/Skyrim:The_Blessings_of_Nature). When some time has passed the Gildergreen tree will be repaired/the sappling bloomed. Now you can talk to Jarl Balgruuf, he'll thank you and allow you to buy the Breezehome. The standard thaneship quest (help people of the hold and buy a house to become a thane) will then become available.
+#### Q: How do I become the Thane of Whiterun?  
+A: Which quests are required to become Thane can be configured in the Skyrim Unbound MCM.  
 
 #### Q: How do I enable my crosshair?
 A: Disable the [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980) mod, under the *Interface* separator in MO2.

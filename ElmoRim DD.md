@@ -10,7 +10,9 @@
 * Ownership flags and harvesting
 * unlock dravins bow
 * waterskin levelled lists
-* fast fx reshade 590
+* Ai overhaul lite + spid protection
+* Dragon war -> Deadlier dragons
+* Update FWMF
 
 
 ## Version update checklist
@@ -24,6 +26,52 @@
 
 
 ## Changelog
+---1.4.0---
+
+-Added-  
+Update for Skuldafn Paper Map for FWMF  
+
+-Removed- 
+  
+-Updated-  
+Simplicity of Sea to 0.6.0  
+Community Shaders to 0.5.0  
+Grass Lighting to 1.2  
+Grass Collision to 1.0.2  
+Screen-Space Shadows to 1.0.1  
+Immersive Interactions - Animated Actions to 1.72  
+Flat World Map Framework to 1.87  
+Paper Skyrim and Solstheim World Maps by Mirhayasu for FWMF to 1.73
+Forgotten Vale Paper Map for FWMF to 1.8  
+Soul Cairn Paper Map for FWMF to 1.8  
+
+
+-Tweaks & Settings-  
+Removed waterskins from levelled lists  
+Regenerated Synthesis Output  
+Added Roll of Paper to merchants   
+Merged SSE Display Tweaks config with main mod  
+Renamed SKSE Scripts to [R] SKSE 
+Added SKSE.ini
+Cleaned up root folder - moved CK files to [R] CK - Fixes  and SKSE files to [R] SKSE  
+Renamed [R] CK - Fixes to [R] Creation Kit Fixes & ini files  
+Renamed CK - Source to Creation Kit - Source & Dialogue Views 
+Moved Quick Light SE Alternate Meshes to Gameplay-separator  
+Moved RaceMenu to Appearance-separator   
+Deleted all Dragon War patches and tweaks  
+Merged Dayspring Canyon map marker mod w/ main file  
+Rebuilt Stock Game folder to fix creations not being recognised properly  
+Disabled DOF  
+
+---1.3.0RC3---
+
+-Tweaks & Settings-  
+Changed layout of changelog  
+Switched version of glamarye shader  
+Enabled Parallax setting in Community Shaders  
+ 
+
+
 ---1.3.0RC2---  
 Added Enhanced Blood Textures    
 Added Dynamic Activation Key  
