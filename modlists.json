@@ -10,7 +10,6 @@
 	"tags": [
 		"Compact",
 		"Performance",
-		"NO-CC",
 		"Combat",
 		"Visuals",
 		"Immersion"
@@ -18,22 +17,22 @@
 	],
 	"nsfw": false,
 	"image_contains_title": false,
-	"force_down": true,
+	"force_down": false,
 	"links": {
 		"$type": "Links, Wabbajack.Lib",
 		"image": "https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/media/ElmoRim_Sak_edit.png",
 		"readme": "https://github.com/ElmoDFGD/ElmoRim",
-		"download": "https://authored-files.wabbajack.org/ElmoRim.wabbajack_b706e3ae-56e4-40db-b36d-c9e9b7f15e89",
+		"download": "https://authored-files.wabbajack.org/ElmoRim.wabbajack_2de4b770-8e3b-4e59-bed3-880dcf07bb7e",
 		"machineURL": "ElmoRim",
 		"discordURL": "https://discord.gg/6gGVgDYnBW"
 	},
 	"download_metadata": {
-		"Hash": "A1LcJ4gc9Ds=",
-		"Size": 448575875,
-		"NumberOfArchives": 720,
-		"SizeOfArchives": 55159498386,
-		"NumberOfInstalledFiles": 123131,
-		"SizeOfInstalledFiles": 81201688513
+		"Hash": "zk4XXiNZYGA=",
+		"Size": 184573813,
+		"NumberOfArchives": 747,
+		"SizeOfArchives": 59622410076,
+		"NumberOfInstalledFiles": 109463,
+		"SizeOfInstalledFiles": 102944156881
 	},
-	"version": "1.2.1"  
+	"version": "1.3.0"  
 }] 
