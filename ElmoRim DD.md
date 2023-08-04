@@ -5,7 +5,6 @@
 * Video guide w/ biggie
 * fxambbeamdust02.nif
 * bloodskaal wiki
-* remote int saveload wiki
 * Check vampire carry weight incremental injuries
 * Ownership flags and harvesting
 * unlock dravins bow
@@ -13,6 +12,7 @@
 * Ai overhaul lite + spid protection
 * Dragon war -> Deadlier dragons
 * Update FWMF
+* reinstall ssos
 
 
 ## Version update checklist
@@ -30,6 +30,7 @@
 
 -Added-  
 Update for Skuldafn Paper Map for FWMF  
+Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE)  
 
 -Removed- 
   
@@ -62,6 +63,8 @@ Deleted all Dragon War patches and tweaks
 Merged Dayspring Canyon map marker mod w/ main file  
 Rebuilt Stock Game folder to fix creations not being recognised properly  
 Disabled DOF  
+Merged Scrambled Bugs - Soul Gem Too Small w/ main file  
+Reinstalled Simple Smithing Overhaul Simplified  
 
 ---1.3.0RC3---
 
