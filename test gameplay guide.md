@@ -36,8 +36,9 @@ ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim
 
 * ElmoRim features mods that support playing with a controller, [Custom Gamepad Control Map](https://www.nexusmods.com/skyrimspecialedition/mods/16057) provides a base setup for users to configure.
 
+> Non-vanilla keybinds in blue  
 >Abbreviations:
-> LTH = Lamas Tiny HUD
+> LTH = Lamas Tiny HUD  
 > SOS = Simply Order Squad
   
  ![Keyboard](https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/1.4.0/media/keyboard-layout.jpg)
