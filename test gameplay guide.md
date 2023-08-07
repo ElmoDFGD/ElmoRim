@@ -40,9 +40,9 @@ ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim
 > LTH = Lamas Tiny HUD
 > SOS = Simply Order Squad
   
- ![Keyboard](https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/media/ElmoRim%20Keyboard.jpg)
+ ![Keyboard](https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/1.4.0/media/keyboard-layout.jpg)
   
-![Mouse](https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/media/ElmoRim%20Mouse.png)
+![Mouse](https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/1.4.0/media/ElmoRim140%20Mouse.png)
 
   >Mouse button layout may differ between systems and need to be reconfigured. This can be done in-game for all actions except power attacks:
   >
