@@ -34,6 +34,8 @@ The ElmoRim keyboard control scheme might seem a bit unorthodox at a glance. It 
 > Abbreviations:  
 > LTH = Lamas Tiny HUD  
 > SOS = Swiftly Order Squad  
+> OAR = Open Animation Replacer  
+> IED = Immersive Equipment Displays  
   
 ![Mouse](https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/1.4.0/media/ElmoRim140%20Mouse.png)
 
