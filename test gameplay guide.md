@@ -112,7 +112,7 @@ ElmoRim does not bring any massive new quest mods to Skyrim. Instead the list im
 ## What I wish I knew when I first played ElmoRim
 ***GET OP EARLY ESSENTIAL BEGINNERS TIPS ONE SHOT GUIDE***
 
-In all seriousness, ElmoRim plays pretty close to vanilla and this wiki accounts for any notable differences. However it always helps to have a plan when starting a new playthrough.
+In all seriousness, ElmoRim plays pretty close to vanilla and this guide accounts for any notable differences. However it always helps to have a plan when starting a new playthrough.
 
  1. Craft a Camping Kit ASAP.
 * 2 x Iron Ingot
