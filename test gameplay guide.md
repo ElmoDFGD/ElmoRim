@@ -31,6 +31,7 @@ The ElmoRim keyboard control scheme might seem a bit unorthodox at a glance. It 
 > Abbreviations  
 > LTH = Lamas Tiny HUD  
 > SOS = Swiftly Order Squad  
+  
 ![Mouse](https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/1.4.0/media/ElmoRim140%20Mouse.png)
 
   >* Hotkeys 1-4 are dedicated to managing equip sets. F1-F4 + 5-8 allows binding favorites the same way as in vanilla. Read more [below](#lamas-tiny-hud).
