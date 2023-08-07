@@ -24,11 +24,11 @@ ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim
 ### ElmoRim Control scheme
 The ElmoRim keyboard control scheme might seem a bit unorthodox at a glance. It is inspired by the excellent [Streamlined Skyrim](https://github.com/TerribleBrad/Streamlined-Skyrim/blob/main/README.md) modlist and offers a compact layout. While it certainly can be modified, it is recommended that users give it a try. Much thought has gone into tweaking the controls to allow quick and easy access to all necessary actions.  
 
-
+#### Keyboard and mouse
 ![Keyboard](https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/1.4.0/media/keyboard-layout.jpg)  
 >  Non-vanilla keybinds in blue.  
 >    
-> Abbreviations  
+> Abbreviations:  
 > LTH = Lamas Tiny HUD  
 > SOS = Swiftly Order Squad  
   
@@ -43,8 +43,8 @@ The ElmoRim keyboard control scheme might seem a bit unorthodox at a glance. It 
   >* The Wait command can only be triggered inside the Tween menu.
   >* Disclaimer: Keybinds may differ due to keyboard and mouse layout.
 
+#### Gamepad
 ElmoRim features mods that support playing with a controller, [Custom Gamepad Control Map](https://www.nexusmods.com/skyrimspecialedition/mods/16057) provides a base setup for users to configure.
-
 
 #### Lamas Tiny Hud
 The combat in ElmoRim is a lot more fast paced than vanilla Skyrim. This means a new system for smoothly switching between sets of weapons/spells/powers on the fly is needed. [Lamas Tiny Hud](https://www.nexusmods.com/skyrimspecialedition/mods/82545) is compact, responsive and easy to configure.
@@ -53,7 +53,7 @@ The combat in ElmoRim is a lot more fast paced than vanilla Skyrim. This means a
 
  > Pro tip: Support spells such as Oakflesh are excellent candidates for the top slot. This frees up space in the Left/Right slots, allowing for a better experience when switching mid-combat.
 
-  ### ElmoRim Combat 
+### ElmoRim Combat 
 ElmoRim comes with all the bells and whistles in this department. 
 * [Attack - MCO|DXP](https://www.skyrim-guild.com/mods/attack) creates a smooth flow by adding movement to all attack animations. 
 * [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347) provides a sense of impact by fixing hitboxes, adding weapon trails and implementing hitstop animations.
@@ -162,7 +162,7 @@ If an error/weird behavior/poor performance is encountered that can't be reprodu
 All user setups are different, sometimes certain mods simply don't play nice for some users. To identify what mods are causing issues, perform the following steps:
 1. Create a new profile in MO2
 2. Disable all mods **EXCEPT Skyrim Textures Upscaled - Complete Vanilla Upgrade**
-3. Run a Clear-command via the Root Builder plugin
+3. Run a Clear-command via the Root Builder plugin  
 ![RootClear](https://github.com/ElmoDFGD/ElmoRim/blob/main/media/RootClear.png?raw=true) 
 4. Empty the MO2 Overwrite folder
 5. Launch the ElmoRim executable
