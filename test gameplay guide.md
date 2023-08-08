@@ -58,8 +58,12 @@ The combat in ElmoRim is a lot more fast paced than vanilla Skyrim. This means a
 
  > Pro tip: Support spells such as Oakflesh are excellent candidates for the top slot. This frees up space in the Left/Right slots, allowing for a better experience when switching mid-combat.
 
+ #### Wheeler
+ [Wheeler](https://www.nexusmods.com/skyrimspecialedition/mods/97345) adds a GTA V style wheel menu to Skyrim that allows binding spells, gear, potions etc. for quick and easy access. Default key: `MB3`
+
 ## Gameplay
 ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim should be able to jump right in and start playing after reading about the mods listed below.
+
 
 ### ElmoRim Combat 
 ElmoRim comes with all the bells and whistles in this department. 
