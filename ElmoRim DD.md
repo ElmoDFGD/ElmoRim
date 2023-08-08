@@ -27,7 +27,7 @@
 
 ## Changelog
 ---1.4.0---
-
+1
 -Added-  
 Update for Skuldafn Paper Map for FWMF  
 Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE)  
