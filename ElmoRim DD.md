@@ -1,18 +1,18 @@
 # ElmoRim Wabbajack Dev-Diary
 ## backlog
  
-* check OCPA updates
 * Video guide w/ biggie
-* fxambbeamdust02.nif
 * bloodskaal wiki
 * Check vampire carry weight incremental injuries
 * Ownership flags and harvesting
-* unlock dravins bow
-* waterskin levelled lists
-* Ai overhaul lite + spid protection
+* test waterskin levelled lists
+* Ai overhaul lite
 * Dragon war -> Deadlier dragons
-* Update FWMF
-* reinstall ssos
+* Black star truehud loot prompt
+* scroll lockpick wiki tips
+* autorun 
+* walk run fix
+
 
 
 ## Version update checklist
