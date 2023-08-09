@@ -12,6 +12,7 @@
 * scroll lockpick wiki tips
 * autorun 
 * walk run fix
+* companions skjor instead of farkas radiant
 
 
 
