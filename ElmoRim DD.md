@@ -5,14 +5,11 @@
 * bloodskaal wiki
 * Check vampire carry weight incremental injuries
 * Ownership flags and harvesting
-* test waterskin levelled lists
 * Ai overhaul lite
 * Dragon war -> Deadlier dragons
-* Black star truehud loot prompt
-* scroll lockpick wiki tips
-* autorun 
-* walk run fix
-* companions skjor instead of farkas radiant
+* scroll lockpick wiki tips + adept lock to levelled lists
+* linked crafting wiki
+
 
 
 
@@ -32,6 +29,40 @@
 -Added-  
 Update for Skuldafn Paper Map for FWMF  
 Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE)  
+Skyrim Priority SE AE - skse plugin  
+RemoveAllItems Freeze Fix  
+Dynamic Collision Adjustment  
+Save Unbaker  
+Vanilla Script (micro)Optimizations  
+Vanilla Scripting Enhancements  
+OnMagicEffectApply Replacer  
+Kill Camera Misalignment Fix  
+Sprint Sneak Movement Speed Fix  
+Edmond's Ill Met By Moonlight - Hung Quest - Pathing Bug Fix  
+Zero Bounty Hostility Fix  
+NPC Stuck in Bleedout fix  
+Stuck on Screen Load Door Prompt Fix  
+Unaggressive Dragon Priests Fix  
+Buy and Sell Torches - Bug Fix  
+Disable Annoying Werewolf Killmove  
+Run For Your Lives  
+dMenu  
+Untarnished UI DIP  
+Dynamic Activation Key - MCM  
+Dynamic Activation Key - Addons Collection  
+Wheeler - Quick Action Wheel Of Skyrim  
+Wheeler - Untarnished UI Edit  
+Linked Crafting Storage  
+Marked Treasure SSE  
+Animated Forge Water  
+Ambient Bird Sounds Expanded (SRD)  
+Enhanced Blood Textures LITE  
+[E] Dynamic HDR for Night Eye Effects  
+Simple Horse SE  
+(Super Fast) Immersive Animated Looting  
+Eating Animations and Sounds SE  
+Apothecary Food and Drink Addon - Eating Animations and Sounds Patch  
+
 
 -Removed- 
   
@@ -66,6 +97,8 @@ Rebuilt Stock Game folder to fix creations not being recognised properly
 Disabled DOF  
 Merged Scrambled Bugs - Soul Gem Too Small w/ main file  
 Reinstalled Simple Smithing Overhaul Simplified  
+Moved MCM Helper to Framework-separator  
+Reinstalled Skyrim Landscape and Water Fixes to fix harvest flags  
 
 ---1.3.0RC3---
 
