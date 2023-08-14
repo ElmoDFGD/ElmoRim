@@ -22,7 +22,14 @@
 
 
 # The Hitchhikers Guide To ElmoRim
+Welcome to the ElmoRim gameplay guide! This document aims to provide the reader with a complete account of any differences between the mechanics in vanilla Skyrim and those present in ElmoRim. 
 
+TLDR;
+
+* The Experience mod and the control scheme are the biggest difference. 
+* Combat is built around MCO. 
+* No new quests but plenty of QoL and consistency tweaks, mainly from AYOP.
+* Some unintrusive survival elements.
 
 ## Controls
 The ElmoRim keyboard control scheme might seem a bit unorthodox at a glance. It is inspired by the excellent [Streamlined Skyrim](https://github.com/TerribleBrad/Streamlined-Skyrim/blob/main/README.md) modlist and offers a compact layout. While it certainly can be modified, it is recommended that users give it a try. Much thought has gone into tweaking the controls to allow quick and easy access to all necessary actions.  
@@ -69,7 +76,8 @@ ElmoRim is centered around vanilla content. As such, anyone familiar with Skyrim
 ElmoRim comes with all the bells and whistles in this department. 
 * [Attack - MCO|DXP](https://www.skyrim-guild.com/mods/attack) creates a smooth flow by adding movement to all attack animations. 
 * [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347) provides a sense of impact by fixing hitboxes, adding weapon trails and implementing hitstop animations.
-* [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741) overhauls Stamina management to encourage a high paced playstyle. It also features an unparallelled timed block function and and a stun/execute system.  
+* [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741) overhauls Stamina management to encourage a high paced playstyle. 
+* [Sekiro Combat S](https://www.nexusmods.com/skyrimspecialedition/mods/79206) gives combat that added oomph with a very satisfactory overhaul to blocking. The timed block features have been modified to mirror the mechanics of Valhalla combat e.g. a timed block restores restores the player to full stamina.
 * [One Click Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/60878) introduces a separate key for performing power attacks, giving the player control over what happens and when. Default key: `MB4`
 * [SCAR - Skyrim Combos AI Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/72014) makes enemies use attacks in the same way that MCO does for the player.
 * [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956) adds dodging. 
