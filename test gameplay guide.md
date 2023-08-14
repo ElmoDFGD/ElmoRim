@@ -25,6 +25,7 @@
 Welcome to the ElmoRim gameplay guide! This document aims to provide the reader with a complete account of any differences between the mechanics in vanilla Skyrim and those present in ElmoRim. 
 
 TLDR;
+> Consider the TLDR a summary. [RTFM](https://en.wikipedia.org/wiki/RTFM) still applies.
 
 * The Experience mod and the control scheme are the biggest difference. 
 * Combat is built around MCO. 
@@ -89,7 +90,7 @@ One goal of ElmoRim is to increase immersion without adding complexity. To this 
 #### Sleep
 The mod [Incremental Injuries](https://www.nexusmods.com/skyrimspecialedition/mods/55114) introduces the need to sleep organically by reducing max Magicka/Health/Stamina as they are spent. They are restored by sleeping 6+ hours in-game. 
 
-  >By default, ElmoRim also uses the mods [Incremental Gains](https://www.nexusmods.com/skyrimspecialedition/mods/67270) which increase max Magicka/Health/Stamina by a small amount each time the player sleeps. The attributes increase proportionally to how much they were reduced before sleeping. 
+  >By default, ElmoRim also uses the mod [Incremental Gains](https://www.nexusmods.com/skyrimspecialedition/mods/67270) which increase max Magicka/Health/Stamina by a small amount each time the player sleeps. The attributes increase proportionally to how much they were reduced before sleeping. 
   >
   >The [Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/82558) replaces the vanilla attribute progression. No attributes increase upon levelling up.
   >
