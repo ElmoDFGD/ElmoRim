@@ -4,14 +4,31 @@
 * Video guide w/ biggie
 * bloodskaal wiki
 * Check vampire carry weight incremental injuries
-* Ownership flags and harvesting
 * Ai overhaul lite
 * Dragon war -> Deadlier dragons
-* scroll lockpick wiki tips + adept lock to levelled lists
+* scroll lockpick wiki tips
 * linked crafting wiki
+* eating animation patch bread
+* soft shadows settings
 
 
+## DynDOLOD update checklist
+1. Clear DynDOLOD folder
+2. Extract DynDOLOD into folder
+3. Set TreeLODComplexAtlas=1 & Expert = 1 in DynDOLOD_SSE.ini
+4. Set TreeNormalMaps=1 in TexGen_SSE.INI  
+5. Setup new profile w/ Optimal setting from Happy Little Trees DynDOLOD addon   
 
+
+## Restore MO2 instance checklist
+1. Backup Plugins. Mods, Tools, Profiles & Downloads
+2. Extract MO2
+3. Create Game Root folder
+4. Downgrade Skyrim
+5. Downgrade CK
+6. Start & close MO2
+7. Move backup to MO2 folder
+8. Setup shortcuts
 
 ## Version update checklist
 1. Re-compile w/ new version number
@@ -64,7 +81,10 @@ Eating Animations and Sounds SE
 Apothecary Food and Drink Addon - Eating Animations and Sounds Patch  
 
 
+
 -Removed- 
+[O] SSEEdit Output  
+[O] Creation Kit Output  
   
 -Updated-  
 Simplicity of Sea to 0.6.0  
@@ -77,11 +97,43 @@ Flat World Map Framework to 1.87
 Paper Skyrim and Solstheim World Maps by Mirhayasu for FWMF to 1.73
 Forgotten Vale Paper Map for FWMF to 1.8  
 Soul Cairn Paper Map for FWMF to 1.8  
+Embers XD to 2.8.5  
+powerofthree's Papyrus Extender to 5.6.1  
+Base Object Swapper to 2.6.0  
+RemoveAllItems Freeze Fix to 1.1  
+Papyrus Ini Manipulator to 1.9.3  
+Instantly Skip Dialogue NG to 1.1  
+Soft Shadows to 2.0
+Keyword Item Distributor to 3.0.3  
+Assorted mesh fixes to 0.90  
+Animated Forge Water to 0.7.3  
+Skyland AIO to 4.2  
+Simplicity of Snow to 0.12.2  
+Azurite Weathers to 1.87  
+Incremental Gains to 1.1.2  
+Experience to 3.2.0  
+Swiftly Order Squad - Simply Order Summons integration to 1.7.1  
+Civil War Lines Expansion to 1.07  
+Mysticism - A Magic Overhaul to 2.3.2  
+Aetherius - A Race Overhaul to 2.11.8  
+Mundus - A Standing Stone Overhaul to 1.11  
+CBPC - Physics with Collisions to 1.5.8  
+Immersive Equipment Displays to 1.7  
+Antiquary - Enhanced Artifacts to 2.3.2  
+The Only Cure - Quest Expansion to 1.02  
+House of Horrors - Quest Expansion to 1.11  
+Weapon Styles - DrawSheathe Animations to 2.3  
+Conditional Expressions Extended to 1.4.5  
+Conditional Expressions Extended - Settings Loader to 1.5.0  
+MCO Block Recovery to 1.0.1  
+Synthesis to 0.26  
 
 
 -Tweaks & Settings-  
 Removed waterskins from levelled lists  
-Regenerated Synthesis Output  
+Regenerated Synthesis Output    
+Regenerated Nemesis Output    
+Regenerated LODs  
 Added Roll of Paper to merchants   
 Merged SSE Display Tweaks config with main mod  
 Renamed SKSE Scripts to [R] SKSE 
@@ -99,7 +151,11 @@ Merged Scrambled Bugs - Soul Gem Too Small w/ main file
 Reinstalled Simple Smithing Overhaul Simplified  
 Moved MCM Helper to Framework-separator  
 Reinstalled Skyrim Landscape and Water Fixes to fix harvest flags  
-
+Rebuilt MO2 instance from scratch to fix CK bUseVersionControl message  
+Changed MO2 theme  
+Set TreeNormalMaps=1 in TexGen_SSE.INI  
+Set TreeLODComplexAtlas=1 in DynDOLOD_SSE.ini  
+Updated DynDOLOD Resources SE 3 to alpha 38  
 ---1.3.0RC3---
 
 -Tweaks & Settings-  
