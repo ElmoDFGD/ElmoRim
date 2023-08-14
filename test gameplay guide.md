@@ -81,7 +81,7 @@ ElmoRim comes with all the bells and whistles in this department.
 * [One Click Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/60878) introduces a separate key for performing power attacks, giving the player control over what happens and when. Default key: `MB4`
 * [SCAR - Skyrim Combos AI Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/72014) makes enemies use attacks in the same way that MCO does for the player.
 * [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956) adds dodging. 
-* [Elden Counter](https://www.nexusmods.com/skyrimspecialedition/mods/65579) Adss the ability to perform a counter attack after blocking a hit, akin to Elden Rings guard counter. Simply press the power attack button after a successful block.
+* [Elden Counter](https://www.nexusmods.com/skyrimspecialedition/mods/65579) Adds the ability to perform a counter attack after blocking a hit, akin to Elden Rings guard counter. Simply press the power attack button after a successful block.
 
 ### ElmoRim Lite Needs
 One goal of ElmoRim is to increase immersion without adding complexity. To this end, ElmoRim comes with a unique setup for survival elements, seamlessly integrated into the general gameplay. 
