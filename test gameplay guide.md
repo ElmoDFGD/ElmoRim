@@ -89,9 +89,9 @@ One goal of ElmoRim is to increase immersion without adding complexity. To this 
 #### Sleep
 The mod [Incremental Injuries](https://www.nexusmods.com/skyrimspecialedition/mods/55114) introduces the need to sleep organically by reducing max Magicka/Health/Stamina as they are spent. They are restored by sleeping 6+ hours in-game. 
 
-  >By default, ElmoRim also uses the mods [Incremental Gains](https://www.nexusmods.com/skyrimspecialedition/mods/67270) & [Hardcore Level Up - Incremental Gains Addon](https://www.nexusmods.com/skyrimspecialedition/mods/72741) which increase max Magicka/Health/Stamina by a small amount each time the player sleeps. The attributes increase proportionally to how much they were reduced before sleeping. 
+  >By default, ElmoRim also uses the mods [Incremental Gains](https://www.nexusmods.com/skyrimspecialedition/mods/67270) which increase max Magicka/Health/Stamina by a small amount each time the player sleeps. The attributes increase proportionally to how much they were reduced before sleeping. 
   >
-  >This replaces the vanilla attribute progression. Selecting an attribute upon levelling up will now only increase that attribute by one point.
+  >The [Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/82558) replaces the vanilla attribute progression. No attributes increase upon levelling up.
   >
   >These two mods can be disabled if the vanilla system is preferred.
 
