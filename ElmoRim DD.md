@@ -8,7 +8,6 @@
 * Dragon war -> Deadlier dragons
 * scroll lockpick wiki tips
 * linked crafting wiki
-* eating animation patch bread
 * soft shadows settings
 
 
@@ -78,14 +77,81 @@ Enhanced Blood Textures LITE
 Simple Horse SE  
 (Super Fast) Immersive Animated Looting  
 Eating Animations and Sounds SE  
-Apothecary Food and Drink Addon - Eating Animations and Sounds Patch  
+Unofficial Eating Animations and Sounds Keyword Patches - Apothecary  
+Windhelm Docks  
+Shadow Boost  
+Essential Favorites  
+Favorite Misc Items  
+DynDOLOD DLL NG  
+Skyland Bits and Bobs - A Clutter Overhaul  
+Simplicity of Snow - Parallax Meshes  
+Spaghetti's Palaces - AIO  
+Spaghetti's Orc Strongholds - AIO  
+Skyrim Skill Uncapper for SE and AE  
+Sekiro Combat S  
+[E] Sekiro Combat S - Valhalla Blocking  
 
 
 
 -Removed- 
 [O] SSEEdit Output  
 [O] Creation Kit Output  
-  
+ The Whispering Door QE - EVGAT Patch  
+ EVG Animated Traversal - Patch Collection  
+ EVG Animated Traversal Skyrim Integration Patch  
+ EVG Animated Traversal  
+ Animated Eating Redux SE edition - Settings Loader  
+ Animated Eating Redux - Basic Dining Set Tankard Patch  
+ Realistic HD Misc Remastered  
+ Basic Dining Set Replacer 2k  
+ Animated Eating Redux  
+ Immersive Interactions - Animated Actions - Legacy Settings Loader  
+ Immersive Interactions - Animated Actions  
+ Dragon War - A Dragon Overhaul  
+ Lawless Patch FOMOD  
+ Lawless Simonrim  
+ Lawless - A Bandit Overhaul  
+ CBPC Equipment Physics Only player  
+ CBPC Equipment Physics  
+ CBPC - Physics with Collisions  
+ [E] Immersive Hunting Consistency Patch  
+ Thaumaturgy - Weapon Enchantment XP Tweak   
+ Remote Interactions - Settings Loader  
+ Remote Interactions  
+ Taunt Your Enemies - Taunting Matters  
+ Capital of Hjaalmarch - CFTO Patch  
+ Capital of the Pale - CFTO Patch  
+ Carriage and Ferry Travel Overhaul - Fixes and Winterhold  
+ Carriage and Ferry Travel Overhaul  
+ Complemented Vanilla Smithing  
+ Immersive Hunting Overhaul  
+ Wait I know You - Forcegreet Tweak  
+ Runic Mage Armor- Flesh Replacer 2  
+ R.A.S.S. - Rain Ash And Snow Shaders  
+ Strange Runes - No ENB Lights  
+ Strange Runes  
+ Deathrattle - Maximum Carnage Audio Replacer  
+ [E] Remove Maximum Carnage Message  
+ Maximum Carnage - Settings Loader  
+ Maximum Carnage for SkySA and MCO  
+ Maximum Carnage  
+ Dust Effects by HHaleyy  
+ Rally's Candlelight and Magelight Fix  
+ Icy Windhelm  
+ Moons And Stars - Sky Overhaul SKSE  
+ AURORA S.E  
+ Rainbows SE  
+ [E] Shooting Stars - No leaflet  
+ Shooting Stars SE  
+ Picta Series - Improved Sky Meshes  
+ Improved Shadowmarks  
+ Forgotten Retex Project  
+ DRIP - Untarnished UI  
+ Menu and Load Smoke Removed for ENB  
+ AOS - EBT & True Storms Patch  
+ Enhanced Blood Textures  
+ Simplest Horses (and other mounts)  
+
 -Updated-  
 Simplicity of Sea to 0.6.0  
 Community Shaders to 0.5.0  
@@ -118,7 +184,7 @@ Mysticism - A Magic Overhaul to 2.3.2
 Aetherius - A Race Overhaul to 2.11.8  
 Mundus - A Standing Stone Overhaul to 1.11  
 CBPC - Physics with Collisions to 1.5.8  
-Immersive Equipment Displays to 1.7  
+Immersive Equipment Displays to 1.7.1    
 Antiquary - Enhanced Artifacts to 2.3.2  
 The Only Cure - Quest Expansion to 1.02  
 House of Horrors - Quest Expansion to 1.11  
