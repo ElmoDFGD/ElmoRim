@@ -30,7 +30,7 @@
 
 ## What is ElmoRim?  
  
-ElmoRim is for players who want to **enhance their Skyrim experience** without adding massive amounts of content or complex mechanics. A **compact and performance-friendly** list that offers **improved visuals, modernized combat**, and **increased immersion**.
+ElmoRim is for players who want to **enhance their Skyrim experience** without adding massive amounts of content or complex mechanics. A **compact and performance-friendly** list that offers **improved visuals and modernized combat**.
 
 This readme provides instructions for installing and configuring ElmoRim.
 
