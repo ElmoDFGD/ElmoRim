@@ -20,8 +20,7 @@
     - [Game folder](#game-folder)
     - [Antivirus exceptions](#antivirus-exceptions)
     - [Compatibility settings](#compatibility-settings)
-    - [Optional: Gamepad support](#optional-gamepad-support)
-    - [Optional: Widescreen support](#optional-widescreen-support)
+    - [Optional: Gamepad &support](#optional-gamepad-support)
   - [Playing the list](#playing-the-list)
     - [Starting the game](#starting-the-game)
   - [Removing the modlist](#removing-the-modlist)
@@ -191,8 +190,8 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
 
 </details>
 
-### Optional: Gamepad & Ultrawide support
-ElmoRim features mods that provide gamepad & ultrawide support. Activate the corresponding mods under the **Ultrawide & Gamepad Support** separator.
+### Optional: Gamepad support
+ElmoRim features mods that provide basic gamepad support. Activate the corresponding mods under the **Gamepad** separator.
 
 ## Playing the list
 
@@ -202,7 +201,7 @@ ElmoRim features mods that provide gamepad & ultrawide support. Activate the cor
   If the message *Registry Key does not match* appears, press 
   `Yes`. Once it's launched, there will be a dropdown box on the top right and a big run button next to it.
  
- - Launch the *ElmoRim* executable in MO2
+ - Launch the *SKSE* executable in MO2
 
 ### MCM configuration
 Almost all of ElmoRim's MCM menus are pre-configured. This section outlines the few mandatory manual settings that are required.
