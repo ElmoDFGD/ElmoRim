@@ -11,9 +11,7 @@
 		"Compact",
 		"Performance",
 		"Combat",
-		"Visuals",
-		"Immersion"
-
+		"Visuals"
 	],
 	"nsfw": false,
 	"image_contains_title": false,
