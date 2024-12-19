@@ -1,7 +1,7 @@
 [{
 	"$type": "ModListMetadata, Wabbajack.Lib",
 	"title": "ElmoRim",
-	"description": "ElmoRim is for players who want enhanced visuals, combat and immersion with solid performance and minimal content additions.",
+	"description": "ElmoRim is for players who want enhanced visuals & combat with solid performance and minimal content additions.",
 	"author": "Elmo",
 	"maintainers": [
 		"github/elmoDFGD"
