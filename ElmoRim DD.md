@@ -1,19 +1,13 @@
 # ElmoRim Wabbajack Dev-Diary
 ## backlog
- 
-* check OCPA updates
-* Video guide w/ biggie
-* fxambbeamdust02.nif
-* bloodskaal wiki
-* Check vampire carry weight incremental injuries
-* Ownership flags and harvesting
-* unlock dravins bow
-* waterskin levelled lists
-* Ai overhaul lite + spid protection
-* Dragon war -> Deadlier dragons
-* Update FWMF
-* reinstall ssos
-
+* https://dyndolod.info/Mods/Community-Shaders
+* github simplest horse teleport instruction
+* IED & weapons styles in wiki & import missile
+* https://thephoenixflavour.com/bg/additional-modules/regenerating-facegen/
+* Bloodskal in wiki
+* pintreeshrub clipping at bilegulch mine rampart
+* test torch bash
+* Interaction bug in wiki
 
 ## Version update checklist
 1. Re-compile w/ new version number
@@ -26,46 +20,277 @@
 
 
 ## Changelog
----1.4.0---
+---2.3.0---  
+* ParallaxGen https://www.nexusmods.com/skyrimspecialedition/mods/120946?tab=description
+* Edge UI
+---2.2.0--- 
+* Quests: Jayserpa, cult of worldeater, defeat dragon cult 
+* test cult of worldeater, AYOP & defeat dragon cult
+* Bounty quests redone
+---2.1.0---  
+* movesets: vampire, werewolf, unarmed, katana
+* Werewolf encounters + canis
+---2.0.0e---
+*Balance & fixes*
+* Tidied up mod version/update management
+* Restored hotkey 1-9 functionality in controlmap.txt
+* Enabled reduced player poise damage in chocolate poise to fit with heavy armor perks
+* Timed blocks with a shield now properly give bonus xp
+* Max magicka now decreases faster upon magicka expenditure (Incremental Injuries). The purpose is to increase the magicka stat faster (Incremental Gains).
+*mod changes*
+* Updated powerofthree's Papyrus Extender
+* Updated Unofficial Skyrim Special Edition Patch - USSEP
+* Updated powerofthree's Tweaks
+* Upated CrashLogger
+* Updated Open Animation Replacer
+* Updated Spell Perk Item Distributor
+* Updated SkyPatcher 
+* Updated FormList Manipulator
+* Updated Keyword Item Distributor
+* Updated More Informative Console
+* Updated Better Third Person Selection - BTPS
+* Updated Clutter Filter for BTPS
+* Updated Infinity UI
+* Updated Compass Navigation Overhaul
+* Updated OxygenMeter2
+* Updated HD Local Map
+* Updated Simpler Knock (and leaflet patch) 
+* Updated Particle Patch
+* Updated Static Mesh Improvement Mod Improvement Mod
+* Updated Simplicity of Snow
+* Updated Simplicity of Snow - Parallax meshes
+* Updated Happy Little Trees
+* Updated Missile's IED Preset  
+* Updated Bloodskal Blade - Tweaks and Enhancements
+* Updated Happy Little Trees Add-On - DynDOLOD 3   
+* Updated Skyland Bits and Bobs - A Clutter Overhaul
+* Updated ENB Lights For Effect Shaders
+* Updated Embers XD
+* Updated Vibrant Weapons EAE
+* Updated Faster HDT-SMP
+* Updated Adamant - A Perk Overhaul
+* Updated Mysticism - A Magic Overhaul
+* Updated Mundus - A Standing Stone Overhaul
+* Updated Artificer - Xavbio Textures Addon
+* Updated Run For Your Lives
+* Updated Detection Meter
+* Updated Misc Dialogue Edits
+* Updated Experience
+* Updated Incremental Gains
+* Updated aljo's Artificer Patches
+* Updated Skyrim Unbound Reborn
+* Updated EVG Conditional Idles
+* Updated Modern Combat AI
+* Updated Precision Creatures
+* Added Vanilla Hair Remake
+* Added Vanilla hair remake SMP - NPCs
+* Added the _ResourcePack because USSEP now requires it
+* Added Azurite Mists
+* Added Azurite Weathers II
+* Added Simpler Knock - USSEP Patch
+* Added Artificer - USSEP
+* Added Edryu's Widget
+* Added IWant Widgets NG
+* Added IWant Widgets
+* Added Open World Loot - Encounter Zone and Loot Overhaul
+* Added OWL Randomized Special Loot
+* Added Animals Report No Crime - SkyPatcher
+* Added Torch Bash Ignites Traps
+* Added True Directional Movement Lock-On Fixes
+* Added Skyrim De-bearer
+* Added sneak Alarm Time Tweak SE
+* Added Immersive Sounds - Compendium
+* Added Immersive Sounds Compendium - Sound Record Distributor...ded
+* Added Audio Overhaul Skyrim - Immersive Sounds Compendium Integration
+* Added Nordic Faces - FaceGen - BSA
+* Added Nordic Faces
+* Added SUEMR No Beast Race Glow SSE
+* Added High Poly Vanilla Body
+* Added Faithful Faces - Creation Club NPC Overhaul
+* Added Expressive Facial Animation -Male Edition-
+* Added Expressive Facial Animation -Female Edition-
+* Added Closed Mouths for Orcs FOMOD
+* Added ADXP MCO Attack Data Transition Fix (ADTF)
+* Added Pandora Output
+* Added TK Dodge Animation Pandora Fix Patch
+* Added TK Dodge NG
+* Added TK Dodge RE Pandora
+* Added Pandora Behaviour Engine Plus
+* Added EVG Conditional Idles - Settings Loader
+* Added Unarmed Weapon Speed Scaling
+* Added Autosave After Combat
+* Added Untarnished UI - Unsquished Fix - C.O.C.K.S
+* Added C.O.C.K.S. for Skyrim 1.5
+* Added Constructible Object Custom Keyword System
+* Removed SoulsyHUD
+* Removed SoulsyHUD icon pack
+* Removed Keyword Patch Collection
+* Removed Object Categorization Framework
+* Removed Wheeler - Quick Action Wheel Of Skyrim
+* Removed Wheeler - Untarnished UI Edit
+* Removed Kill Caps Lock NG
+* Removed Vanilla Hair Fixes
+* Removed Natural Hair Colors
+* Removed [E] ElmoRim Experience Preset
+* Removed Wander - A Weather Mod
+* Removed True Storms Special Edition - Thunder Rain and Weather Redone
+* Removed True Storms Special Edition - No Fog
+* Removed dMenu
+* Removed Open World Loot - SkyPatched by SICreef
+* Removed [E] Adamant - Poise Integration. Replaced with Chocolate poise patch in [E] ElmoRim Patches
+* Removed Open World Loot - SkyPatched by SICreef
+* Removed OWL - SkyPatched Test Update
+* Reinstalled Extra Particle Lights Pack - No Meshes (LLF) to avoid redundant files due to Embers XD incompatibility
+*Tools*
+* Added Experience Synthesis patcher
+* Added Quests are in Skyrim Synthesis patcher
+* Updated xEdit
+* Updated Bethini
+* Reran Bethini w/ shadow resolution 1024. 64bit render disabled and grass density 60
+* Removed Curation Club
+* Added Creation Organizer
+* Swapped from Nemesis to Pandora
 
--Added-  
-Update for Skuldafn Paper Map for FWMF  
-Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE)  
+---2.0.0d---
+*balance & fixes*  
+* tweaked rotation mults for TDM for smoother combat feel
+* Bumped up bonus per book to 50% for Reading is Good
+* Swapped greatsword sprint attack animation to warhammer/battleaxe due to timing issue were attacking too quickly after a sprint power attack would mean npc didn't get hit by follow up attacks.
+*mod changes*   
+* Added Stamina of Shooting - drawing bow costs stamina
+* Swapped Loki poise for chocolate poise due to better creature compatibility and smoother regen system.
+* Added Bloodskal Blade - Tweaks and Enhancements to fix (somewhat) Bloodskal/MCO incompatibility.
+* Added SB - Better Blending Helgen Mud
+* Added Skip Time Wound Scene
+* Added Simplicity of Seeding
+* Added LeveledList Crash Fix
+* Added LeveledList Crash Fix for Skyrim 1.5
+* Added Alchemy XP Fix
+* Fixed dependencies for [E] Easier harder quests
+* Removed some quest mods to be added in later update
+* Removed Skyvalor and related mods
+* Removed My Minimalistic Autosave Mod, will use game autosaves instead
+* Removed Enemy Magelock
+* Removed TK Dodge RE (Shorter step dodge). Thank you nomad for bringing this to my attention!
+* Removed Sekiro Combat S - Poise Compatibility Patch
+* Removed [E] AOS - EBT - Dynamic Impact Patch. Letting DI win all conflicts because works well and can't be bothered to patch
+* Swapped to new Oxygen Meter 2 UI patch
+---2.0.0c---  
+*fixes*
+* Improved performance by hiding SmokeParticles01.ini in Extra Particle Lights Pack - No Meshes (LLF)
+* Finally remembered to turn off Precision debug before uploading
+* Better targeting by tweaking attack rotation mults in TDM
+* Fixed sprint attack transitions(!!!) by adding ADXP 1.6.0.6 Bug fix (Unfortunately not compatible with Smooth Input but I prefer this for consistency)
+* Left hand sheaths by adding IEDmesh synthesis patcher
+* Hid skyhud charge meter to avoid duplicate function with SoulsyHUD
 
--Removed- 
-  
--Updated-  
-Simplicity of Sea to 0.6.0  
-Community Shaders to 0.5.0  
-Grass Lighting to 1.2  
-Grass Collision to 1.0.2  
-Screen-Space Shadows to 1.0.1  
-Immersive Interactions - Animated Actions to 1.72  
-Flat World Map Framework to 1.87  
-Paper Skyrim and Solstheim World Maps by Mirhayasu for FWMF to 1.73
-Forgotten Vale Paper Map for FWMF to 1.8  
-Soul Cairn Paper Map for FWMF to 1.8  
+*mod changes*
+* Added Enhanced Blood Textures LITE
+* Added Less Blinding Deflickered Light Spells Mysticism
+* Added Armor Rating Recalculator - SkyPatcher - Basic
+* Added OCPA and MCO bugfixes
+* Added Splashes Of Storms because it is neat
+* Added CFTO
+* Added Immersive patrols
+* Removed [E] No directional power attacks
+
+---2.0.0b---  
+*fixes*  
+* sword light sprint attack window by using different animation
+* Killmove bug by switching to nemesis
+* freeze on cell change by switching to load screen truce  
+* Sprint power attacks inconsistency by switching to ocpa-ng 1.11  
+* Proper stat gain on levelup by loading hardcore gains after skyvalor
+* No simpler knock pamphlet to player by editing and recompiling script
+* replaced Curios with curios by running Skyrim through Steam and downloading the correct version - Credits to Biggie
+* removed vanargand sneak attacks due to not working well with mco and converter being down
+
+*mod changes*  
+* Added appearance mods
+* Updated community shaders
+* Added Skyrim Unbound and AYOP - Skyrim Unbound  
+* Added texture packs such as aMidianborn Book of Silence SE
+
+*ini edits*  
+* Skyrimprefs.ini
+* fLightingOutputColourClampPostEnv = 9999.0000
+* fLightingOutputColourClampPostLit = 9999.0000
+* fLightingOutputColourClampPostSpec = 9999.0000
+
+* skyrimcustom.ini
+* bIBLFEnable=1
+* uIBLFBlurRadiusX = 9.0000
+* uIBLFBlurRadiusY = 9.0000
+* fIBLFLightsRangeDownshift = 0.0000
+* fIBLFGlobalIntensity = 0.3000
+
+---2.0.0a---  
+*Install and downgrade to 1.5.97*  
+Clean install of Skyrim (not CK) https://thephoenixflavour.com/bg/additional-modules/clean-install/  
+Downloaded and Ran Keyzma's MO2 installer https://www.nexusmods.com/site/mods/599    
+* Portable
+* Stock game
+* Keep installers
+* Wabbajack
+* Curation Club MO2 plugin
+* Root Builder MO2 plugin
+Added binkw64.dll, old exes and old steam_api.dll from old ElmoRim     
+Removed bink2w64.dll    
+Removed all texture .bsas  
+Ran curation club and deleted everything except 4 free cc 
+Switched to dark1809 theme in mo2  
+Enabled archive parsing in mo2 settings  
 
 
--Tweaks & Settings-  
-Removed waterskins from levelled lists  
-Regenerated Synthesis Output  
-Added Roll of Paper to merchants   
-Merged SSE Display Tweaks config with main mod  
-Renamed SKSE Scripts to [R] SKSE 
-Added SKSE.ini
-Cleaned up root folder - moved CK files to [R] CK - Fixes  and SKSE files to [R] SKSE  
-Renamed [R] CK - Fixes to [R] Creation Kit Fixes & ini files  
-Renamed CK - Source to Creation Kit - Source & Dialogue Views 
-Moved Quick Light SE Alternate Meshes to Gameplay-separator  
-Moved RaceMenu to Appearance-separator   
-Deleted all Dragon War patches and tweaks  
-Merged Dayspring Canyon map marker mod w/ main file  
-Rebuilt Stock Game folder to fix creations not being recognised properly  
-Disabled DOF  
-Merged Scrambled Bugs - Soul Gem Too Small w/ main file  
-Reinstalled Simple Smithing Overhaul Simplified  
+*Install Creation Kit & Fixes*
+Downloaded latest CK on Steam
+Created [R] Creation Kit
+Moved files/folders to Root folder in mod:
+* lex
+* papyrus compiler
+* Tools
+* Bink2w64.dll
+* CreationKit.exe
+* CreationKit.ini
+* flowchartx64.dll
+* p4com64.dll
+* SkyrimReservedAddOnIndexes.txt
+* Steam_api64.dll
+Unpacked scripts.zip in mod folder
+Added three lines to creationkit.ini:
+* bAllowMultipleMasteFiles=1
+* bAllowMultipleMasterLoads=1
+* sScriptSourceFolder = ".\Data\Scripts\Source"
+Rearranged CK scripts structure to match ini setting    
 
+*Added mods & tools*   
+xEdit w/ -c:"C:\ElmoRim 2\Tools\SSEEdit 4.1.5\cache\" -IKnowWhatImDoing command line  
+Complete Papyrus Syntax Highlighting for NotepadPlusPlus to NPP install dir   
+[R]Skyrim Script Extender (SKSE64)  
+Bethesda Plugin Manager for Mod Organizer (MO2 plugin)  
+BethIni + ran w/ high settings   
+Installed HavokPcXsContentTools_X64_2010-2-0_20101115 to C:\Tools from link in https://www.youtube.com/watch?v=U88C9K-mSHs  
+Downloaded and installed hkanno64 to general Skyrim modding folder
+hkanno64 Batch cmd dump or update: created Source folder in hkanno64 root + placed batch files in hkanno64 root  
+* Additional note: Moved mco_sprintpowerattack (Eivor Sprint attack mod, battleaxe/warhammer) to source folder
+* ran dump.bat
+* edited precision-annotations to remove weapon nod earlier (see precision mod page)
+* Ran update.bat
+* Moved updated file back to mod folder
+Installed Backported Extended ESL Support  
+Installed reshade w/ addon support from reshade.me
+* Shaders downloaded separately from respective github page->get static link via latest commit->view code->download zip
+Downloaded and installed SkyUI 5.1 & 5.2 Source (not included in WJ list)  to general Skyrim modding folder
+Pandora behavior engine from monitor144hz's github  
+fBookOpenTime=200 added to skyrim.ini  
+Draft Whatever.ini - Main (xEdit Script)  
+Draft Whatever.ini - Example - Preset  
+Untelden's xEdit Script Library  
+
+*Ini edits*
+Skyrim.ini
+* [VATS]
+* bVATSDisable=1
 ---1.3.0RC3---
 
 -Tweaks & Settings-  

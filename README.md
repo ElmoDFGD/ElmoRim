@@ -24,16 +24,6 @@
     - [Optional: Widescreen support](#optional-widescreen-support)
   - [Playing the list](#playing-the-list)
     - [Starting the game](#starting-the-game)
-    - [MCM configuration](#mcm-configuration)
-  - [FAQ](#faq)  
-    - [Q: The equipment widget is poorly positioned](#q-the-equipment-widget-is-poorly-positioned)
-    - [Q: What madman uses this control scheme?](#q-what-madman-uses-this-control-scheme)
-    - [Q: BUG!](#q-bug)
-    - [Q: I can't level up, what do I do?](#q-i-cant-level-up-what-do-i-do)
-    - [Q: How do I start the main questline?](#q-how-do-i-start-the-main-questline)
-    - [Q: When do dragons start spawning?](#q-when-do-dragons-start-spawning)
-    - [Q: How do I become the thane of Whiterun?](#q-how-do-i-become-the-thane-of-whiterun)
-    - [Q: How do I enable my crosshair?](#q-how-do-i-enable-my-crosshair)
   - [Removing the modlist](#removing-the-modlist)
   - [Contact](#contact)
   - [Credits and thanks](#credits-and-thanks)
@@ -44,28 +34,7 @@ ElmoRim is for players who want to **enhance their Skyrim experience** without a
 
 This readme provides instructions for installing and configuring ElmoRim. A detailed gameplay guide, issue tracker and options for tweaking game settings can be found in the [ElmoRim wiki](https://github.com/ElmoDFGD/ElmoRim/wiki).
 
-> Disclaimer: ElmoRim puts vanilla content at center stage. However, it is first and foremost Skyrim the way I, Elmo, want it. So if a certain mod is included, it is because I want it there.
-
-## Feature overview
-ElmoRim consists of around 650 mods. This overview provides an idea of what to expect from the list.
-|    Feature    |                                     Core Mods                                             |  
-|     :---:     |                                      :---:                                                |  
-| **Visuals**   | Skyland AIO w/ parallax, Modular Armory, Azurite Weathers, Reshade, Community Shaders     |    
-| **Combat**    | MCO, Valhalla, Precision, Hand Placed Enemies                                             |  
-| **Gameplay**  | SimonRim, Experience, ElmoRim Lite Needs*                                                 |  
-| **Quests**    | Skyrim Unbound, JaySerpa's Quest Expansion-series, At Your Own Pace                       |  
-| **Immersion** | Immersive interactions, EVG Animated Traversal, Animated Eating Redux                     |  
-| **Audio**     | AOS, ISC, Regional Sounds Expansion, Yet Another Music Merge                              |  
-|   **UI**      | Untarnished UI, BTPS, Lamas Tiny HUD                                                      |  
-| **New lands** |                                       Nope                                                |  
-|**Followers**  |                                       Nope                                                |  
-| **NSFW**      |                                       Nope                                                |  
-
->*Not a mod but a combination of features from several mods. Read the [wiki](https://github.com/ElmoDFGD/ElmoRim/wiki/Welcome-to-the-ElmoRim-wiki#gameplay) to find out more.
-
 ## Pre-installation
-
-
 
 ### System requirements
 
@@ -79,7 +48,7 @@ Key phrase being **"individual set up"**.
 
 With that said, ElmoRim has been carefully designed to offer a balance between visual quality and performance.
 
-The list was developed on an upper-mid tier laptop with the following specs:
+The list was developed on an mid tier laptop with the following specs:
 
 |   Category      |       Specs         |    
 |     :---:       |       :---:         |    
@@ -90,10 +59,6 @@ The list was developed on an upper-mid tier laptop with the following specs:
 
 With these specs the game runs at 60fps@1440p.
 
-Recommendations on how to tweak the balance between visual quality and performance are provided [in the wiki](https://github.com/ElmoDFGD/ElmoRim/wiki/Welcome-to-the-ElmoRim-wiki#tweaking-the-game-settings).
-
-Modlist size: Ca 150 GB including downloads.  
-
 ### Software setup 
 The first step of installing ElmoRim is making sure all required software is installed and that Steam is configured correctly.
 
@@ -102,12 +67,6 @@ The first step of installing ElmoRim is making sure all required software is ins
 3. Disable Steam [auto-updates](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 4. In Steam, right click on Skyrim SE and click on *Properties*, untick `Enable Steam Overlay while in-game`.
 5. Start Skyrim through Steam. Exit after loading into the main menu.
-
-
-### Install Creation Kit: Special Edition
-Install [Skyrim Special Edition: Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) through Steam. 
-> Make sure to install the correct version of the Creation Kit. It should be named exactly as the link!
-> 99% of installation errors are due to not performing this step correctly.
   
 ### Setting up pagefile
 
@@ -229,80 +188,11 @@ If using Windows Defender, it is advised to set up an Exception for the modlist.
  7. Click the `Add an exclusion` button at the top and choose *Folder*.
  
  8. Navigate to your Install folder for the list and click `Select Folder`.
- 
- 9. **(OPTIONAL)** Repeat these steps for the ModOrganizer.exe ("Path to Modlist"\ModOrganizer.exe), the Nemesis Executable ("Path to Modlist"\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe), and Synthesis ("Path to Modlist"\tools\Synthesis\Synthesis.exe)
 
 </details>
 
- ### Compatibility settings
- Nemesis, xLODGen and DynDOLOD have a tendency to fail even when added to virus exceptions. To avoid this issue, complete the following steps:
-
- <details>
-  <summary><strong>Click here to see required steps</strong></summary> 
-
- 1. Navigate to the Nemesis Executable.
- 
- 2. Right click on the Nemesis Executable, select *Properties*.
- 
- 3. Go to the *Compatibility* tab.
- 
- 4. Under the *Compatibility mode* section, check `Run this program in compatibility mode for:` and select  
-  *Windows 8* from the dropdown menu. 
- 
- 5. Click `Apply` and then `OK`.
- 
- 6. Repeat steps 1-5 for xLODGenx64.exe and DynDOLODx64.exe (These are located in "Path to Modlist"\tools..)
-
- </details>
-
-
-### Optional: Gamepad support
-ElmoRim features mods that provide gamepad support. Activate the corresponding mods under the **Ultrawide & Gamepad Support** separator and complete the following steps:
-
-<details>
-<summary><strong>Click here to see required steps</strong></summary>
-
-* Disable the mod [E] Controlmap under the *Controls* separator.  
-* Configure hotkeys. Credits to user Ego the Negus on the ElmoRim discord for these settings:
-
->
->"In the tk dodge re ini set the dodgekey to 277(The B button on the Xbox controller). You have to also reset the lock on button in the True Directional Movement MCM. After that everything should be working fine." 
->
-</details>
-
-
-
-### Optional: Widescreen support
-
-ElmoRim features mods that provide widescreen support. Activate the corresponding mods under the **Ultrawide & Gamepad Support** separator and complete the following steps:
-
-<details>
-<summary><strong>Click here to see required steps</strong></summary>
-
-From [Untarnished UIs](https://www.nexusmods.com/skyrimspecialedition/mods/75188) modpage:
-
->
->"Most menus have native ultrawide support, thanks to Dear Diary Dark Mode. However, you will need to position some of the elements from SkyHUD and TrueHUD manually.
->
->SkyHUD (located in Data/interface/skyhud/skyhud.txt) (requires a restart)
-fMessageInfoPosX (right-aligned, increase).
->
->TrueHUD (located in the MCM)
->Player Widget Anchor X (left-aligned, decrease).
->Recent Loot Anchor X (right-aligned, increase).
->
->21:9 configurations
->* fMessageInfoPosX=1030
->* Player Widget Anchor X = -0.155
->* Player Loot Anchor X = 1.17"
->
-
-From [Lamas Tiny HUD](https://www.nexusmods.com/skyrimspecialedition/mods/82545) modpage:  
->"Position of Image Width" and "Position of Image Height" moves the whole HUD
-2560x1440 should be around 2425 and 1250 (position I have in the Videos)
-Config default values are 140 and 140.
-1920x1080 the right Bottom should be something like at 1780-1.785 and 890-940
-</details>
+### Optional: Gamepad & Ultrawide support
+ElmoRim features mods that provide gamepad & ultrawide support. Activate the corresponding mods under the **Ultrawide & Gamepad Support** separator.
 
 ## Playing the list
 
@@ -323,90 +213,10 @@ ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mod
   - It is possible to choose whether or not the player is the Dragonborn and, if they are not, whether or not they are able to use shouts. 
   
 * Once finished setting up the MCM, click *Start Your Adventure* under the *Main* tab to start chargen.
-  - If the player character is frozen in RaceMenu, swap race or gender and swap back to unfreeze them. This is an issue with DAR Cacheing.
-
 
 * Once finished with chargen, choose *Continue* to start the game.
 
-#### Optional MCM settings
-In addition to the mandatory settings, several optional tweaks are available:
-
-<details>
-  <summary><strong>Click here to see optional MCM Tweaks</strong></summary>
-
-
-##### AYOP mods
-
-##### Cathedral Weather
-
-##### One Click Power Attack
-Set key for power attacks by configuring *ForceRightKey*. Default: `MB4`.
-> If the settings don't take effect, trigger a loading screen by going through a door/fast traveling. 
-
-##### Swiftly Order Squad
-Configure Hotkeys for summoning, opening follower inventory etc. Default: `B`
-
-##### Weapon Styles - DrawSheathe Animations
-Configure equipping animations. 
-
-<details>
-<summary><strong>Click here to see detailed instructions</strong></summary>
-
-> ElmoRim comes with 2 [IED](https://www.nexusmods.com/skyrimspecialedition/mods/62001) profiles to match either standard or weapons-on-back setups. To configure weapons on back:
-> * Press `Backspace` to open the IED GUI
-> * Under *Gear positioning>Presets*, select *ElmoRim - Weapons on Back*
-> * Click `Apply` and confirm any prompts
-> * Under *Display Manager - Equipment>Preset*, select *ElmoRim - Weapons on Back*
-> * Click `Merge` and confirm any prompts
-
-
-![IED](https://github.com/ElmoDFGD/ElmoRim/blob/main/media/ElmoRimIEDConfig.png?raw=true)
-
-</details>
-
-##### Incremental Gains
-Set *Soft Cap Base* to 125.
-
-##### Skyrim Unbound  
-Dragons are set to appear after 7 to 21 days by default. They will appear at word walls before appearing in the wild. They can be configured to spawn faster/slower/instantly or spawn based on level instead.
- 
-##### Better Third Person Selection
-Enable/disable the filters that prevent the player from accidentally stealing items when trying to interact with the world.
- 
-##### Favourite Howls Menu  
-Customize which powers will be in the favorites menu (for werewolves).
- 
-##### Simplest Horses
-Customize *Horse Control hotkey*(Default: `V`).
-
-##### Sidequests Of Skyrim
-Configure available quests. Set quest chance. Limit questgivers to unique NPC's.
-
->The ingredient/shopping quests can be rather tedious and are disabled by default.
-  
-##### SmoothCam
-By default the list offers three presets:
-*  [Adventurer's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/59997) (Default setting)
-*  [Galuna´s Preset](https://www.nexusmods.com/skyrimspecialedition/mods/78397) 
-*  [Vanilla Enhanced 2](https://www.nexusmods.com/skyrimspecialedition/mods/82481)
-
->Vanilla Enhanced 2 preset locks the FOV and instead offers the option of toggling between normal and close-up modes. Default: `CapsLock`. 
->The FOV can be changed via console. Open up the console and type FOV *XX* where XX between 80-90 is a good range for most monitors.  
-
-##### Survival Control Panel
-Enable/disable *Sleep to level up*.   
-
-##### True Directional Movement  
-Customize *Target Lock* keybind here (Default `MB4`).
-
-##### Valhalla Combat
-  * Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them. 
-  * Timed Block: Enable or disable the *Tackle* mechanic (Default: `Disabled`).
-
-</details>
-
-
-### Congratulations, ElmoRim is now ready to go! Check out the [wiki](https://github.com/ElmoDFGD/ElmoRim/wiki/Welcome-to-the-ElmoRim-wiki) for a detailed gameplay guide, beginner tips and customization options.
+### Congratulations, ElmoRim is now ready to go!
 
 ## Updating the modlist
 
@@ -422,35 +232,6 @@ Updating is like installing the list. Simply check that the file paths are the s
 
 **ALWAYS back up saves before an update.**
 
-## FAQ 
-
-#### Q: The equipment widget is poorly positioned.
-
-A: Check the [widescreen](#optional-widescreen-support) section. Configure LamasTinyHud. 
-
-#### Q: What madman uses this control scheme?
-
-A: The controls can be reverted to vanilla by disabling [E] Controlmap.
-
-#### Q: BUG!
-
-A: If a suspected bug or weird behavior is encountered, check the [issue tracker](https://github.com/ElmoDFGD/ElmoRim/issues). If the issue isn't listed there, please register a new one.
-
-#### Q: I can't level up, what do I do?  
-A: You have Sleep to level up enabled, go sleep in a bed or disable it through Survival Control Panel in the MCM.
-
-#### Q: How do I start the main questline?  
-A: If you have chosen to be Dragonborn in the Skyrim Unbound MCM settings, then upon killing your first dragon, you will be summoned by the Greybeards. If you have chosen to NOT be the Dragonborn, then you can not proceed with the main questline.
-
-#### Q: When do dragons start spawning?  
-A: By default, dragons are set to be delayed in their spawns from 7 to 21 days after you leave the starting room. By default, dragons will begin showing up at their Word Walls before you will encounter them in the wild.
-
-#### Q: How do I become the Thane of Whiterun?  
-A: Which quests are required to become Thane can be configured in the Skyrim Unbound MCM.  
-
-#### Q: How do I enable my crosshair?
-A: Disable the [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980) mod, under the *Interface* separator in MO2.
-
 ## Removing the Modlist
 Delete the ElmoRim folder.
 
@@ -462,7 +243,6 @@ Delete the ElmoRim folder.
 
 - _YOU_ for reading this.
 - Noggog for Mutagen and the xEdit team for xEdit and their tools.
-- Halgari and the WJ Team for this amazing platform.
+- Halgari and the WJ Team
 - Aljoxo, author of [Arisen](https://github.com/aljoxo/Arisen) for letting me use Arisens README as a template.
-- Phoenix, author of [The Phoenix Flavour](https://thephoenixflavour.com/) for letting me use the Appearance setup from [LotF](https://thephoenixflavour.com/skyrim-se/lotf/introduction/).
 - Maia, for teaching me Git and Markdown.
