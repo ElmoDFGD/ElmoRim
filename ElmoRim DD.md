@@ -30,6 +30,9 @@
 ---2.1.0---  
 * movesets: vampire, werewolf, unarmed, katana
 * Werewolf encounters + canis
+
+---2.0.1---  
+* Set gamepad mods to *Always enabled* in compiler
 ---2.0.0e---
 *Balance & fixes*
 * Tidied up mod version/update management
