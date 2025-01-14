@@ -30,7 +30,9 @@
 ---2.1.0---  
 * movesets: vampire, werewolf, unarmed, katana
 * Werewolf encounters + canis
-
+---2.0.2---
+* Fixed Pandora output path
+* Disabled Precision weapon capsules
 ---2.0.1---  
 * Set gamepad mods to *Always enabled* in compiler
 ---2.0.0e---
