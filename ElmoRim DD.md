@@ -1,13 +1,5 @@
 # ElmoRim Wabbajack Dev-Diary
 ## backlog
-* https://dyndolod.info/Mods/Community-Shaders
-* github simplest horse teleport instruction
-* IED & weapons styles in wiki & import missile
-* https://thephoenixflavour.com/bg/additional-modules/regenerating-facegen/
-* Bloodskal in wiki
-* pintreeshrub clipping at bilegulch mine rampart
-* test torch bash
-* Interaction bug in wiki
 
 ## Version update checklist
 1. Re-compile w/ new version number
@@ -21,15 +13,87 @@
 
 ## Changelog
 ---2.3.0---  
-* ParallaxGen https://www.nexusmods.com/skyrimspecialedition/mods/120946?tab=description
 * Edge UI
 ---2.2.0--- 
 * Quests: Jayserpa, cult of worldeater, defeat dragon cult 
 * test cult of worldeater, AYOP & defeat dragon cult
 * Bounty quests redone
----2.1.0---  
 * movesets: vampire, werewolf, unarmed, katana
 * Werewolf encounters + canis
+---2.1.0---  
+*added*  
+Terrain Shadows - Heightmaps  
+Terrain Shadows  
+Screen Space Global Illumination (SSGI)  
+Cloud Shadows  
+Skylighting  
+Vibrant Weapons EAE - Enchantment Lights  
+PG Patcher  
+Better Dynamic Snow SE  
+Better Dynamic Ash SE  
+Happy Little Trees - Better Dynamic Ash Patch  
+Skyland PBR  
+Light Placer  
+CS Lights  
+Placed Light  
+Embers XD Patched meshes for Light Placer  
+NAT.ENB - ESP WEATHER PLUGIN v3.1.1C - Fixed  
+NAT.CS III  
+Mists of Tamriel  
+Mists of Tamriel NAT III patch  
+Mist of Tamriel - NAT CS Patch  
+[O] PG Patcher Output  
+
+*removed*  
+Shadow Boost  
+TAA Sharpen  
+Grass Sampler Fix  
+Simplicity of Snow  
+Simplicity of Snow - Parallax Meshes  
+Skyland Landscapes Complex Parallax  
+Soft Shadows  
+[R] Reshade Shaders & dll  
+SSE ReShade Helper  
+Auto Parallax  
+Tree LOD Lighting  
+Vanilla HDR  
+Light Limit Fix - Candle Glow  
+Water Parallax  
+Water Caustics  
+Sky Reflection Fix  
+Dynamic Cubemaps  
+Dynamic Cubemaps - Metals  
+Vende's The Most Unimpressive Reshade Presets - Azurite Weathers II  
+ENB Lights For Effect Shaders  
+Misc Effects ENB Light  
+LLF Particle Lights instead of Fake Glow - Embers XD Static Flame Fix  
+Extra Particle Lights Pack - No Meshes (LLF)  
+Realistic Skin And Hair Shaders - Giants  
+Realistic Skin Shaders - Falmer and Hagravens  
+Azurite Weathers II  
+Azurite Mists  
+Standard Lighting Templates  
+Some Standard Lighting Templates patches - Saints and Seducers Extended Cut  
+
+*updated* 
+Po3 Tweaks  
+Community Shaders  
+Grass Lighting  
+Grass Collision  
+Screen-Space Shadows  
+Light Limit Fix  
+Subsurface Scattering  
+Wetness Effects  
+Water Effects  
+SkyPatcher  
+Synthesis  
+
+*config*  
+Reinstalled embers xd to comply with placed lights  
+set fSkyCellRefFadeDistance=655360.0000 in skyrimprefs.ini according to Mists of Tamriel  
+Removed standard lighting templates patch  
+
+
 ---2.0.2---
 * Fixed Pandora output path
 * Disabled Precision weapon capsules

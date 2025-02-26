@@ -203,8 +203,8 @@ ElmoRim features mods that provide basic gamepad support. Activate the correspon
  
  - Launch the *SKSE* executable in MO2
 
-### MCM configuration
-Almost all of ElmoRim's MCM menus are pre-configured. This section outlines the few mandatory manual settings that are required.
+### Configuration
+Almost all of ElmoRim's menus are pre-configured. This section outlines the few mandatory manual settings that are required.
 
 #### Skyrim Unbound
 ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) as the alternate start mod.
@@ -214,6 +214,9 @@ ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mod
 * Once finished setting up the MCM, click *Start Your Adventure* under the *Main* tab to start chargen.
 
 * Once finished with chargen, choose *Continue* to start the game.
+
+#### Optional:  
+Set up [IED](https://www.nexusmods.com/skyrimspecialedition/mods/62001) as desired. Default key: `F10`  
 
 ### Congratulations, ElmoRim is now ready to go!
 
