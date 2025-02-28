@@ -74,6 +74,7 @@ Azurite Weathers II
 Azurite Mists  
 Standard Lighting Templates  
 Some Standard Lighting Templates patches - Saints and Seducers Extended Cut  
+Water blending  
 
 *updated* 
 Po3 Tweaks  
