@@ -23,6 +23,8 @@
     - [Optional: Gamepad &support](#optional-gamepad-support)
   - [Playing the list](#playing-the-list)
     - [Starting the game](#starting-the-game)
+  - [FAQ](#faq)  
+  - [Updating the modlist](#updating-the-modlist)  
   - [Removing the modlist](#removing-the-modlist)
   - [Contact](#contact)
   - [Credits and thanks](#credits-and-thanks)
@@ -220,6 +222,9 @@ Set up [IED](https://www.nexusmods.com/skyrimspecialedition/mods/62001) as desir
 
 ### Congratulations, ElmoRim is now ready to go!
 
+## FAQ
+Is the block key different ? My right mouse button dosent block.
+> In order to keep blocking consistent across combat styles, blocking using RMB is disabled. Use the hotkey designated by Dual wield parrying SKSE instead. Default key: `F10`
 ## Updating the modlist
 
 Before updating, please check the [changelog](https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md) and back up any saves. A new game may be required after certain updates. To check if an update is save safe or not, refer to the version number. The first digit indicates major version, second digit indicates minor version (these are unlikely to be save safe unless otherwise specified) and the third digit will represent bug fixes etc.
