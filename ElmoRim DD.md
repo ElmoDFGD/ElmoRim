@@ -12,6 +12,7 @@
 * Reinstalled arctic to fix visual bug. Credit to Dex!
 * Fixed double poison crash. Credit to haho123!
 * New fancy widgets by switching to STB Widgets.
+* Cleaned up wiki and readme.
 
 Save safe.
 
@@ -26,8 +27,6 @@ Save safe.
 * movesets: vampire, werewolf, unarmed, katana
 * Werewolf encounters + canis
 ---2.1.1---
-Recompiled to new wabbajack version
-
 *added*  
 * Wander & Wander HDR
 * FOMOD plus MO2 plugin
