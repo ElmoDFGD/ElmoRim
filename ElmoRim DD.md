@@ -1,6 +1,5 @@
 # ElmoRim Wabbajack Dev-Diary
 ## backlog
-
 ## Version update checklist
 1. Re-compile w/ new version number
 2. Upload new file to CDN
@@ -8,7 +7,13 @@
 4. pray  
 
 ## Update message
+* Switched back to Wander for a simpler weather setup. The new Wander HDR does wonders.
+* Updated Mo2 and plugins.
+* Reinstalled arctic to fix visual bug. Credit to Dex!
+* Fixed double poison crash. Credit to haho123!
+* New fancy widgets by switching to STB Widgets.
 
+Save safe.
 
 
 ## Changelog
@@ -20,6 +25,27 @@
 * Bounty quests redone
 * movesets: vampire, werewolf, unarmed, katana
 * Werewolf encounters + canis
+---2.1.1---
+Recompiled to new wabbajack version
+
+*added*  
+* Wander & Wander HDR
+* FOMOD plus MO2 plugin
+* STB Widgets
+
+*removed*  
+* NAT.CS and related mods
+* Edryu's widget and dependencies
+
+*updated*  
+* Reinstalled arctic to fix visual bug. Credit to Dex!
+* Updated Community Shaders and features
+* Set SSGI quality to low in CS to improve performance
+* Set poison=false in yesimsure.toml to fix poison crash.
+* updated MO2
+* updated bsplugins.dll with Aglowinthefields recompiled version and added link to source on githhub to comply with GPLv3
+
+
 ---2.1.0---  
 *added*  
 Terrain Shadows - Heightmaps  

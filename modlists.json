@@ -20,17 +20,18 @@
 		"$type": "Links, Wabbajack.Lib",
 		"image": "https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/media/ElmoRim_Sak_edit.png",
 		"readme": "https://github.com/ElmoDFGD/ElmoRim",
-		"download": "https://authored-files.wabbajack.org/ElmoRim%202.wabbajack_91bbe62c-4414-47ac-ae4c-29d6b4921634",
+		"download": "https://authored-files.wabbajack.org/ElmoRim%202.wabbajack_0c7b273d-2b7a-4625-b6f3-7be2f7d70a32",
 		"machineURL": "ElmoRim",
 		"discordURL": "https://discord.gg/6gGVgDYnBW"
 	},
 	"download_metadata": {
-		"Hash": "hV6Ba3MPxq4=",
-		"Size": 503073812,
-		"NumberOfArchives": 408,
-		"SizeOfArchives": 60305630632,
-		"NumberOfInstalledFiles": 48226,
-		"SizeOfInstalledFiles": 80330404356
-	},
-	"version": "2.1.0"  
+    "Hash": "BFnV0n0lC3s=",
+    "Size": 500938882,
+    "NumberOfArchives": 404,
+    "SizeOfArchives": 60115704422,
+    "NumberOfInstalledFiles": 44315,
+    "SizeOfInstalledFiles": 79964339789,
+    "TotalSize": 140080044211
+},
+	"version": "2.1.1"  
 }] 

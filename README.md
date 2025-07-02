@@ -9,7 +9,6 @@
   - [Pre-installation](#pre-installation)
     - [System requirements](#system-requirements)
     - [Software setup](#software-setup)
-    - [Install Creation Kit:Special Edition](#install-creation-kit-special-edition)
     - [Setting up pagefile](#setting-up-pagefile)
     - [Setting shader cache size](#setting-shader-cache-size)
   - [Installation](#installation)
@@ -20,7 +19,7 @@
     - [Game folder](#game-folder)
     - [Antivirus exceptions](#antivirus-exceptions)
     - [Compatibility settings](#compatibility-settings)
-    - [Optional: Gamepad &support](#optional-gamepad-support)
+    - [Optional: Gamepad support](#optional-gamepad-support)
   - [Playing the list](#playing-the-list)
     - [Starting the game](#starting-the-game)
   - [FAQ](#faq)  
@@ -218,7 +217,9 @@ ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mod
 * Once finished with chargen, choose *Continue* to start the game.
 
 #### Optional:  
-Set up [IED](https://www.nexusmods.com/skyrimspecialedition/mods/62001) as desired. Default key: `F10`  
+* Set up [IED](https://www.nexusmods.com/skyrimspecialedition/mods/62001) as desired. Default key: `F10`  
+* Configure [STB Widgets](https://www.nexusmods.com/skyrimspecialedition/mods/136148?tab=description) to suit monitor setup. Default key: `End`
+
 
 ### Congratulations, ElmoRim is now ready to go!
 
