@@ -7,22 +7,9 @@
   - [What is ElmoRim?](#What-is-ElmoRim)
   - [Feature overview](#feature-overview)
   - [Pre-installation](#pre-installation)
-    - [System requirements](#system-requirements)
-    - [Software setup](#software-setup)
-    - [Setting up pagefile](#setting-up-pagefile)
-    - [Setting shader cache size](#setting-shader-cache-size)
   - [Installation](#installation)
-    - [Wabbajack installation](#wabbajack-installation)
-    - [Downloading and installing ElmoRim](#downloading-and-installing-ElmoRim)
-    - [Problems with installation](#problems-with-installation)
   - [Post-installation](#post-installation)
-    - [Game folder](#game-folder)
-    - [Antivirus exceptions](#antivirus-exceptions)
-    - [Compatibility settings](#compatibility-settings)
-    - [Optional: Gamepad support](#optional-gamepad-support)
   - [Playing the list](#playing-the-list)
-    - [Starting the game](#starting-the-game)
-  - [FAQ](#faq)  
   - [Updating the modlist](#updating-the-modlist)  
   - [Removing the modlist](#removing-the-modlist)
   - [Contact](#contact)
@@ -30,7 +17,7 @@
 
 ## What is ElmoRim?  
  
-ElmoRim is for players who want to **enhance their Skyrim experience** without adding massive amounts of content or complex mechanics. A **compact and performance-friendly** list that offers **improved visuals and modernized combat**.
+ElmoRim is for players who want to **enhance their Skyrim experience** without adding massive amounts of content or complex mechanics. A **compact and performance-friendly** list that offers **improved visuals and modernized combat**. It is based off of [CSVO](https://github.com/InTheBottle/CSVO/blob/main/README.md).
 
 This readme provides instructions for installing and configuring ElmoRim. For gameplay tips, please see the [wiki](https://github.com/ElmoDFGD/ElmoRim/wiki/Welcome-to-the-ElmoRim-wiki).
 
@@ -38,17 +25,7 @@ This readme provides instructions for installing and configuring ElmoRim. For ga
 
 ### System requirements
 
-First a word about performance. [QuagaarWarrior](https://www.nexusmods.com/skyrimspecialedition/users/6411808), author of [QW's Grass Patch 2](https://www.nexusmods.com/skyrimspecialedition/mods/67785) and more, sums it up perfectly:
->I find discussions of performance a little pointless.  
-...   
-saying whether an individual mod is performance heavy or not is difficult because there are so many other factors at play such as the other mods you use, ENB, resolution you play at and your system specs to name just a few. 
-I encourage you to try the mod and see how it performs in your individual set up.
-
-Key phrase being **"individual set up"**.
-
-With that said, ElmoRim has been carefully designed to offer a balance between visual quality and performance.
-
-The list was developed on an mid tier laptop with the following specs:
+ElmoRim is based off of CSVO but runs at slightly lower settings by default. As such, anyone who can run CSVO can run ElmoRim.
 
 |   Category      |       Specs         |    
 |     :---:       |       :---:         |    
@@ -207,25 +184,11 @@ ElmoRim features mods that provide basic gamepad support. Activate the correspon
 ### Configuration
 Almost all of ElmoRim's menus are pre-configured. This section outlines the few mandatory manual settings that are required.
 
-#### Skyrim Unbound
-ElmoRim uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) as the alternate start mod.
-* Open up the Skyrim Unbound MCM menu after loading in. Customize Standing Stone, whether or not the player is a vampire/werewolf, equipment, spells and starting location.
-  - It is possible to choose whether or not the player is the Dragonborn and, if they are not, whether or not they are able to use shouts. 
-  
-* Once finished setting up the MCM, click *Start Your Adventure* under the *Main* tab to start chargen.
-
-* Once finished with chargen, choose *Continue* to start the game.
-
-#### Optional:  
-* Set up [IED](https://www.nexusmods.com/skyrimspecialedition/mods/62001) as desired. Default key: `F10`  
-* Configure [STB Widgets](https://www.nexusmods.com/skyrimspecialedition/mods/136148?tab=description) to suit monitor setup. Default key: `End`
-
+#### Paradigm
+ElmoRim uses [Paradigm](https://www.nexusmods.com/skyrimspecialedition/mods/85939) as the alternate start mod. Check the modpage and choose a suitable starting class.
 
 ### Congratulations, ElmoRim is now ready to go!
 
-## FAQ
-Is the block key different ? My right mouse button doesn't block.
-> In order to keep blocking consistent across combat styles, blocking using RMB is disabled. Use the hotkey designated by [Dual Wield Parrying SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/85505) instead. Default key: `F10`
 ## Updating the modlist
 
 Before updating, please check the [changelog](https://github.com/ElmoDFGD/ElmoRim/blob/main/ElmoRim%20DD.md) and back up any saves. A new game may be required after certain updates. To check if an update is save safe or not, refer to the version number. The first digit indicates major version, second digit indicates minor version (these are unlikely to be save safe unless otherwise specified) and the third digit will represent bug fixes etc.
@@ -249,8 +212,8 @@ Delete the ElmoRim folder.
 
 ## Credits and thanks
 
-- _YOU_ for reading this.
-- Noggog for Mutagen and the xEdit team for xEdit and their tools.
+- _YOU_ for reading this
+- dBottle for CSVO
 - Halgari and the WJ Team
 - Aljoxo, author of [Arisen](https://github.com/aljoxo/Arisen) for letting me use Arisens README as a template.
 - Maia, for teaching me Git and Markdown.

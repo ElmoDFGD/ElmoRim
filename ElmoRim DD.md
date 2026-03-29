@@ -1,23 +1,36 @@
 # ElmoRim Wabbajack Dev-Diary
 ## backlog
+
+
 ## Version update checklist
 1. Re-compile w/ new version number
 2. Upload new file to CDN
 3. Update modlists.json w/ jsonlint + new link
 4. pray  
 
-## Update message
-* Switched back to Wander for a simpler weather setup. The new Wander HDR does wonders.
-* Updated Mo2 and plugins.
-* Reinstalled arctic to fix visual bug. Credit to Dex!
-* Fixed double poison crash. Credit to haho123!
-* New fancy widgets by switching to STB Widgets.
-* Cleaned up wiki and readme.
+## CSVO update merge checklist
+1. Backup tool settings
+2. Backup profile files
+3. Add [NoDelete] to mods under ElmoRim-separators
+4. Update CSVO
+5. pray
+6. Run bethini w/ Medium preset + recommended tweaks
+7. Compare ini settings
+8. Compare modlists and plugin lists
+9. Merge settings
+10. Reconfigure tools
+11. Resolve new conflicts
+12. Remove [NoDelete] from mods under ElmoRim-separators
 
-Save safe.
+## Update message
 
 
 ## Changelog
+---3.0.0a---
+* Downloaded CSVO
+* Scrambled bugs settings according to B&B
+* Display tweaks & driver settings according to https://www.nexusmods.com/skyrimspecialedition/mods/154578?tab=description
+* Vsync in bethini + Medium preset + recommended tweaks
 ---2.3.0---  
 * Edge UI
 ---2.2.0--- 
